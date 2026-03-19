@@ -85,9 +85,16 @@ Lines like `relates_to::[[Target]]` are **labeled directed edges** in the knowle
 
 For the full concept, see [Garden Patch as Composable Knowledge Fragment](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html).
 
+### Patches as Forks
+
+Grafted nodes in a patch are **forks** of their source garden originals. As the patch grows — new connections to IFP content, refined explanations, additional context — the forked nodes diverge from their upstream versions. These changes can be **merged back** to the source garden, carrying insights discovered through the patch context. The patch is not a static copy; it is a living branch of the knowledge graph.
+
+This is analogous to a git fork: the patch starts as a subset of the source garden, develops in its own context, and produces changes that can flow upstream when ready.
+
 ---
 
 **Author**: Christopher Allen
 **Context**: Ongoing dialogue with Peter Kaminski about agency, AI, and structured knowledge
 **Source garden**: [Deep Context Architecture](domains/Deep%20Context%20Architecture.html) (not yet published)
+**Status**: This entire garden patch is at [\[\[Seed Stage\]\]](forms/Seed%20Stage.html) — initial creation with low confidence, intended to grow through dialogue and use.
 **License**: Same as the IFP repository

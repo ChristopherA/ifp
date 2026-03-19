@@ -60,3 +60,5 @@ The stack also applies to principal-agent relationships in augmentation systems.
 
 - relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The stack applies to knowledge work augmentation systems, not only digital identity.
+- relates_to::[\[\[Auditable Intermediaries Over Silent Proxies\]\]](../principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)
+  - Mandatory relay tracing in IFP is the technical enforcement layer in this three-part accountability stack.

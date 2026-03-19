@@ -81,3 +81,9 @@ IFP-2's status lifecycle (Draft → Proposed → Active) recognizes this tension
 
 - relates_to::[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](../decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)
   - Replacing Postel's Law is a load-bearing architectural decision — the kind that should be specified early.
+- relates_to::[\[\[Document Lifecycle Governance Heuristics\]\]](../models/Document%20Lifecycle%20Governance%20Heuristics.html)
+  - Wiki governance heuristics for splitting, merging, and deprecating documents apply to IFP specification evolution.
+- relates_to::[\[\[Living Documents Over Static Publications\]\]](../principles/Living%20Documents%20Over%20Static%20Publications.html)
+  - The living document principle grounds the argument for keeping tactical details revisable.
+- relates_to::[\[\[Status Lifecycle Tracks\]\]](../models/Status%20Lifecycle%20Tracks.html)
+  - IFP's Draft→Proposed→Active lifecycle is a maturity track comparable to garden stages.

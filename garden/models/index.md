@@ -10,7 +10,11 @@ Structural representations showing how elements relate to each other.
 
 **[Conversation Temperature as Protocol Cadence Spectrum](Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)** — How do conversation intensity levels shape protocol behavior across the same message format?
 
+**[Cross-Domain Document Lifecycle Parallels](Cross-Domain%20Document%20Lifecycle%20Parallels.html)** — Wiki, garden, and agent context — same lifecycle problems, different constraints
+
 **[Disclosure Tier Hierarchy for Persona-Peer Relationships](Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)** — How do disclosure tiers, personas, and peer relationships intersect to govern information sharing?
+
+**[Document Lifecycle Governance Heuristics](Document%20Lifecycle%20Governance%20Heuristics.html)** — Wiki split/merge/delete heuristics applied to garden tending and agent context maintenance
 
 **[Principal-Agent Relationship in Augmented Knowledge Work](Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)** — How principal authority maps to vault owner, Claude sessions, rules, and approval gates
 
@@ -18,4 +22,8 @@ Structural representations showing how elements relate to each other.
 
 **[Social Conversation Phases as Protocol Semantics](Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)** — How does a trust-building conversation progress through structured phases?
 
-*8 nodes in this section.*
+**[Status Lifecycle Tracks](Status%20Lifecycle%20Tracks.html)** — Three status tracks for three kinds of knowledge work — maturity, curation, and processing
+
+**[Vocabulary Lifecycle Through Tending](Vocabulary%20Lifecycle%20Through%20Tending.html)** — Growing vocabularies degrade without tending — weed, seed, and fertilize to maintain retrieval
+
+*12 nodes in this section.*

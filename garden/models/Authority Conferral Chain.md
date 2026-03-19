@@ -66,3 +66,5 @@ The classification serves as a diagnostic: given a system, which type describes 
 
 - relates_to::[\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html)
   - The predicates provide the technical layer; enforcement requires all three layers.
+- relates_to::[\[\[Agent as Human Proxy in Protocol Exchange\]\]](../glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html)
+  - The authority conferral chain formalizes the Human-Agent-Agent-Human delegation model that IFP operationalizes.

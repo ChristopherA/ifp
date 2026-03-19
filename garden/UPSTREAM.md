@@ -160,11 +160,11 @@ When you see a link marked with **⊙** in a garden node, it points here. The �
 
 **Deep Context Garden Conventions**: Practical conventions for the first deep context garden in this Obsidian vault. Hard line between tags (flat classification, no graph edges) and links (graph edges). Two-namespace tag system: type/ for document category, status/ for maturity. Topic tags explicitly rejected — wikilinks produce graph edges instead.
 
-**Deep Context Implementation Roadmap**: Iteration-by-iteration plan for building a Deep Context garden inside an Obsidian vault. Defines four phases — Foundation, Seed Graph, Content Migration, Publishing — each independently valuable. Uses predicate::[[target]] typed relations and targets an hour-a-day tending rhythm with agent assistance between sessions.
+**Deep Context Implementation Roadmap**: Iteration-by-iteration plan for building a Deep Context garden inside an Obsidian vault. Defines four phases — Foundation, Seed Graph, Content Migration, Publishing — each independently valuable. Uses predicate::[\[\[target\]\]⊙](EXTERNAL.html#:~:text=target) typed relations and targets an hour-a-day tending rhythm with agent assistance between sessions.
 
 **Structural Elements Within Forms**: Reference for knowledge types that don't warrant their own form type — ADR, Narrative, Warrant, Signal, Commitment, Lexicon entry, Tension/Paradox. Each has a home inside existing forms. Answers 'where does X go?' for the seven types that failed the standalone document test.
 
-**Typed Relations as Simple Graphs in Plain Markdown**: predicate::[[Target]] typed relations turn markdown files into a directed labeled graph with no database or schema. Plain wikilinks answer \
+**Typed Relations as Simple Graphs in Plain Markdown**: predicate::[\[\[Target\]\]⊙](EXTERNAL.html#:~:text=Target) typed relations turn markdown files into a directed labeled graph with no database or schema. Plain wikilinks answer \
 
 ### Research Form
 
@@ -208,11 +208,11 @@ When you see a link marked with **⊙** in a garden node, it points here. The �
 
 **Artifact Predicate for Binary Metadata**: The artifact:: predicate links a sidecar metadata file to the binary it describes, making the relationship explicit and graph-traversable. Agents find metadata for any binary by checking for a sidecar with artifact:: pointing to it.
 
-**Body Predicates for Meeting Attendees**: Meeting attendees are recorded as body predicates (attendee::[[Person Name]]) instead of YAML frontmatter lists. More verbose for large meetings but graph-traversable, enabling queries like 'which meetings did [[Person]] attend?' Person names as wikilinks create connections to Person Notes.
+**Body Predicates for Meeting Attendees**: Meeting attendees are recorded as body predicates (attendee::[\[\[Person Name\]\]⊙](EXTERNAL.html#:~:text=Person%20Name)) instead of YAML frontmatter lists. More verbose for large meetings but graph-traversable, enabling queries like 'which meetings did [\[\[Person\]\]⊙](EXTERNAL.html#:~:text=Person) attend?' Person names as wikilinks create connections to Person Notes.
 
 **Classification via Predicates Not Tags**: Classification uses body-level typed relations (is_a::, has_status::) instead of YAML tags. The general litmus test: is the value a fixed scalar or a connection to a defined concept? Scalars go in frontmatter fields, connections go in typed relations, subject matter goes in wikilinks. Tags produce sets; links produce graphs.
 
-**Custom Python Generator for Typed Relations**: Chose a custom Python static site generator (~150 lines, four-stage pipeline) over Quartz, Jekyll, Eleventy, and Pandoc for publishing a garden with predicate::[[target]] typed relations. Standard markdown parsers ignore wikilinks, typed inline relations, and typed block-level relations — the three syntax patterns the garden depends on. A single-file generator with no external parser dependencies handles exactly what's needed.
+**Custom Python Generator for Typed Relations**: Chose a custom Python static site generator (~150 lines, four-stage pipeline) over Quartz, Jekyll, Eleventy, and Pandoc for publishing a garden with predicate::[\[\[target\]\]⊙](EXTERNAL.html#:~:text=target) typed relations. Standard markdown parsers ignore wikilinks, typed inline relations, and typed block-level relations — the three syntax patterns the garden depends on. A single-file generator with no external parser dependencies handles exactly what's needed.
 
 **Deep Context as an Architecture for Captured Reasoning**: The decision to capture personal reasoning as typed markdown forms connected by predicates — not as fine-tuned models, retrieval-augmented documents, or tagged notes. Typed forms with structural contracts make reasoning traversable by agents; predicates make it navigable; progressive disclosure makes it fit in context windows.
 

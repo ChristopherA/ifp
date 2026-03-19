@@ -55,3 +55,5 @@ The digital garden movement established "continuous growth" as a core principle 
 - relates_to::[\[\[Pruned Stage\]\]⊙](../UPSTREAM.html#:~:text=Pruned%20Stage) — end-of-life for living documents; superseded, not deleted
 - relates_to::[\[\[Vault Content Graduation\]\]⊙](../UPSTREAM.html#:~:text=Vault%20Content%20Graduation) — vault content becomes a living document when it graduates to a garden node
 - relates_to::[\[\[Opus Form\]\]](../forms/Opus%20Form.html) — opus lead files are living documents by design; analysis can be revised when the work evolves
+- relates_to::[\[\[When to Specify and When to Explore in Protocol Evolution\]\]](../inquiries/When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)
+  - Living document philosophy grounds the argument for keeping tactical protocol details open for revision through implementation experience.

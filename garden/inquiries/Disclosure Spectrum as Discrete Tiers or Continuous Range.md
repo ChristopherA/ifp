@@ -60,3 +60,5 @@ This raises three related questions:
 
 - relates_to::[\[\[Convergence and Divergence Across Agent Application Platforms\]\]](Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)
   - Different platforms may need different disclosure vocabularies.
+- relates_to::[\[\[Vocabulary Lifecycle Through Tending\]\]](../models/Vocabulary%20Lifecycle%20Through%20Tending.html)
+  - Disclosure tier names are vocabulary that needs tending — weeding ambiguous names, seeding precise ones.

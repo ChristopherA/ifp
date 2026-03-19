@@ -40,3 +40,5 @@ IFP's agent model differs from autonomous AI agent frameworks where agents act i
 
 - relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - IFP agents operate primarily in the "autonomous" and "propose-and-approve" zones — they filter autonomously but propose recommendations for human approval.
+- relates_to::[\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html)
+  - The authority conferral chain formalizes the delegation model IFP agents operate within.

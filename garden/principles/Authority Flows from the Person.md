@@ -6,9 +6,9 @@ tagline: "Identity is delegable, not alienable — authority originates with the
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 
 # Authority Flows from the Person
 
@@ -34,11 +34,11 @@ The distinction matters because property framing enables identity markets. If id
 
 ## Relations
 
-- implements::[[Deep Context as an Architecture for Captured Reasoning]]
+- implements::[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)
   - The principle underlies the vault's commitment to human authority over augmentation.
 
-- relates_to::[[Principal Authority as Agency Law for Digital Identity]]
+- relates_to::[\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)
   - The gloss elaborates the legal framework this principle establishes.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The Deep Context Architecture principle that applies this Self-Sovereign Identity principle to knowledge work.

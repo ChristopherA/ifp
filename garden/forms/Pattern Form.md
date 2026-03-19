@@ -5,10 +5,10 @@ brief_summary: "Defines the Pattern form type: a problem-solution pair in Alexan
 tagline: "What resolves this recurring tension? — the structural contract for pattern forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Pattern Form
 
@@ -33,19 +33,19 @@ Naming heuristic: Alexandrian evocative — name the solution, lean toward image
 
 ## Typical Predicates
 
-- `is_a::[[Pattern Form]]`
-- `has_status::[[Seed Stage]]` or `[[Evergreen Stage]]`
+- `is_a::[\[\[Pattern Form\]\]](Pattern%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
 - `in_domain::[[Domain Name]]`
 - `extracted_from::[[Source Document]]` — provenance
 - `validated_by::[[Case Form]]` — evidence the pattern works
 - `composes_with::[[Related Pattern]]` — how patterns combine
-- `relates_to::[[Principle Form]]` — values the pattern embodies
+- `relates_to::[\[\[Principle Form\]\]](Principle%20Form.html)` — values the pattern embodies
 
 ## Exemplars
 
 - [[Progressive Summary Before Substance]] — Alexandrian structure with clear forces and resolution
 - [[Knowledge on Three Axes]] — cross-domain pattern with mapping table
-- [[Three-Part Enforcement Stack]] — pattern from Self-Sovereign Identity domain with enforcement layers
+- [\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html) — pattern from Self-Sovereign Identity domain with enforcement layers
 - [[Informal Edges Poison the Graph]] — anti-pattern naming: failure mode as a claim
 
 ## Category
@@ -54,11 +54,11 @@ Action form — captures *what to do* and *what happened*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 82-83.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 82-83.
 
 ## Relations
 
-- relates_to::[[Decision Form]] — decisions instantiate patterns in specific contexts
-- relates_to::[[Principle Form]] — principles compress patterns into standing constraints
-- relates_to::[[Model Form]] — models provide the structural context in which patterns operate
-- relates_to::[[Inquiry Form]] — inquiries that identify recurring dynamics may crystallize into patterns
+- relates_to::[\[\[Decision Form\]\]](Decision%20Form.html) — decisions instantiate patterns in specific contexts
+- relates_to::[\[\[Principle Form\]\]](Principle%20Form.html) — principles compress patterns into standing constraints
+- relates_to::[\[\[Model Form\]\]](Model%20Form.html) — models provide the structural context in which patterns operate
+- relates_to::[\[\[Inquiry Form\]\]](Inquiry%20Form.html) — inquiries that identify recurring dynamics may crystallize into patterns

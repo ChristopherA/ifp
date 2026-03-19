@@ -6,9 +6,9 @@ tagline: "The vault augments human capability — the human retains authority at
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Human Authority Over Augmentation Systems
 
@@ -49,16 +49,16 @@ The structural consequence for the vault: design every agent interaction so the 
 
 ## Relations
 
-- depends_on::[[Authority Flows from the Person]]
+- depends_on::[\[\[Authority Flows from the Person\]\]](Authority%20Flows%20from%20the%20Person.html)
   - The Self-Sovereign Identity principle that authority originates with the person grounds this vault-specific commitment.
 
-- extends::[[Content Over Container]]
+- extends::[\[\[Content Over Container\]\]](Content%20Over%20Container.html)
   - Content Over Container says knowledge should not be subordinated to its container. This principle extends that: human reasoning should not be subordinated to the system that helps produce it.
 
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]]
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)
   - The model that operationalizes this principle with specific vault mechanisms.
 
-- relates_to::[[Delegated Decision Authority Spectrum]]
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - The boundary form that defines where agent authority ends and human judgment begins.
 
 - relates_to::[[Automated Gardening Trust Problem]]⊙
@@ -70,4 +70,4 @@ The structural consequence for the vault: design every agent interaction so the 
 - relates_to::[[Guardrail Hierarchy for Graph Maintenance]]⊙
   - The guardrail hierarchy operationalizes generation-verification asymmetry for garden maintenance: agent-generated changes pass through verification gates that preserve human authority at each level.
 
-- relates_to::[[Opus Form]] — principal:: predicate distinguishes human authority from AI authorship in augmented works
+- relates_to::[\[\[Opus Form\]\]](../forms/Opus%20Form.html) — principal:: predicate distinguishes human authority from AI authorship in augmented works

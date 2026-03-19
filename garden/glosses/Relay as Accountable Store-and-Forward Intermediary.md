@@ -5,9 +5,9 @@ brief_summary: "In Inter-Face Protocol, a relay is a store-and-forward service t
 tagline: "Relays forward messages between agents while leaving an auditable trace"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Relay as Accountable Store-and-Forward Intermediary
 
@@ -26,14 +26,14 @@ The relay model preserves two properties that matter for human agency: **signatu
 
 ## Relations
 
-- defines_vocabulary_from::[[Inter-Face Protocol]]
+- defines_vocabulary_from::[\[\[Inter-Face Protocol\]\]](../protocols/Inter-Face%20Protocol.html)
   - "Relay" is IFP's term for store-and-forward intermediary services.
 
-- relates_to::[[Auditable Intermediaries Over Silent Proxies]]
+- relates_to::[\[\[Auditable Intermediaries Over Silent Proxies\]\]](../principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)
   - The principle that intermediaries must leave traces — relays are the primary implementation.
 
-- relates_to::[[Three-Part Enforcement Stack]]
+- relates_to::[\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html)
   - Relay accountability requires technical enforcement (mandatory trace) alongside legal duties and exit rights.
 
-- relates_to::[[Authority Flows from the Person]]
+- relates_to::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html)
   - Relay transparency ensures the human can verify the path their messages took.

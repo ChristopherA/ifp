@@ -5,9 +5,9 @@ brief_summary: "In Inter-Face Protocol, a capability is a function an agent adve
 tagline: "Capabilities are what an agent can do, conditional on the trust context of the exchange"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Capability as Advertised Agent Function
 
@@ -30,14 +30,14 @@ Capabilities are self-declared, not protocol-enforced. An agent advertising a ca
 
 ## Relations
 
-- defines_vocabulary_from::[[Inter-Face Protocol]]
+- defines_vocabulary_from::[\[\[Inter-Face Protocol\]\]](../protocols/Inter-Face%20Protocol.html)
   - "Capability" is IFP's term for advertised agent functions.
 
-- relates_to::[[Progressive Authentication as Trust Deepening]]
+- relates_to::[\[\[Progressive Authentication as Trust Deepening\]\]](../models/Progressive%20Authentication%20as%20Trust%20Deepening.html)
   - Capabilities condition on authentication level — deeper trust unlocks more functions.
 
-- relates_to::[[Disclosure Tier as Information Sharing Boundary]]
+- relates_to::[\[\[Disclosure Tier as Information Sharing Boundary\]\]](Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html)
   - Capabilities condition on disclosure tier — what you can do depends on how much context is shared.
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](../models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Some capabilities are available only at warm or hot temperatures.

@@ -5,10 +5,10 @@ brief_summary: "Defines the Opus form type: a compound garden node for the autho
 tagline: "What am I saying here, and how does it connect? -- the structural contract for authored works"
 ---
 
-is_a::[[Form Type]]
-has_status::[[Seed Stage]]
-in_domain::[[Deep Context Architecture]]
-in_precinct::[[Garden Precinct]]
+is_a::[\[\[Form Type\]\]](Form%20Type.html)
+has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Opus Form
 
@@ -79,7 +79,7 @@ Attribution uses role-specific predicates grounded in the principal-agent framew
 ### Required
 
 - `authored_by::[[Person]]` -- who wrote the content
-- `principal::[[Person]]` -- who directed the work and bears ultimate responsibility (from agency law; see [[Principal Authority as Agency Law for Digital Identity]])
+- `principal::[[Person]]` -- who directed the work and bears ultimate responsibility (from agency law; see [\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html))
 
 ### Recommended
 
@@ -98,8 +98,8 @@ The distinction between authorship and responsibility matters for AI-assisted wo
 
 ## Other Predicates
 
-- `is_a::[[Opus Form]]`
-- `has_status::[[Seed Stage]]` (or Growing, Evergreen)
+- `is_a::[\[\[Opus Form\]\]](Opus%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` (or Growing, Evergreen)
 - `in_domain::[[Domain Name]]`
 - `in_series::[[Series Title]]` -- membership in a thematic collection
 - `inspired_by::[[Source]]` -- intellectual lineage
@@ -158,18 +158,18 @@ Structural form -- captures *what I am saying* and *how it connects*.
 
 - FRBR/LRM Work-Expression-Manifestation-Item hierarchy (IFLA)
 - IndieWeb rel-me and rel-author identity consolidation patterns
-- [[Principal Authority as Agency Law for Digital Identity]] -- principal-agent framework
-- [[Cooperation vs Collaboration as Distinct Concepts]] -- etymological grounding (opus = work product)
+- [\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html) -- principal-agent framework
+- [\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](../inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html) -- etymological grounding (opus = work product)
 - "Wikis, Publishers, Communities, Community Stewards" email thread (Jan 2026) -- producer/principal distinction
 - [[The Gardening Problem Returns]] -- "authorship is not performance but responsibility"
 
 ## Relations
 
-- relates_to::[[Citation Form]] -- citations capture others' works; opuses capture your own
-- relates_to::[[Pattern Form]] -- opuses may present patterns as garden nodes
-- relates_to::[[Model Form]] -- opuses may present models as garden nodes
+- relates_to::[\[\[Citation Form\]\]](Citation%20Form.html) -- citations capture others' works; opuses capture your own
+- relates_to::[\[\[Pattern Form\]\]](Pattern%20Form.html) -- opuses may present patterns as garden nodes
+- relates_to::[\[\[Model Form\]\]](Model%20Form.html) -- opuses may present models as garden nodes
 - relates_to::[[Case Form]] -- opuses may contain case studies
 - relates_to::[[Reference Form]] -- references synthesize knowledge; opuses are original contributions
 - relates_to::[[Research Form]] -- research investigates; opuses articulate
-- relates_to::[[Principal Authority as Agency Law for Digital Identity]] -- attribution framework
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]] -- implementation model
+- relates_to::[\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html) -- attribution framework
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html) -- implementation model

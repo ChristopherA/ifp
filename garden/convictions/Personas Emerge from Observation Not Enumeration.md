@@ -5,9 +5,9 @@ brief_summary: "People do not experience their interests as cleanly separated ca
 tagline: "People experience context fluidly — systems should observe patterns, not force categories"
 ---
 
-- is_a::[[Conviction Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Personas Emerge from Observation Not Enumeration
 
@@ -43,14 +43,14 @@ The risk is misclassification. An agent that observes patterns may draw wrong bo
 
 ## Relations
 
-- grounds::[[Persona as Emergent Context Cluster]]
+- grounds::[\[\[Persona as Emergent Context Cluster\]\]](../glosses/Persona%20as%20Emergent%20Context%20Cluster.html)
   - The gloss defines what a persona is; this conviction asserts how personas should be discovered.
 
-- relates_to::[[Disclosure Tier Hierarchy for Persona-Peer Relationships]]
+- relates_to::[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]](../models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)
   - Disclosure tiers are persona-specific — emergent personas carry their own disclosure settings.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The human retains authority to correct persona boundaries the agent has inferred.
 
-- relates_to::[[Content Over Container]]
+- relates_to::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html)
   - Observation discovers structure from content; enumeration imposes containers on content.

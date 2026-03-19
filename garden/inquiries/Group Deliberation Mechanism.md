@@ -5,15 +5,15 @@ brief_summary: "Inquiry into how the deep context architecture handles decisions
 tagline: "When an agent hits a group-deliberative boundary, what happens next — practically?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Group Deliberation Mechanism
 
 ## Thesis
 
-The [[Delegated Decision Authority Spectrum]] defines a "group-deliberative" zone where decisions require collective process — amending governance boundaries, establishing new protocols, publishing shared artifacts, resolving inquiry questions marked with `directed_at::`. But the architecture describes the *philosophy* (Polis Play — rules about who gets to play and what moves they can make) without specifying the *mechanism*.
+The [\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) defines a "group-deliberative" zone where decisions require collective process — amending governance boundaries, establishing new protocols, publishing shared artifacts, resolving inquiry questions marked with `directed_at::`. But the architecture describes the *philosophy* (Polis Play — rules about who gets to play and what moves they can make) without specifying the *mechanism*.
 
 When an LLM agent traversing the garden identifies a decision that falls in the group-deliberative zone, what does it actually do? The current guidance says "recognize, present context, frame the decision, wait." But wait how? Through what channel? In what format? The gap between "this requires group input" and "here is how group input is gathered" remains unspecified.
 
@@ -39,16 +39,16 @@ In practice within this vault, group-deliberative decisions have not yet arisen 
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]] — Open Question 8 raises this question
-- [[Delegated Decision Authority Spectrum]] — defines the group-deliberative zone
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — Open Question 8 raises this question
+- [\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) — defines the group-deliberative zone
 
 ## Relations
 
-- relates_to::[[Delegated Decision Authority Spectrum]]
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - This inquiry explores the practical implementation of the boundary's group-deliberative zone.
 
 - relates_to::[[Protocol Form]]⊙
   - The deliberation mechanism may itself be a protocol — a form type with zero DCA instances that could be instantiated here.
 
-- relates_to::[[Authentic Collaboration Requires Agency]]
+- relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../convictions/Authentic%20Collaboration%20Requires%20Agency.html)
   - Group deliberation that respects agency requires that each participant's reasoning is heard, not just their vote.

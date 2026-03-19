@@ -6,9 +6,9 @@ tagline: "Capture how someone reasons, not just what they know — so agents can
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Value Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Value Form\]\]](../forms/Value%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Reasoning Fidelity
 
@@ -32,21 +32,21 @@ The value does not demand completeness. A garden with three well-connected princ
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]] — "The Problem" section articulates the gap between storing facts and capturing reasoning substrate
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — "The Problem" section articulates the gap between storing facts and capturing reasoning substrate
 - The five requirements in the architecture doc (typed forms, traversable relations, progressive disclosure, decision boundaries, learning through use) all serve reasoning fidelity
 
 ## Relations
 
-- generates::[[Values Precede Technical Decisions]]
+- generates::[\[\[Values Precede Technical Decisions\]\]](../convictions/Values%20Precede%20Technical%20Decisions.html)
   - Reasoning fidelity is one of the values that precedes and directs technical decisions in the architecture.
 
-- generates::[[Human Authority Over Augmentation Systems]]
+- generates::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - Fidelity to *human* reasoning requires that the human remains the authority — an agent that overrides the owner's reasoning has broken fidelity.
 
 - generates::[[Progressive Summary Before Substance]]⊙
   - Progressive disclosure serves reasoning fidelity by loading reasoning context on demand rather than requiring the full graph.
 
-- relates_to::[[Knowledge Durability]]
+- relates_to::[\[\[Knowledge Durability\]\]](Knowledge%20Durability.html)
   - Reasoning captured in a format that doesn't survive tool changes loses its fidelity over time.
 
 - contradicts::[[Autonomy]]⊙

@@ -5,9 +5,9 @@ brief_summary: "Temperature in Inter-Face Protocol describes conversation intens
 tagline: "How do conversation intensity levels shape protocol behavior across the same message format?"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Conversation Temperature as Protocol Cadence Spectrum
 
@@ -42,14 +42,14 @@ The temperature model is reusable beyond IFP. Any system where the same particip
 
 ## Relations
 
-- relates_to::[[Gossip as Social Sensing Filter]]
+- relates_to::[\[\[Gossip as Social Sensing Filter\]\]](../glosses/Gossip%20as%20Social%20Sensing%20Filter.html)
   - Most gossip operates at cool temperature — the filter runs in the background.
 
-- relates_to::[[Progressive Authentication as Trust Deepening]]
+- relates_to::[\[\[Progressive Authentication as Trust Deepening\]\]](Progressive%20Authentication%20as%20Trust%20Deepening.html)
   - Hot exchanges typically require deeper authentication than cool ones.
 
-- relates_to::[[Capability as Advertised Agent Function]]
+- relates_to::[\[\[Capability as Advertised Agent Function\]\]](../glosses/Capability%20as%20Advertised%20Agent%20Function.html)
   - Capabilities condition on temperature — some functions require warm or hot cadence.
 
-- relates_to::[[Social Conversation Phases as Protocol Semantics]]
+- relates_to::[\[\[Social Conversation Phases as Protocol Semantics\]\]](Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
   - Phases progress at the rate the temperature allows — cool phases take days, hot phases take minutes.

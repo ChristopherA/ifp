@@ -6,9 +6,9 @@ tagline: "Start with the question, follow edges on demand, stop when context suf
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Progressive Disclosure Over Eager Loading
 
@@ -40,7 +40,7 @@ The forcing function has a constructive effect: it demands that knowledge system
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]], "Progressive Disclosure" section (lines 214-256)
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Progressive Disclosure" section (lines 214-256)
 
 ## Relations
 

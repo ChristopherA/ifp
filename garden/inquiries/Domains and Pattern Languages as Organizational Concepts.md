@@ -6,10 +6,10 @@ tagline: "Pattern languages organize patterns by scale within a domain — are t
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_domain::[[Synpraxis]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_domain::[\[\[Synpraxis\]\]](../domains/Synpraxis.html)
 
 # Domains and Pattern Languages as Organizational Concepts
 
@@ -38,18 +38,18 @@ These inhabit different domains but share the pattern language structure: patter
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]], "Open Questions for Discussion" #10 (lines 465-466)
-- [[Synpraxis]] — lists pattern languages as cross-cutting mechanism
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Open Questions for Discussion" #10 (lines 465-466)
+- [\[\[Synpraxis\]\]](../domains/Synpraxis.html) — lists pattern languages as cross-cutting mechanism
 - Christopher Alexander, *A Pattern Language* (1977) — the original generative pattern language
 - Christopher Allen & Shannon Appelcline, *Meeples Together* (2019) — cooperative game design patterns
 
 ## Relations
 
-- relates_to::[[Synpraxis]]
+- relates_to::[\[\[Synpraxis\]\]](../domains/Synpraxis.html)
   - Pattern languages for cooperation/collaboration are Synpraxis artifacts.
 
-- relates_to::[[Domain Form]]
+- relates_to::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)
   - Questions whether domain pages should incorporate pattern language structure.
 
-- relates_to::[[Pattern Form]]
+- relates_to::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)
   - Pattern languages are collections of pattern instances organized by scale.

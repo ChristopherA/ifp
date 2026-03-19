@@ -5,9 +5,9 @@ brief_summary: "A garden patch is a portable, self-contained subset of a Deep Co
 tagline: "A portable garden subset that reveals connections in external content without modifying it"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Garden Patch as Composable Knowledge Fragment
 
@@ -39,11 +39,11 @@ The `garden/` folder in this repository is a garden patch. It contains nodes fro
 
 ## Relations
 
-- relates_to::[[Content Over Container]]
+- relates_to::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html)
   - A patch carries content (nodes and edges) without depending on a specific container (the source vault).
 
-- relates_to::[[Progressive Disclosure Over Eager Loading]]
+- relates_to::[\[\[Progressive Disclosure Over Eager Loading\]\]](../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)
   - A patch loads only the nodes needed for its context, not the entire source garden.
 
-- relates_to::[[Knowledge Compounds Through Typed Edges Not Filing]]
+- relates_to::[\[\[Knowledge Compounds Through Typed Edges Not Filing\]\]](../patterns/Knowledge%20Compounds%20Through%20Typed%20Edges%20Not%20Filing.html)
   - A patch's value comes from the typed edges between nodes, not from the folder structure — the same principle that makes gardens work.

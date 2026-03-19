@@ -6,9 +6,9 @@ tagline: "The knowledge vault needs searchable content, not file formats — ren
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Content Over Container
 

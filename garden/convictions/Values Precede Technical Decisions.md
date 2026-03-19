@@ -6,9 +6,9 @@ tagline: "Ground technical decisions in human values — when values and conveni
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Conviction Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Values Precede Technical Decisions
 
@@ -42,12 +42,12 @@ The pattern across all these domains: projects that start with values and derive
 - Allen, C. (2016). "The Path to Self-Sovereign Identity" — values as preconditions for technical standards
 - [Blockchain Commons Values & Design Principles](https://www.blockchaincommons.com/musings/ValuesDesign/) — explicit values-to-design pipeline
 - [Open Development](https://www.blockchaincommons.com/articles/Open-Development/) — values (accessibility, diversity, transparency, sustainability) preceding technical practice
-- [[Deep Context as an Architecture for Captured Reasoning]] — values-grounded architectural decisions throughout
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — values-grounded architectural decisions throughout
 
 ## Relations
 
-- relates_to::[[Human Authority Over Augmentation Systems]] — one of the principles this conviction produces: augmentation over autonomy is a values choice
-- relates_to::[[Zero-Tooling Floor for Knowledge Architecture]] — portability over power is a values choice
-- relates_to::[[Content Over Container]] — substance over format is a values choice
-- relates_to::[[Authentic Collaboration Requires Agency]] — the Synpraxis conviction that agency infrastructure must precede collaboration tools follows the same values-first pattern
-- relates_to::[[Authority Flows from the Person]] — the Self-Sovereign Identity principle that identity sovereignty precedes technical identity systems
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html) — one of the principles this conviction produces: augmentation over autonomy is a values choice
+- relates_to::[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](../principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html) — portability over power is a values choice
+- relates_to::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html) — substance over format is a values choice
+- relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](Authentic%20Collaboration%20Requires%20Agency.html) — the Synpraxis conviction that agency infrastructure must precede collaboration tools follows the same values-first pattern
+- relates_to::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html) — the Self-Sovereign Identity principle that identity sovereignty precedes technical identity systems

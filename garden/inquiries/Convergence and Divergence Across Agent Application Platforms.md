@@ -5,9 +5,9 @@ brief_summary: "IFP-11 describes eleven application platforms as distinct catego
 tagline: "Where do the eleven application platforms genuinely differ in protocol requirements?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Convergence and Divergence Across Agent Application Platforms
 
@@ -49,14 +49,14 @@ If two platforms share the same IFP features (phases, temperature, trust levels)
 
 ## Relations
 
-- relates_to::[[Organizing Principle for Agent Application Domains]]
+- relates_to::[\[\[Organizing Principle for Agent Application Domains\]\]](Organizing%20Principle%20for%20Agent%20Application%20Domains.html)
   - The companion inquiry about the taxonomy's organizing principle.
 
-- relates_to::[[Cooperation vs Collaboration as Distinct Concepts]]
+- relates_to::[\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html)
   - Platform convergence/divergence may track the cooperation-collaboration spectrum — some platforms enable cooperation (independent agents, compatible goals), others enable collaboration (shared creation).
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](../models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Temperature differences are one genuine axis of platform divergence.
 
-- relates_to::[[Disclosure Spectrum as Discrete Tiers or Continuous Range]]
+- relates_to::[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)
   - Different platforms may need different disclosure vocabularies — a genuine divergence point.

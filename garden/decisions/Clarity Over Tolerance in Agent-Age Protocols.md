@@ -5,9 +5,9 @@ brief_summary: "Inter-Face Protocol explicitly replaces Postel's Law ('be libera
 tagline: "Why did IFP replace Postel's Law with strict error reporting and conversational resolution?"
 ---
 
-- is_a::[[Decision Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Decision Form\]\]](../forms/Decision%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Clarity Over Tolerance in Agent-Age Protocols
 
@@ -50,11 +50,11 @@ The chosen approach combines strict reporting with a unique mitigation: **errors
 
 ## Relations
 
-- relates_to::[[Errors as Negotiation Opportunities]]
+- relates_to::[\[\[Errors as Negotiation Opportunities\]\]](../patterns/Errors%20as%20Negotiation%20Opportunities.html)
   - The pattern that makes clarity-over-tolerance viable — errors become conversations, not failures.
 
-- relates_to::[[Agent as Human Proxy in Protocol Exchange]]
+- relates_to::[\[\[Agent as Human Proxy in Protocol Exchange\]\]](../glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html)
   - This decision assumes reasoning agents that can negotiate — it would not apply to simple protocol clients.
 
-- relates_to::[[Social Conversation Phases as Protocol Semantics]]
+- relates_to::[\[\[Social Conversation Phases as Protocol Semantics\]\]](../models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
   - The error phase implements conversational resolution, enabling clarity without brittleness.

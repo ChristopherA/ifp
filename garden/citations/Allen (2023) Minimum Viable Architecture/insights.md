@@ -5,8 +5,8 @@ brief_summary: "Insights from applying the minimum viable architecture principle
 tagline: "What does the architectural/tactical distinction reveal about agent protocol design?"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 
 # Insights: Minimum Viable Architecture and Agent Protocol Design
 
@@ -30,5 +30,5 @@ IFP's current state: the load-bearing decisions are well-articulated (IFP-1 is s
 
 ## Sources
 
-- [[Allen (2023) Minimum Viable Architecture]] — the source principle
+- [\[\[Allen (2023) Minimum Viable Architecture\]\]](Allen%20%282023%29%20Minimum%20Viable%20Architecture.html) — the source principle
 - Analysis in this compound citation

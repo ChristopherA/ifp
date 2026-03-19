@@ -5,9 +5,9 @@ brief_summary: "Inter-Face Protocol defines six conversation phases — greeting
 tagline: "How does a trust-building conversation progress through structured phases?"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Social Conversation Phases as Protocol Semantics
 
@@ -36,7 +36,7 @@ Three properties distinguish these from RPC-style phases:
 
 ## Error as Negotiation
 
-The error phase deserves particular attention. In traditional protocols, an error is a failure code. In IFP, an error is an opportunity for natural-language negotiation — agents explain what they did not understand and attempt to resolve the incompatibility conversationally. This implements IFP-1's principle that agent-age protocols should use [[Errors as Negotiation Opportunities]].
+The error phase deserves particular attention. In traditional protocols, an error is a failure code. In IFP, an error is an opportunity for natural-language negotiation — agents explain what they did not understand and attempt to resolve the incompatibility conversationally. This implements IFP-1's principle that agent-age protocols should use [\[\[Errors as Negotiation Opportunities\]\]](../patterns/Errors%20as%20Negotiation%20Opportunities.html).
 
 ## Sources
 
@@ -45,17 +45,17 @@ The error phase deserves particular attention. In traditional protocols, an erro
 
 ## Relations
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Phases progress at the cadence the temperature sets — cool phases take days, hot phases take minutes.
 
-- relates_to::[[Gossip as Social Sensing Filter]]
+- relates_to::[\[\[Gossip as Social Sensing Filter\]\]](../glosses/Gossip%20as%20Social%20Sensing%20Filter.html)
   - The phase sequence is the mechanism through which gossip filtering operates.
 
-- relates_to::[[Recommendation as Surfaced Opportunity]]
+- relates_to::[\[\[Recommendation as Surfaced Opportunity\]\]](../glosses/Recommendation%20as%20Surfaced%20Opportunity.html)
   - The recommend phase is where filtering yields a result worth human attention.
 
-- relates_to::[[Errors as Negotiation Opportunities]]
+- relates_to::[\[\[Errors as Negotiation Opportunities\]\]](../patterns/Errors%20as%20Negotiation%20Opportunities.html)
   - The error phase implements conversational error resolution rather than mechanical failure codes.
 
-- relates_to::[[Progressive Disclosure Over Eager Loading]]
+- relates_to::[\[\[Progressive Disclosure Over Eager Loading\]\]](../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)
   - Phases progressively deepen context exchange — greeting before context, context before probe.

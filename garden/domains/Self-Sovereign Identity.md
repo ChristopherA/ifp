@@ -6,8 +6,8 @@ tagline: "Identity owned by the individual — the first non-Deep Context Archit
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Domain Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 
 # Self-Sovereign Identity
 
@@ -23,10 +23,10 @@ Self-sovereign identity is the principle that individuals should own and control
 
 ### Principal Authority Framework
 
-- [[Principal Authority as Agency Law for Digital Identity]] — gloss: self-sovereign identity duties and definitions through agency law lens
-- [[Authority Conferral Chain]] — model: three delegation types (Type A: full, Type B: constrained, Type C: revocable)
-- [[Authority Flows from the Person]] — principle: authority is delegable but not alienable
-- [[Three-Part Enforcement Stack]] — pattern: three layers of enforcement (technical, legal, social)
+- [\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html) — gloss: self-sovereign identity duties and definitions through agency law lens
+- [\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html) — model: three delegation types (Type A: full, Type B: constrained, Type C: revocable)
+- [\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html) — principle: authority is delegable but not alienable
+- [\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html) — pattern: three layers of enforcement (technical, legal, social)
 
 All 4 nodes were extracted from plan-principal-authority-forms in session 7 of the garden-foundation workstream. They draw on Christopher Allen's self-sovereign identity article (2016), BCR-2026-xxx spec drafts, and chat archives from Blockchain Commons discussions.
 
@@ -48,7 +48,7 @@ Potential forms identified from [Blockchain Commons Values & Design Principles](
 ### Patterns
 
 - Selective Disclosure and Elision — choices for redaction and elision to control what individuals share; prevents reduction to digital records
-- Progressive Trust as Relationship Evolution — systems that reflect the natural evolution of trust, enabling selective disclosure incrementally (bridges [[Synpraxis]])
+- Progressive Trust as Relationship Evolution — systems that reflect the natural evolution of trust, enabling selective disclosure incrementally (bridges [\[\[Synpraxis\]\]](Synpraxis.html))
 
 ### Models
 
@@ -57,7 +57,7 @@ Potential forms identified from [Blockchain Commons Values & Design Principles](
 ## Open Questions
 
 - What additional self-sovereign identity nodes should be extracted? The 10 Principles alone could yield 10 principle nodes.
-- How does self-sovereign identity relate to the [[Delegated Decision Authority Spectrum]] boundary? (Currently the spectrum is tagged Deep Context Architecture; the authority concepts bridge both domains.)
+- How does self-sovereign identity relate to the [\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) boundary? (Currently the spectrum is tagged Deep Context Architecture; the authority concepts bridge both domains.)
 - Should technical self-sovereign identity standards (DIDs, VCs) be a sub-domain or a separate domain page?
 
 ## Sources
@@ -68,5 +68,5 @@ Potential forms identified from [Blockchain Commons Values & Design Principles](
 
 ## Relations
 
-- relates_to::[[Deep Context Architecture]] — Self-sovereign identity agency law concepts inform the vault's principal authority model
+- relates_to::[\[\[Deep Context Architecture\]\]](Deep%20Context%20Architecture.html) — Self-sovereign identity agency law concepts inform the vault's principal authority model
 - relates_to::[[Digital Identity]]⊙ — Self-sovereign identity is a subset of the broader digital identity field

@@ -5,9 +5,9 @@ brief_summary: "The core conviction behind Inter-Face Protocol: the scarce resou
 tagline: "The scarce resource is human attention, not human connection"
 ---
 
-- is_a::[[Conviction Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Filtering Is More Valuable Than Connecting
 
@@ -35,14 +35,14 @@ This conviction has consequences for protocol design: most gossip exchanges shou
 
 ## Relations
 
-- grounds::[[Gossip as Social Sensing Filter]]
+- grounds::[\[\[Gossip as Social Sensing Filter\]\]](../glosses/Gossip%20as%20Social%20Sensing%20Filter.html)
   - Gossip-as-filter is the mechanism that implements this conviction.
 
-- relates_to::[[Technology Paternalism Masks Coercion]]
+- relates_to::[\[\[Technology Paternalism Masks Coercion\]\]](../patterns/Technology%20Paternalism%20Masks%20Coercion.html)
   - Platform engagement metrics are a form of attention capture — the opposite of filtering.
 
-- relates_to::[[Recommendation as Surfaced Opportunity]]
+- relates_to::[\[\[Recommendation as Surfaced Opportunity\]\]](../glosses/Recommendation%20as%20Surfaced%20Opportunity.html)
   - Recommendations are what survive the filter — their rarity is a feature.
 
-- relates_to::[[Authentic Collaboration Requires Agency]]
+- relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](Authentic%20Collaboration%20Requires%20Agency.html)
   - Filtering preserves human agency over attention — the person decides what to engage with, not the algorithm.

@@ -5,9 +5,9 @@ brief_summary: "IFP-11 describes eleven application platforms (Friend Zone, Baza
 tagline: "What principle should organize the taxonomy of agent application domains?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Organizing Principle for Agent Application Domains
 
@@ -47,17 +47,17 @@ These organizing principles overlap but do not align cleanly. Friend Zone is org
 
 ## Relations
 
-- relates_to::[[Convergence and Divergence Across Agent Application Platforms]]
+- relates_to::[\[\[Convergence and Divergence Across Agent Application Platforms\]\]](Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)
   - The companion inquiry about instance-level boundaries and overlap.
 
-- relates_to::[[Allen (2023) Minimum Viable Architecture]]
+- relates_to::[\[\[Allen (2023) Minimum Viable Architecture\]\]](../citations/Allen%20%282023%29%20Minimum%20Viable%20Architecture/Allen%20%282023%29%20Minimum%20Viable%20Architecture.html)
   - Is the platform taxonomy a minimum viable architecture decision or a deferrable tactical one?
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](../models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Temperature is one candidate organizing principle for the taxonomy.
 
-- relates_to::[[Progressive Authentication as Trust Deepening]]
+- relates_to::[\[\[Progressive Authentication as Trust Deepening\]\]](../models/Progressive%20Authentication%20as%20Trust%20Deepening.html)
   - Trust level is another candidate organizing principle — different platforms require different authentication.
 
-- relates_to::[[Domains and Pattern Languages as Organizational Concepts]]
+- relates_to::[\[\[Domains and Pattern Languages as Organizational Concepts\]\]](Domains%20and%20Pattern%20Languages%20as%20Organizational%20Concepts.html)
   - The eleven application platforms may function as pattern languages — each platform is a pattern language for a particular kind of human-agent interaction. If so, the organizing principle is pattern language scope, not feature taxonomy.

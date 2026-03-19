@@ -5,9 +5,9 @@ brief_summary: "Inter-Face Protocol maintains two equivalent representations of 
 tagline: "What resolves the tension between human-readable messages and machine-processable signing?"
 ---
 
-- is_a::[[Pattern Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Dual Representation for Human and Machine Readability
 
@@ -49,14 +49,14 @@ Conversion between IFP-3 and IFP-4 is defined as lossless for the core message m
 
 ## Relations
 
-- relates_to::[[Content Over Container]]
+- relates_to::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html)
   - Both representations preserve the same content; the container changes to serve different consumers.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The IFP-3 representation exists specifically to ensure humans can audit what their agents do.
 
-- relates_to::[[Relay as Accountable Store-and-Forward Intermediary]]
+- relates_to::[\[\[Relay as Accountable Store-and-Forward Intermediary\]\]](../glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)
   - Relays append trace entries in IFP-4 (JSON) format; the human reads them rendered in IFP-3.
 
-- relates_to::[[Zero-Tooling Floor for Knowledge Architecture]]
+- relates_to::[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](../principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)
   - IFP-3's YAML + Markdown format is readable with zero tools — any text editor works.

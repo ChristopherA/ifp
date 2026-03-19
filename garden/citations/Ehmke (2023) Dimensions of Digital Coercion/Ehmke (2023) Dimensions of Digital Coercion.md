@@ -10,9 +10,9 @@ migrated_from: "analysis/library/2023-ehmke-digital-coercion"
 source_updated: 2025-12-09
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../../domains/Self-Sovereign%20Identity.html)
 - cites_work_by::[[Coraline Ada Ehmke]]⊙
 
 # Ehmke (2023) Dimensions of Digital Coercion
@@ -64,7 +64,7 @@ Ehmke's four-dimensional framework provides the most systematic vocabulary for i
 **Secondary sources consulted**: Nissenbaum (2009) contextual integrity, Noble (2018) algorithmic oppression, Schiller (1976) cultural imperialism, Green (1999) technoculture — all cited within Ehmke's work
 
 **Related vault citations**:
-- [[Kolpondinos (2026) Technology Paternalism]] — Technology Paternalism taxonomy maps to Ehmke's four dimensions
+- [\[\[Kolpondinos (2026) Technology Paternalism\]\]](../Kolpondinos%20%282026%29%20Technology%20Paternalism/Kolpondinos%20%282026%29%20Technology%20Paternalism.html) — Technology Paternalism taxonomy maps to Ehmke's four dimensions
 - [[Brignull (2010) Deceptive Patterns Dark Patterns]]⊙ — Dark patterns are the interface-level mechanisms of attention and ergonomic coercion
 - [[Spiekermann and Pallas (2006) Technology Paternalism]]⊙ — "Right to the last word" addresses ergonomic and trust coercion
 
@@ -72,11 +72,11 @@ Ehmke's four-dimensional framework provides the most systematic vocabulary for i
 
 ## Relations
 
-- relates_to::[[Technology Paternalism Masks Coercion]]
+- relates_to::[\[\[Technology Paternalism Masks Coercion\]\]](../../patterns/Technology%20Paternalism%20Masks%20Coercion.html)
   Ehmke's four dimensions map systematically to Kolpondinos's four forms of technology paternalism. Design Paternalism corresponds to attention and ergonomic coercion; Algorithmic Paternalism to attention coercion through engagement maximization; Infrastructural Paternalism to ergonomic coercion through switching costs; Protective Paternalism to trust coercion through unaccountable safety framing.
 
 - relates_to::[[Coercion Resistance as Replacement Framing]]⊙
   The framework strengthens the case that "coercion resistance" is more precise than "privacy" for describing technology harms. Each dimension describes a mechanism of coercion, not a privacy violation.
 
-- relates_to::[[Authentic Collaboration Requires Agency]]
+- relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../../convictions/Authentic%20Collaboration%20Requires%20Agency.html)
   Ehmke's emphasis on accountability enabling trust enabling consent enabling agency directly supports the conviction that collaboration without agency is not authentic.

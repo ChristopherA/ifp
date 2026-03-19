@@ -6,9 +6,9 @@ tagline: "When does a garden need signing, elision, and verified exchange — wh
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Trust Layer Activation Criteria
 
@@ -41,7 +41,7 @@ No garden currently uses these capabilities. The first garden operates entirely 
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]] — Open Question 11 and the Trust Layer section
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — Open Question 11 and the Trust Layer section
 - [[Gordian Envelope as Agent Memory Layer]]⊙ — full technical evaluation of Envelope capabilities
 - [[Captured Reasoning Exchange Pipeline]]⊙ — the three-layer model where the trust layer sits
 
@@ -53,5 +53,5 @@ No garden currently uses these capabilities. The first garden operates entirely 
 - relates_to::[[Progressive Trust]]⊙
   - Progressive trust is both a pattern the trust layer enables and a potential activation criterion — trust builds through interaction, and the trust layer supports that building.
 
-- relates_to::[[Delegated Decision Authority Spectrum]]
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - Multi-agent scenarios (HAAH chains) where authority must be verified across hops are a potential activation trigger.

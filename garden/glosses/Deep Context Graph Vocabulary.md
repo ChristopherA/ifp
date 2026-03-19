@@ -6,9 +6,9 @@ tagline: "Graph vocabulary — seven structural terms, four classification predi
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Deep Context Graph Vocabulary
 
@@ -24,7 +24,7 @@ This gloss consolidates the graph vocabulary: structural terms from the compound
 
 **Form type**: The category a node belongs to (Pattern Form, Decision Form), declared by its `is_a::` edge. "Node" and "form type" are distinct: there is one Pattern Form type but many pattern nodes. When discussing individual documents, say "node" or "instance of [Form Type]"; reserve "form" for the type itself.
 
-**Typed edge**: A predicate wikilink — a named, directional connection between context nodes. Written as `predicate::[[Target]]`. The predicate names the relationship type; the wikilink identifies the target. Examples: `relates_to::[[Deep Context Architecture]]`, `is_a::[[Model Form]]`, `derived_from::"https://example.com"`.
+**Typed edge**: A predicate wikilink — a named, directional connection between context nodes. Written as `predicate::[[Target]]`. The predicate names the relationship type; the wikilink identifies the target. Examples: `relates_to::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`, `is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)`, `derived_from::"https://example.com"`.
 
 **Compound node**: A folder-based context node containing a lead file, optional sibling files, and optional `Renditions/` and `Archives/` subfolders. Generalizes "compound document" from the garden decisions to vault-wide use.
 
@@ -42,10 +42,10 @@ This gloss consolidates the graph vocabulary: structural terms from the compound
 
 Four predicates classify every context node in the graph:
 
-- **`is_a::`** — the node's form type or vault type (`is_a::[[Model Form]]`, `is_a::[[Meeting Note]]⊙`)
-- **`has_status::`** — lifecycle stage (`has_status::[[Seed Stage]]`, `has_status::[[Curated]]⊙`)
-- **`in_precinct::`** — organizational unit (`in_precinct::[[Garden Precinct]]`, `in_precinct::[[Vault Precinct]]`). Garden precinct node types carry structural contracts; vault precinct types serve operational capture. See [[Precinct as Organizational Unit]]⊙.
-- **`in_domain::`** — knowledge area (`in_domain::[[Deep Context Architecture]]`). Links a node to the domain it belongs to. A node may belong to multiple domains.
+- **`is_a::`** — the node's form type or vault type (`is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)`, `is_a::[[Meeting Note]]⊙`)
+- **`has_status::`** — lifecycle stage (`has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)`, `has_status::[[Curated]]⊙`)
+- **`in_precinct::`** — organizational unit (`in_precinct::[\[\[Garden Precinct\]\]](Garden%20Precinct.html)`, `in_precinct::[\[\[Vault Precinct\]\]](Vault%20Precinct.html)`). Garden precinct node types carry structural contracts; vault precinct types serve operational capture. See [[Precinct as Organizational Unit]]⊙.
+- **`in_domain::`** — knowledge area (`in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`). Links a node to the domain it belongs to. A node may belong to multiple domains.
 
 The first two are required on every classified note. The latter two appear on garden nodes and are optional on vault types.
 
@@ -94,7 +94,7 @@ Predicates are freeform strings. Consistency depends on ongoing vocabulary curat
 
 ## Sources
 
-Extracted from the Graph Vocabulary gloss section of the compound nodes research note. Semantic predicate catalog from [[Deep Context as an Architecture for Captured Reasoning]], "The Predicate Grammar" section.
+Extracted from the Graph Vocabulary gloss section of the compound nodes research note. Semantic predicate catalog from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "The Predicate Grammar" section.
 
 ## Relations
 
@@ -110,5 +110,5 @@ Extracted from the Graph Vocabulary gloss section of the compound nodes research
 - defines_vocabulary_from::[[Artifact Predicate for Binary Metadata]]⊙
   - The artifact:: predicate is defined as graph vocabulary here.
 
-- relates_to::[[Knowledge Compounds Through Typed Edges Not Filing]]
+- relates_to::[\[\[Knowledge Compounds Through Typed Edges Not Filing\]\]](../patterns/Knowledge%20Compounds%20Through%20Typed%20Edges%20Not%20Filing.html)
   - The graph vocabulary enables knowledge compounding — typed edges create semantic compounds that filing into folders cannot.

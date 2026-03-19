@@ -5,10 +5,10 @@ brief_summary: "Defines the Decision form type: a recorded choice with reasoning
 tagline: "Why did we choose this over the alternatives? — the structural contract for decision forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Decision Form
 
@@ -29,9 +29,9 @@ Decisions carry a `status` field in frontmatter (`proposed`, `accepted`, `deprec
 
 ## Typical Predicates
 
-- `is_a::[[Decision Form]]`
-- `has_status::[[Seed Stage]]` or `[[Growing Stage]]`
-- `in_domain::[[Deep Context Architecture]]`
+- `is_a::[\[\[Decision Form\]\]](Decision%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
+- `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
 - `supersedes::[[Previous Decision]]` — chains revised decisions
 - `extended_by::[[Follow-Up Decision]]` — marks refinements
 - `extracted_from::[[Source Document]]` — provenance
@@ -49,10 +49,10 @@ Action form — captures *what to do* and *what happened*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 90-95.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 90-95.
 
 ## Relations
 
-- relates_to::[[Boundary Form]] — boundaries constrain what decisions an agent can make
-- relates_to::[[Principle Form]] — principles provide standing constraints; decisions apply them to specific situations
-- relates_to::[[Pattern Form]] — patterns generalize from decisions; decisions instantiate patterns
+- relates_to::[\[\[Boundary Form\]\]](Boundary%20Form.html) — boundaries constrain what decisions an agent can make
+- relates_to::[\[\[Principle Form\]\]](Principle%20Form.html) — principles provide standing constraints; decisions apply them to specific situations
+- relates_to::[\[\[Pattern Form\]\]](Pattern%20Form.html) — patterns generalize from decisions; decisions instantiate patterns

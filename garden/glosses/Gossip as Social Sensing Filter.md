@@ -5,9 +5,9 @@ brief_summary: "In Inter-Face Protocol, 'gossip' is not chatter — it is a filt
 tagline: "Gossip filters attention rather than broadcasting information"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Gossip as Social Sensing Filter
 
@@ -17,7 +17,7 @@ Agents exchange context pairwise — not to broadcast, but to detect overlaps th
 
 This framing inverts the assumption behind social platforms, which measure success by engagement — more messages, more notifications, more time spent. Inter-Face measures success by the quality of the filter: how few recommendations reach the human, and how often those few are worth acting on.
 
-The gossip-as-filter concept is load-bearing for Inter-Face Protocol. It shapes the temperature model (most gossip is cool — weekly background exchange), the phase model (gossip progresses through greeting → context → probe → recommend → close), and the conviction that [[Filtering Is More Valuable Than Connecting]].
+The gossip-as-filter concept is load-bearing for Inter-Face Protocol. It shapes the temperature model (most gossip is cool — weekly background exchange), the phase model (gossip progresses through greeting → context → probe → recommend → close), and the conviction that [\[\[Filtering Is More Valuable Than Connecting\]\]](../convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html).
 
 ## Sources
 
@@ -26,14 +26,14 @@ The gossip-as-filter concept is load-bearing for Inter-Face Protocol. It shapes 
 
 ## Relations
 
-- defines_vocabulary_from::[[Inter-Face Protocol]]
+- defines_vocabulary_from::[\[\[Inter-Face Protocol\]\]](../protocols/Inter-Face%20Protocol.html)
   - "Gossip" is IFP's name for pairwise agent exchange.
 
-- grounds::[[Filtering Is More Valuable Than Connecting]]
+- grounds::[\[\[Filtering Is More Valuable Than Connecting\]\]](../convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)
   - The gossip-as-filter concept is the operational mechanism behind the conviction.
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](../models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Most gossip operates at cool temperature — weekly background exchange.
 
-- relates_to::[[Recommendation as Surfaced Opportunity]]
+- relates_to::[\[\[Recommendation as Surfaced Opportunity\]\]](Recommendation%20as%20Surfaced%20Opportunity.html)
   - Recommendations are the output of successful gossip — what survives the filter.

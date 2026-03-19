@@ -8,9 +8,9 @@ brief_summary: "Names Technology Paternalism as an anti-pattern with four forms:
 tagline: "Four forms of technology paternalism and four countermeasures to restore user agency"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../../domains/Self-Sovereign%20Identity.html)
 - cites_work_by::[[Martina Kolpondinos]]⊙
 
 # Kolpondinos (2026) Technology Paternalism
@@ -89,8 +89,8 @@ This article performs a naming function for the Self-Sovereign Identity and broa
 
 ## Relations
 
-relates_to::[[Self-Sovereign Identity]]
-relates_to::[[Authentic Collaboration Requires Agency]]
+relates_to::[\[\[Self-Sovereign Identity\]\]](../../domains/Self-Sovereign%20Identity.html)
+relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../../convictions/Authentic%20Collaboration%20Requires%20Agency.html)
 relates_to::[[Dimensions of Digital Coercion]]⊙
 extends::[[Coercion Resistance]]⊙
 relates_to::[[Choice Architecture]]⊙

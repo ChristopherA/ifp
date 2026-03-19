@@ -6,8 +6,8 @@ tagline: "The architecture that defines both precincts — typed nodes, predicat
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Domain Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 
 # Deep Context Architecture
 
@@ -28,16 +28,16 @@ This domain is self-referential — the garden that implements the architecture 
 The architecture organizes knowledge into two precincts — bounded zones with shared infrastructure but different conventions:
 
 - [[Precinct as Organizational Unit]]⊙ — the decision adopting "precinct" from urban planning
-- [[Garden Precinct]] — curated forms with structural contracts and growth stages
-- [[Vault Precinct]] — operational knowledge capture, organization, and retrieval
-- [[Form Type]] — meta-definition of what a form type is
-- 17 garden form type definitions: [[Boundary Form]], [[Case Form]]⊙, [[Citation Form]], [[Conviction Form]], [[Decision Form]], [[Domain Form]], [[Gloss Form]], [[Inquiry Form]], [[Model Form]], [[Opus Form]], [[Pattern Form]], [[Principle Form]], [[Protocol Form]]⊙, [[Reference Form]]⊙, [[Research Form]]⊙, [[Scenario Form]]⊙, [[Skill Form]]⊙, [[Value Form]]
-- 4 status stages (shared): [[Seed Stage]], [[Growing Stage]], [[Evergreen Stage]], [[Pruned Stage]]⊙
+- [\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html) — curated forms with structural contracts and growth stages
+- [\[\[Vault Precinct\]\]](../glosses/Vault%20Precinct.html) — operational knowledge capture, organization, and retrieval
+- [\[\[Form Type\]\]](../forms/Form%20Type.html) — meta-definition of what a form type is
+- 17 garden form type definitions: [\[\[Boundary Form\]\]](../forms/Boundary%20Form.html), [[Case Form]]⊙, [\[\[Citation Form\]\]](../forms/Citation%20Form.html), [\[\[Conviction Form\]\]](../forms/Conviction%20Form.html), [\[\[Decision Form\]\]](../forms/Decision%20Form.html), [\[\[Domain Form\]\]](../forms/Domain%20Form.html), [\[\[Gloss Form\]\]](../forms/Gloss%20Form.html), [\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html), [\[\[Model Form\]\]](../forms/Model%20Form.html), [\[\[Opus Form\]\]](../forms/Opus%20Form.html), [\[\[Pattern Form\]\]](../forms/Pattern%20Form.html), [\[\[Principle Form\]\]](../forms/Principle%20Form.html), [[Protocol Form]]⊙, [[Reference Form]]⊙, [[Research Form]]⊙, [[Scenario Form]]⊙, [[Skill Form]]⊙, [\[\[Value Form\]\]](../forms/Value%20Form.html)
+- 4 status stages (shared): [\[\[Seed Stage\]\]](../forms/Seed%20Stage.html), [\[\[Growing Stage\]\]](../forms/Growing%20Stage.html), [\[\[Evergreen Stage\]\]](../forms/Evergreen%20Stage.html), [[Pruned Stage]]⊙
 - 5 vault form types: [[Meeting Note]]⊙, [[Transcript]]⊙, [[Person Note]]⊙, [[Chat Log]]⊙, [[Sidecar]]⊙
 
 ### Founding Decision
 
-- [[Deep Context as an Architecture for Captured Reasoning]] — the decision to capture reasoning as typed forms with predicates, not fine-tuning, RAG, databases, or tags
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — the decision to capture reasoning as typed forms with predicates, not fine-tuning, RAG, databases, or tags
 
 ### Core Concept
 
@@ -106,28 +106,28 @@ Glosses on external personal knowledge management methods that informed architec
 
 Orientations that direct architectural decisions:
 
-- [[Reasoning Fidelity]] — capture how someone reasons, not just what they know
-- [[Knowledge Durability]] — knowledge should outlast the tools used to capture it
+- [\[\[Reasoning Fidelity\]\]](../values/Reasoning%20Fidelity.html) — capture how someone reasons, not just what they know
+- [\[\[Knowledge Durability\]\]](../values/Knowledge%20Durability.html) — knowledge should outlast the tools used to capture it
 
 ### Convictions
 
-- [[Values Precede Technical Decisions]] — technical architecture must be grounded in human values; when values and convenience conflict, values win
+- [\[\[Values Precede Technical Decisions\]\]](../convictions/Values%20Precede%20Technical%20Decisions.html) — technical architecture must be grounded in human values; when values and convenience conflict, values win
 
 ### Principles and Patterns
 
 Standing constraints and recurring solutions:
 
-- [[Living Documents Over Static Publications]] — garden nodes grow and evolve; the current state matters, not a published version
-- [[Content Over Container]] — what matters is the knowledge, not its packaging
-- [[Human Authority Over Augmentation Systems]] — augmentation, not autonomy
+- [\[\[Living Documents Over Static Publications\]\]](../principles/Living%20Documents%20Over%20Static%20Publications.html) — garden nodes grow and evolve; the current state matters, not a published version
+- [\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html) — what matters is the knowledge, not its packaging
+- [\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html) — augmentation, not autonomy
 - [[Standalone Document Test for Form Candidacy]]⊙ — the test that grounds the entire type taxonomy
 - [[Context Conservation Hierarchy]]⊙ — where to invest context budget
 - [[Progressive Summary Before Substance]]⊙ — inverted pyramid for agent retrieval
 - [[Summary Fields as Load-Bearing Infrastructure]]⊙ — 280-char summaries quantified as retrieval infrastructure
 - [[Still Knowledge, Moving Action]]⊙ — knowledge persists, actions flow
 - [[Vault Content Graduation]]⊙ — how vault types mature into garden nodes through tending
-- [[Progressive Disclosure Over Eager Loading]] — start with the question, follow edges on demand, stop when context suffices
-- [[Zero-Tooling Floor for Knowledge Architecture]] — plain markdown, git, and shell — specialized tools add value but are never prerequisites
+- [\[\[Progressive Disclosure Over Eager Loading\]\]](../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html) — start with the question, follow edges on demand, stop when context suffices
+- [\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](../principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html) — plain markdown, git, and shell — specialized tools add value but are never prerequisites
 - [[Predicate Maintenance Recipes Over Tools]]⊙ — shell one-liners preserve zero-tooling floor
 - [[Probe Before Commit]]⊙ — probe external state before acting on assumptions about it
 - [[Source Adapter for Heterogeneous Imports]]⊙ — source-specific adapters extract; common normalization maps to conventions
@@ -149,13 +149,13 @@ Open investigations into architectural questions:
 - [[Inquiry Lifecycle and Resolution]]⊙ — when an inquiry is "done" and what resolution means for a generative form
 - [[Predicate Vocabulary Stabilization]]⊙ — freeform predicates past 200+ threshold; when to audit and stabilize
 - [[Cross-Domain Form Indexing]]⊙ — how domain pages handle forms that belong to multiple domains
-- [[Domains and Pattern Languages as Organizational Concepts]] — whether pattern languages are a view of a domain or a distinct organizational concept
+- [\[\[Domains and Pattern Languages as Organizational Concepts\]\]](../inquiries/Domains%20and%20Pattern%20Languages%20as%20Organizational%20Concepts.html) — whether pattern languages are a view of a domain or a distinct organizational concept
 - [[Productivity Separation from Knowledge Vault]]⊙ — whether garden and productivity content should separate into distinct vaults
-- [[Cooperation vs Collaboration as Distinct Concepts]] — distinguishing cooperation and collaboration as separate research threads
+- [\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](../inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html) — distinguishing cooperation and collaboration as separate research threads
 - [[Vault-Wide Compound Node Adoption]]⊙ — strategy for converting existing atomic notes to compound structure
 - [[Scenario Lifecycle and Aging]]⊙ — how scenarios age when validated, invalidated, or overtaken by events
-- [[Group Deliberation Mechanism]] — practical mechanism when an agent hits a group-deliberative boundary
-- [[Trust Layer Activation Criteria]] — what triggers the transition from markdown-only to cryptographically-verified exchange
+- [\[\[Group Deliberation Mechanism\]\]](../inquiries/Group%20Deliberation%20Mechanism.html) — practical mechanism when an agent hits a group-deliberative boundary
+- [\[\[Trust Layer Activation Criteria\]\]](../inquiries/Trust%20Layer%20Activation%20Criteria.html) — what triggers the transition from markdown-only to cryptographically-verified exchange
 - [[Garden Publishing Path]]⊙ — how to publish the garden preserving typed relations, balancing fidelity, features, and minimalism
 - [[Custom Python Generator for Typed Relations]]⊙ — decision: ~150-line Python generator over Quartz, Jekyll, Eleventy, and Pandoc
 - [[Universal Document Lifecycle State Machine]]⊙ — is there one lifecycle model for wiki pages, garden nodes, and agent context files?
@@ -168,8 +168,8 @@ Open investigations into architectural questions:
 Structural relationships within the architecture:
 
 - [[Captured Reasoning Exchange Pipeline]]⊙ — how reasoning moves through the system
-- [[Principal-Agent Relationship in Augmented Knowledge Work]] — vault as delegated authority
-- [[Authority Conferral Chain]] — three types of delegation (from Self-Sovereign Identity, bridges to Deep Context Architecture)
+- [\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html) — vault as delegated authority
+- [\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html) — three types of delegation (from Self-Sovereign Identity, bridges to Deep Context Architecture)
 - [[Quad Model Mapping to Forms]]⊙ — how the quad maps onto form types as facets
 - [[Status Lifecycle Tracks]]⊙ — three status tracks for three kinds of knowledge work (maturity, curation, processing)
 - [[Document Lifecycle Governance Heuristics]]⊙ — wiki split/merge/delete heuristics applied to garden tending and agent context
@@ -183,11 +183,11 @@ Structural relationships within the architecture:
 
 ### Boundary
 
-- [[Delegated Decision Authority Spectrum]] — where agent authority begins and ends
+- [\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) — where agent authority begins and ends
 
 ### Citations
 
-- [[Roy (2026) Words Without Consequence, from The Atlantic]]⊙ — speech without a speaker who bears consequence erodes the moral structure of language; grounds [[Human Authority Over Augmentation Systems]]
+- [[Roy (2026) Words Without Consequence, from The Atlantic]]⊙ — speech without a speaker who bears consequence erodes the moral structure of language; grounds [\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
 - [[Chatlatanagulchai (2025) Agent READMEs]]⊙ — empirical study validating that agent context files behave as living configurations, not static documentation
 - [[Altshuler (2026) Nanograph On-Device GraphDB]]⊙ — on-device schema-enforced graph database; independent validation of typed predicates over freeform edges and local-first data sovereignty
 - [[systematicls (2026) World-Class Agentic Engineering]]⊙ — practitioner guide on context management, rule/skill lifecycle, and task contracts; validates context conservation and progressive disclosure patterns
@@ -198,7 +198,7 @@ Structural relationships within the architecture:
 
 ### Protocols
 
-- [[Inter-Face Protocol]] — peer-to-peer AI agent communication that filters social connections to surface conversations worth having
+- [\[\[Inter-Face Protocol\]\]](../protocols/Inter-Face%20Protocol.html) — peer-to-peer AI agent communication that filters social connections to surface conversations worth having
 
 ### Scenarios
 
@@ -215,18 +215,18 @@ Structural relationships within the architecture:
 
 ## Open Questions
 
-- How should domain pages handle cross-domain forms? (e.g., [[Authority Conferral Chain]] bridges Deep Context Architecture and Self-Sovereign Identity)
+- How should domain pages handle cross-domain forms? (e.g., [\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html) bridges Deep Context Architecture and Self-Sovereign Identity)
 - What's the right governance weight for a personal garden? (Currently: lightweight rule + reference, no full quad)
 - ~~Should the architecture document itself be extracted into garden nodes, or does it serve better as a monolithic reference?~~ Resolved: extraction is the right approach. All unique content extracted to 17+ garden nodes. The architecture doc itself became a Decision form; the original reference doc is archived (git tag: `archive/dca-architecture-doc/2026-03-07`).
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]] — founding decision: typed forms with predicates over alternatives
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — founding decision: typed forms with predicates over alternatives
 - [[Deep Context Garden Conventions]]⊙ — implementation conventions for this vault
 - [[Deep Context Content Decision Records]]⊙ — ADRs for content decisions
 - [[Deep Context Implementation Roadmap]]⊙ — phase-by-phase build plan
 
 ## Relations
 
-- relates_to::[[Self-Sovereign Identity]] — Self-Sovereign Identity provides the first non-Deep Context Architecture domain content; agency law concepts bridge both
+- relates_to::[\[\[Self-Sovereign Identity\]\]](Self-Sovereign%20Identity.html) — Self-Sovereign Identity provides the first non-Deep Context Architecture domain content; agency law concepts bridge both
 - relates_to::[[Digital Identity]]⊙ — parent domain in Categories/; Deep Context Architecture forms may eventually contribute

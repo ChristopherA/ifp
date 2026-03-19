@@ -5,9 +5,9 @@ brief_summary: "Inter-Face Protocol organizes information sharing through a six-
 tagline: "How do disclosure tiers, personas, and peer relationships intersect to govern information sharing?"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Disclosure Tier Hierarchy for Persona-Peer Relationships
 
@@ -52,17 +52,17 @@ The persona-peer-tier mapping is what makes IFP's disclosure model richer than b
 
 ## Relations
 
-- relates_to::[[Persona as Emergent Context Cluster]]
+- relates_to::[\[\[Persona as Emergent Context Cluster\]\]](../glosses/Persona%20as%20Emergent%20Context%20Cluster.html)
   - Personas are one axis of the disclosure map — each persona has its own tier settings.
 
-- relates_to::[[Disclosure Tier as Information Sharing Boundary]]
+- relates_to::[\[\[Disclosure Tier as Information Sharing Boundary\]\]](../glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html)
   - The gloss defining what a disclosure tier means.
 
-- relates_to::[[Progressive Authentication as Trust Deepening]]
+- relates_to::[\[\[Progressive Authentication as Trust Deepening\]\]](Progressive%20Authentication%20as%20Trust%20Deepening.html)
   - Authentication levels and disclosure tiers deepen in parallel — deeper auth enables deeper disclosure.
 
-- relates_to::[[Coercion Resistance as Meta-Lens]]
+- relates_to::[\[\[Coercion Resistance as Meta-Lens\]\]](Coercion%20Resistance%20as%20Meta-Lens.html)
   - Self-declared disclosure tiers protect against the visibility-to-coercion escalation chain.
 
-- relates_to::[[Choice Architecture and Exit Rights]]
+- relates_to::[\[\[Choice Architecture and Exit Rights\]\]](Choice%20Architecture%20and%20Exit%20Rights.html)
   - The person can always narrow their disclosure or stop sharing — exit rights apply to information sharing.

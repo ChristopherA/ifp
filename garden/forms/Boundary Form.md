@@ -5,10 +5,10 @@ brief_summary: "Defines the Boundary form type: a declaration of what an agent m
 tagline: "Where does this system's authority end? — the structural contract for boundary forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Boundary Form
 
@@ -30,16 +30,16 @@ Naming heuristic: what's bounded + distinctive feature. "Delegated Decision Auth
 
 ## Typical Predicates
 
-- `is_a::[[Boundary Form]]`
-- `has_status::[[Seed Stage]]` or `[[Growing Stage]]`
-- `in_domain::[[Deep Context Architecture]]`
+- `is_a::[\[\[Boundary Form\]\]](Boundary%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
+- `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
 - `grounded_in::[[Value]]` — values that justify the boundary
-- `embodies::[[Pattern Form]]` — patterns that demonstrate the boundary
-- `relates_to::[[Principle Form]]`, `[[Model Form]]`
+- `embodies::[\[\[Pattern Form\]\]](Pattern%20Form.html)` — patterns that demonstrate the boundary
+- `relates_to::[\[\[Principle Form\]\]](Principle%20Form.html)`, `[\[\[Model Form\]\]](Model%20Form.html)`
 
 ## Exemplars
 
-- [[Delegated Decision Authority Spectrum]] — authority zone table with HAAH spectrum, amendment process, and escalation steps
+- [\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) — authority zone table with HAAH spectrum, amendment process, and escalation steps
 
 ## Category
 
@@ -47,10 +47,10 @@ Governance form — establishes *who decides* and *how rules change*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 117-118.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 117-118.
 
 ## Relations
 
-- relates_to::[[Principle Form]] — principles inform what boundaries protect
-- relates_to::[[Model Form]] — models map the authority zones boundaries define
-- relates_to::[[Decision Form]] — boundaries constrain what decisions an agent can make autonomously
+- relates_to::[\[\[Principle Form\]\]](Principle%20Form.html) — principles inform what boundaries protect
+- relates_to::[\[\[Model Form\]\]](Model%20Form.html) — models map the authority zones boundaries define
+- relates_to::[\[\[Decision Form\]\]](Decision%20Form.html) — boundaries constrain what decisions an agent can make autonomously

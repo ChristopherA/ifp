@@ -5,10 +5,10 @@ brief_summary: "Defines the Value form type: an orientation toward what matters.
 tagline: "What do we care about? — the structural contract for value forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Value Form
 
@@ -30,16 +30,16 @@ Naming heuristic: abstract quality or orientation as a noun phrase. Name the val
 
 ## Typical Predicates
 
-- `is_a::[[Value Form]]`
-- `has_status::[[Seed Stage]]` or `[[Evergreen Stage]]`
+- `is_a::[\[\[Value Form\]\]](Value%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
 - `in_domain::[[Domain Name]]`
-- `grounded_in::[[Conviction Form]]` — convictions this value rests on
-- `generates::[[Principle Form]]` — principles derived from this value
+- `grounded_in::[\[\[Conviction Form\]\]](Conviction%20Form.html)` — convictions this value rests on
+- `generates::[\[\[Principle Form\]\]](Principle%20Form.html)` — principles derived from this value
 
 ## Exemplars
 
-- [[Reasoning Fidelity]] — capture how someone reasons, not just what they know, so agents can decide as the owner would
-- [[Knowledge Durability]] — knowledge should outlast the tools used to capture it, driving plain text and zero-dependency constraints
+- [\[\[Reasoning Fidelity\]\]](../values/Reasoning%20Fidelity.html) — capture how someone reasons, not just what they know, so agents can decide as the owner would
+- [\[\[Knowledge Durability\]\]](../values/Knowledge%20Durability.html) — knowledge should outlast the tools used to capture it, driving plain text and zero-dependency constraints
 
 ## Category
 
@@ -47,10 +47,10 @@ Orientation form — establishes *what matters* and *what we believe*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], line 50.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), line 50.
 
 ## Relations
 
-- relates_to::[[Conviction Form]] — convictions ground values
-- relates_to::[[Principle Form]] — values generate principles
-- relates_to::[[Boundary Form]] — boundaries protect what values prioritize
+- relates_to::[\[\[Conviction Form\]\]](Conviction%20Form.html) — convictions ground values
+- relates_to::[\[\[Principle Form\]\]](Principle%20Form.html) — values generate principles
+- relates_to::[\[\[Boundary Form\]\]](Boundary%20Form.html) — boundaries protect what values prioritize

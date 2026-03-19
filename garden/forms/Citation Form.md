@@ -5,10 +5,10 @@ brief_summary: "Defines the Citation form type: a structured dossier on a single
 tagline: "What do I need to know about this source? — the structural contract for citation forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Citation Form
 
@@ -58,8 +58,8 @@ When both primary and secondary analysis exist, rename `analysis.md` to `analysi
 
 ## Typical Predicates
 
-- `is_a::[[Citation Form]]`
-- `has_status::[[Seed Stage]]`
+- `is_a::[\[\[Citation Form\]\]](Citation%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)`
 - `in_domain::[[Domain Name]]`
 - `cites_work_by::[[Person Name]]` — who wrote the cited work (subject is the citation node: "this citation cites a work by...")
 - `cited_by::[[Other Citation]]` — reverse citation links
@@ -67,7 +67,7 @@ When both primary and secondary analysis exist, rename `analysis.md` to `analysi
 
 ## Exemplars
 
-- [[Roy (2026) Words Without Consequence, from The Atlantic]] — Seed stage, atomic. Philosophical argument grounding the [[Human Authority Over Augmentation Systems]] principle.
+- [[Roy (2026) Words Without Consequence, from The Atlantic]] — Seed stage, atomic. Philosophical argument grounding the [\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html) principle.
 - [[Chatlatanagulchai (2025) Agent READMEs]] — Seed stage, atomic. Empirical study validating the architecture's treatment of context files as living documents.
 
 ## Category
@@ -76,11 +76,11 @@ Structural form — captures *how things relate* and *what we understand*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 68-69.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 68-69.
 
 ## Citation Form vs. Opus Form
 
-Citation Form and [[Opus Form]] share compound structure (analysis.md, insights.md, Renditions/, Archives/) but serve opposite relationships to the work:
+Citation Form and [\[\[Opus Form\]\]](Opus%20Form.html) share compound structure (analysis.md, insights.md, Renditions/, Archives/) but serve opposite relationships to the work:
 
 - **Citation Form**: a dossier ABOUT someone else's work. Key predicate: `cites_work_by::[[Person]]`. The lead file summarizes and analyzes. The source is fixed and external. Append-only (new analysis accumulates but doesn't rewrite).
 - **Opus Form**: the author's OWN work. Key predicates: `authored_by::[[Person]]`, `principal::[[Person]]`. The lead file IS the work. The source is living and local. Revisable (the work evolves, analysis updates).
@@ -89,7 +89,7 @@ Both forms share the principal-agent attribution framework (see [[Role-Specific 
 
 ## Relations
 
-- relates_to::[[Gloss Form]] — citations contain glosses as interpretive annotations
+- relates_to::[\[\[Gloss Form\]\]](Gloss%20Form.html) — citations contain glosses as interpretive annotations
 - relates_to::[[Reference Form]] — references synthesize multiple citations
-- relates_to::[[Pattern Form]] — citations may contain pattern instances
-- relates_to::[[Opus Form]] — opuses capture the author's own works; citations capture others' works
+- relates_to::[\[\[Pattern Form\]\]](Pattern%20Form.html) — citations may contain pattern instances
+- relates_to::[\[\[Opus Form\]\]](Opus%20Form.html) — opuses capture the author's own works; citations capture others' works

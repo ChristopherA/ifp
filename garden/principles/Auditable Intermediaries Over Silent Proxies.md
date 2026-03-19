@@ -5,9 +5,9 @@ brief_summary: "Any intermediary that handles messages between agents must leave
 tagline: "Intermediaries must leave auditable traces rather than forwarding silently"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Auditable Intermediaries Over Silent Proxies
 
@@ -40,14 +40,14 @@ The trace ensures that relay involvement is *visible*. Detection and response ar
 
 ## Relations
 
-- relates_to::[[Relay as Accountable Store-and-Forward Intermediary]]
+- relates_to::[\[\[Relay as Accountable Store-and-Forward Intermediary\]\]](../glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)
   - Relays are the primary implementation of this principle.
 
-- relates_to::[[Three-Part Enforcement Stack]]
+- relates_to::[\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html)
   - Mandatory tracing is the technical enforcement layer; accountability also requires legal duties and exit rights.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](Human%20Authority%20Over%20Augmentation%20Systems.html)
   - Auditable traces enable the human to verify what happened — a precondition for meaningful authority.
 
-- relates_to::[[Authority Flows from the Person]]
+- relates_to::[\[\[Authority Flows from the Person\]\]](Authority%20Flows%20from%20the%20Person.html)
   - Transparency through mandatory tracing ensures the person can verify the path their delegated communications took.

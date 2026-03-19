@@ -5,9 +5,9 @@ brief_summary: "In Inter-Face Protocol, an agent is autonomous software that act
 tagline: "An agent acts on behalf of a person, never in place of one"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Agent as Human Proxy in Protocol Exchange
 
@@ -26,17 +26,17 @@ IFP's agent model differs from autonomous AI agent frameworks where agents act i
 
 ## Relations
 
-- defines_vocabulary_from::[[Inter-Face Protocol]]
+- defines_vocabulary_from::[\[\[Inter-Face Protocol\]\]](../protocols/Inter-Face%20Protocol.html)
   - "Agent" is IFP's core actor type.
 
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]]
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)
   - The principal-agent model maps IFP's human-agent relationship to agency law.
 
-- relates_to::[[Authority Flows from the Person]]
+- relates_to::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html)
   - The agent's authority derives from and is revocable by the human operator.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - IFP agents augment human judgment; they do not substitute for it.
 
-- relates_to::[[Delegated Decision Authority Spectrum]]
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - IFP agents operate primarily in the "autonomous" and "propose-and-approve" zones — they filter autonomously but propose recommendations for human approval.

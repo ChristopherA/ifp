@@ -5,9 +5,9 @@ brief_summary: "In agent-age protocols, errors are not failures to be coded and 
 tagline: "What resolves the tension between strict protocol semantics and graceful error handling?"
 ---
 
-- is_a::[[Pattern Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Errors as Negotiation Opportunities
 
@@ -48,11 +48,11 @@ close. Did you mean 'community-trust'?"
 
 ## Relations
 
-- relates_to::[[Clarity Over Tolerance in Agent-Age Protocols]]
+- relates_to::[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](../decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)
   - This pattern makes the clarity-over-tolerance decision viable — it is the graceful mechanism behind strict reporting.
 
-- relates_to::[[Social Conversation Phases as Protocol Semantics]]
+- relates_to::[\[\[Social Conversation Phases as Protocol Semantics\]\]](../models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
   - The error phase is one of six conversation phases — it has the same social, negotiative character as the others.
 
-- relates_to::[[Agent as Human Proxy in Protocol Exchange]]
+- relates_to::[\[\[Agent as Human Proxy in Protocol Exchange\]\]](../glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html)
   - Error negotiation assumes agents that can reason in natural language — simple protocol clients cannot use this pattern.

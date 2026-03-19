@@ -5,8 +5,8 @@ brief_summary: "Domain index for Synpraxis — the study of how independent agen
 tagline: "How independent agents achieve outcomes together — and how it breaks down"
 ---
 
-- is_a::[[Domain Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 
 # Synpraxis
 
@@ -164,11 +164,11 @@ These dynamics operate at different levels of analysis — individual moves (def
 
 ### Convictions
 
-- [[Authentic Collaboration Requires Agency]] — authentic collaboration is impossible without agency; the world's important problems require collaboration; therefore agency infrastructure is prerequisite
+- [\[\[Authentic Collaboration Requires Agency\]\]](../convictions/Authentic%20Collaboration%20Requires%20Agency.html) — authentic collaboration is impossible without agency; the world's important problems require collaboration; therefore agency infrastructure is prerequisite
 
 ### Inquiries
 
-- [[Cooperation vs Collaboration as Distinct Concepts]] — etymological, lexical, and cross-domain analysis of the distinction
+- [\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](../inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html) — etymological, lexical, and cross-domain analysis of the distinction
 
 ## Open Questions
 
@@ -263,7 +263,7 @@ This domain page currently carries content that belongs in typed forms. The sect
 - Sustainability of Cooperative Infrastructure — cooperative systems must be dependable over their entire lifespan; the Heartbleed lesson applied to institutional design (principle)
 - Collaborative Ecosystem Building — no single entity controls evolution; innovation across a diverse network ensures adaptability and inclusivity (pattern)
 - Techno-Social Contract — bridging technical capabilities with cultural, economic, and legislative frameworks for sustainable cooperative systems (model)
-- Progressive Trust as Relationship Evolution — systems reflecting the natural evolution of trust through selective disclosure (pattern, bridges [[Self-Sovereign Identity]])
+- Progressive Trust as Relationship Evolution — systems reflecting the natural evolution of trust through selective disclosure (pattern, bridges [\[\[Self-Sovereign Identity\]\]](Self-Sovereign%20Identity.html))
 
 ### Inquiries (ghost links already in Open Questions)
 
@@ -275,10 +275,10 @@ This domain page currently carries content that belongs in typed forms. The sect
 
 ## Relations
 
-- relates_to::[[Deep Context Architecture]] — synpraxis dynamics inform how the vault models multi-agent knowledge work
-- relates_to::[[Self-Sovereign Identity]] — without identity sovereignty, cooperation is performative; self-sovereign identity provides a synpraxis precondition
-- relates_to::[[Authority Flows from the Person]] — agency as a non-alienable precondition for authentic joint action
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]] — the vault-agent relationship sits somewhere on the synpraxis spectrum
-- relates_to::[[Opus Form]] — opus (Latin: work product) shares the etymological root of cooperation (operari, from opus); the author's substantial works on synpraxis topics are tracked as Opuses
+- relates_to::[\[\[Deep Context Architecture\]\]](Deep%20Context%20Architecture.html) — synpraxis dynamics inform how the vault models multi-agent knowledge work
+- relates_to::[\[\[Self-Sovereign Identity\]\]](Self-Sovereign%20Identity.html) — without identity sovereignty, cooperation is performative; self-sovereign identity provides a synpraxis precondition
+- relates_to::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html) — agency as a non-alienable precondition for authentic joint action
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html) — the vault-agent relationship sits somewhere on the synpraxis spectrum
+- relates_to::[\[\[Opus Form\]\]](../forms/Opus%20Form.html) — opus (Latin: work product) shares the etymological root of cooperation (operari, from opus); the author's substantial works on synpraxis topics are tracked as Opuses
 - relates_to::[[Participation to Community Progression as Garden Concepts]]⊙ — the participation-engagement-affinity-association-community progression operates within synpraxis territory
-- relates_to::[[Delegated Decision Authority Spectrum]] — where authority is shared vs retained maps onto the cooperation-collaboration axis
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) — where authority is shared vs retained maps onto the cooperation-collaboration axis

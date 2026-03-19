@@ -5,9 +5,9 @@ brief_summary: "Cooperation and collaboration share a Latin prefix (com- = toget
 tagline: "Same prefix, different roots — opus (the product) vs labor (the sweat) — and the distinction persists everywhere"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Synpraxis]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Synpraxis\]\]](../domains/Synpraxis.html)
 
 # Cooperation vs Collaboration as Distinct Concepts
 
@@ -189,7 +189,7 @@ The deepest pattern: **cooperation describes behavioral outcomes regardless of c
 
 ## Relations
 
-- relates_to::[[Authority Conferral Chain]] — cooperation preserves autonomy; collaboration merges it
-- relates_to::[[Delegated Decision Authority Spectrum]] — cooperative relationships keep authority separate; collaborative ones share it
-- relates_to::[[Human Authority Over Augmentation Systems]] — is the vault-agent relationship cooperation (agent assists principal's goals) or collaboration (shared creation)?
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]] — the principal cooperates with the agent; do they collaborate?
+- relates_to::[\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html) — cooperation preserves autonomy; collaboration merges it
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html) — cooperative relationships keep authority separate; collaborative ones share it
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html) — is the vault-agent relationship cooperation (agent assists principal's goals) or collaboration (shared creation)?
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html) — the principal cooperates with the agent; do they collaborate?

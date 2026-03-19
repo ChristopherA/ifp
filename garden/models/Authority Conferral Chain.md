@@ -6,9 +6,9 @@ tagline: "Seven predicates encoding authority chains from principal through agen
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 
 # Authority Conferral Chain
 
@@ -58,11 +58,11 @@ The classification serves as a diagnostic: given a system, which type describes 
 
 ## Relations
 
-- depends_on::[[Principal Authority as Agency Law for Digital Identity]]
+- depends_on::[\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)
   - The predicates encode the legal concepts defined in the gloss.
 
-- depends_on::[[Authority Flows from the Person]]
+- depends_on::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html)
   - The chain model assumes authority originates with the person and flows outward.
 
-- relates_to::[[Three-Part Enforcement Stack]]
+- relates_to::[\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html)
   - The predicates provide the technical layer; enforcement requires all three layers.

@@ -6,9 +6,9 @@ tagline: "How principal authority maps to vault owner, Claude sessions, rules, a
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Principal-Agent Relationship in Augmented Knowledge Work
 
@@ -60,16 +60,16 @@ The diagnostic: if removing the human from the loop changes nothing about the sy
 
 ## Relations
 
-- depends_on::[[Authority Conferral Chain]]
+- depends_on::[\[\[Authority Conferral Chain\]\]](Authority%20Conferral%20Chain.html)
   - The vault's conferral mechanisms implement the formal predicate model.
 
-- depends_on::[[Principal Authority as Agency Law for Digital Identity]]
+- depends_on::[\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)
   - The five-term vocabulary (principal, agent, conferral, authorship, responsibility) defines this model's concepts.
 
-- relates_to::[[Delegated Decision Authority Spectrum]]
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - The four authority zones operationalize this model's boundary condition.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The principle that justifies this model's design commitments.
 
-- relates_to::[[Opus Form]] — Opus Form's principal:: and authored_by:: predicates reflect the authorship/responsibility split
+- relates_to::[\[\[Opus Form\]\]](../forms/Opus%20Form.html) — Opus Form's principal:: and authored_by:: predicates reflect the authorship/responsibility split

@@ -5,9 +5,9 @@ brief_summary: "Inter-Face Protocol defines four authentication levels that deep
 tagline: "How do authentication levels track the deepening of trust between agents?"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Progressive Authentication as Trust Deepening
 
@@ -41,20 +41,20 @@ IFP's progressive authentication model aligns with Self-Sovereign Identity princ
 
 ## Relations
 
-- relates_to::[[Authority Flows from the Person]]
+- relates_to::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html)
   - Agent keys represent delegated authority from the human operator.
 
-- relates_to::[[Disclosure Tier Hierarchy for Persona-Peer Relationships]]
+- relates_to::[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]](Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)
   - Disclosure tiers and authentication levels deepen in parallel.
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Cool exchanges can start at Level 0; hot collaboration typically requires Level 2+.
 
-- relates_to::[[Authority Conferral Chain]]
+- relates_to::[\[\[Authority Conferral Chain\]\]](Authority%20Conferral%20Chain.html)
   - The authentication levels formalize how authority is conferred and verified in IFP's agent model.
 
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]]
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)
   - The agent's cryptographic identity is a delegation from the principal (human operator).
 
-- relates_to::[[Trust Layer Activation Criteria]]
+- relates_to::[\[\[Trust Layer Activation Criteria\]\]](../inquiries/Trust%20Layer%20Activation%20Criteria.html)
   - When should authentication deepen from Level 1 to Level 2 or Level 3? The trust layer activation criteria provide a framework for answering this question.

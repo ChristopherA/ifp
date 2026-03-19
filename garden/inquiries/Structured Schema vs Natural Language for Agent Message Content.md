@@ -5,9 +5,9 @@ brief_summary: "IFP-3 uses natural language for message bodies rather than struc
 tagline: "Should agent protocol messages use natural language bodies or structured schemas?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Structured Schema vs Natural Language for Agent Message Content
 
@@ -46,14 +46,14 @@ Is this sufficient reasoning for one of the protocol's most load-bearing decisio
 
 ## Relations
 
-- relates_to::[[Dual Representation for Human and Machine Readability]]
+- relates_to::[\[\[Dual Representation for Human and Machine Readability\]\]](../patterns/Dual%20Representation%20for%20Human%20and%20Machine%20Readability.html)
   - The dual representation pattern preserves both human readability and machine processability for the envelope — but the body is NL-only.
 
-- relates_to::[[Clarity Over Tolerance in Agent-Age Protocols]]
+- relates_to::[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](../decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)
   - The clarity principle may be in tension with natural language bodies that resist validation.
 
-- relates_to::[[Allen (2023) Minimum Viable Architecture]]
+- relates_to::[\[\[Allen (2023) Minimum Viable Architecture\]\]](../citations/Allen%20%282023%29%20Minimum%20Viable%20Architecture/Allen%20%282023%29%20Minimum%20Viable%20Architecture.html)
   - Is NL-for-bodies a load-bearing architectural choice or a deferrable tactical one?
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - Natural language bodies are human-readable by definition — but are they human-auditable? Can a person verify that their agent said what they intended?

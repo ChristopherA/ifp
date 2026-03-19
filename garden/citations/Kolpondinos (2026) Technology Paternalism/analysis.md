@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-part_of: "[[Kolpondinos (2026) Technology Paternalism]]"
+part_of: "[\[\[Kolpondinos (2026) Technology Paternalism\]\]](Kolpondinos%20%282026%29%20Technology%20Paternalism.html)"
 ---
 
 # Primary Source Analysis: Technology Paternalism

@@ -5,8 +5,8 @@ brief_summary: "Insights from mapping progressive trust to IFP — what the exer
 tagline: "What does mapping progressive trust to IFP reveal about trust in agent protocols?"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 
 # Insights: Progressive Trust and Agent Protocol Design
 
@@ -34,5 +34,5 @@ The mechanism for trust regression — how an agent records, communicates, and a
 
 ## Sources
 
-- [[Allen (2024) Progressive Trust]] — the source framework
+- [\[\[Allen (2024) Progressive Trust\]\]](Allen%20%282024%29%20Progressive%20Trust.html) — the source framework
 - Analysis in this compound citation

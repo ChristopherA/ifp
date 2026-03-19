@@ -6,9 +6,9 @@ tagline: "Typed edges create compounding knowledge — filing creates accumulati
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Pattern Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Knowledge Compounds Through Typed Edges Not Filing
 

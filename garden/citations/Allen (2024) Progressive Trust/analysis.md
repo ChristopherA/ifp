@@ -5,8 +5,8 @@ brief_summary: "Analysis of how Christopher Allen's progressive trust framework 
 tagline: "How faithfully does IFP operationalize the progressive trust framework?"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 
 # Analysis: Progressive Trust Applied to Inter-Face Protocol
 
@@ -40,6 +40,6 @@ Inter-Face Protocol's progressive authentication (IFP-5) and disclosure tiers (I
 
 ## Sources
 
-- [[Allen (2024) Progressive Trust]] — the source framework
+- [\[\[Allen (2024) Progressive Trust\]\]](Allen%20%282024%29%20Progressive%20Trust.html) — the source framework
 - [IFP-5: Identity and Message Signing](../../ifp-5-identity-signing.md) — authentication operationalization
 - [IFP-12: Personas and Disclosure Tiers](../../ifp-12-personas.md) — disclosure operationalization

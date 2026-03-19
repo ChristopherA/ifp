@@ -6,11 +6,11 @@ tagline: "Structured and linked but still developing — the active tending stag
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
-- in_precinct::[[Vault Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
+- in_precinct::[\[\[Vault Precinct\]\]](../glosses/Vault%20Precinct.html)
 
 # Growing Stage
 
@@ -36,10 +36,10 @@ Growing is the active tending stage. A node here is being shaped through use: ne
 
 ## Sources
 
-Growth stage definitions from [[Deep Context as an Architecture for Captured Reasoning]], "Growth Stages as Lifecycle Metadata" section. Originally `status/growing` tag; migrated to `has_status::[[Growing Stage]]` predicate per [[Classification via Predicates Not Tags]].
+Growth stage definitions from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Growth Stages as Lifecycle Metadata" section. Originally `status/growing` tag; migrated to `has_status::[\[\[Growing Stage\]\]](Growing%20Stage.html)` predicate per [[Classification via Predicates Not Tags]].
 
 ## Relations
 
-- relates_to::[[Seed Stage]] — the previous stage in the growth progression
-- relates_to::[[Evergreen Stage]] — the next stage in the growth progression
+- relates_to::[\[\[Seed Stage\]\]](Seed%20Stage.html) — the previous stage in the growth progression
+- relates_to::[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html) — the next stage in the growth progression
 - relates_to::[[Structural Retrieval Hierarchy]] — growing nodes rank in the first retrieval tier alongside evergreen

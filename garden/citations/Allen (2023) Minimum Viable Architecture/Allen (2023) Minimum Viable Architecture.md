@@ -8,9 +8,9 @@ brief_summary: "Christopher Allen's minimum viable architecture principle: make 
 tagline: "Make the hard-to-reverse decisions early, defer everything else"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../../domains/Deep%20Context%20Architecture.html)
 - cites_work_by::[[Christopher Allen]]⊙
 
 # Allen (2023) Minimum Viable Architecture
@@ -41,14 +41,14 @@ Directly relevant to Inter-Face Protocol's architectural choices. IFP's load-bea
 
 ## Relations
 
-- relates_to::[[Granularity of Progressive Authentication Stages]]
+- relates_to::[\[\[Granularity of Progressive Authentication Stages\]\]](../../inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html)
   - Are the four authentication levels a load-bearing architectural decision or a tactical choice that could be refined?
 
-- relates_to::[[Disclosure Spectrum as Discrete Tiers or Continuous Range]]
+- relates_to::[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](../../inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)
   - Are the six disclosure tier names a minimum viable architecture decision or a deferrable tactical choice?
 
-- relates_to::[[Social Phase Decomposition in Trust-Building Protocols]]
+- relates_to::[\[\[Social Phase Decomposition in Trust-Building Protocols\]\]](../../inquiries/Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html)
   - Are the six conversation phases load-bearing architecture or tactical decomposition?
 
-- relates_to::[[Clarity Over Tolerance in Agent-Age Protocols]]
+- relates_to::[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](../../decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)
   - Replacing Postel's Law is a hard-to-reverse architectural decision — exactly the kind minimum viable architecture says to make early.

@@ -6,9 +6,9 @@ tagline: "Curated knowledge nodes with structural contracts and growth stages"
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Garden Precinct
 
@@ -19,8 +19,8 @@ The garden solves the problem of making knowledge retrievable, composable, and t
 ## What Lives Here
 
 - **16 form types** with structural contracts (Pattern, Model, Decision, Gloss, Inquiry, Reference, Principle, Protocol, Citation, Case, Conviction, Value, Domain, Boundary, Skill, Scenario)
-- **Growth stages** shared with the [[Vault Precinct]]: Seed, Growing, Evergreen, Pruned
-- **Knowledge domains** that may span precincts: [[Deep Context Architecture]], [[Self-Sovereign Identity]]
+- **Growth stages** shared with the [\[\[Vault Precinct\]\]](Vault%20Precinct.html): Seed, Growing, Evergreen, Pruned
+- **Knowledge domains** that may span precincts: [\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html), [\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 - **Folder structure**: `Garden/` with subfolders per form type (`patterns/`, `models/`, `decisions/`, etc.)
 
 ## Living Documents
@@ -40,10 +40,10 @@ Term adopted from urban planning via [[Precinct as Organizational Unit]]⊙.
 - defined_by::[[Precinct as Organizational Unit]]⊙
   - The decision that established this term.
 
-- relates_to::[[Vault Precinct]]
+- relates_to::[\[\[Vault Precinct\]\]](Vault%20Precinct.html)
   - The sibling precinct for operational knowledge work.
 
-- relates_to::[[Form Type]]
+- relates_to::[\[\[Form Type\]\]](../forms/Form%20Type.html)
   - All 16 form types carry structural contracts specific to this precinct.
 
 - relates_to::[[Vault Content Graduation]]⊙

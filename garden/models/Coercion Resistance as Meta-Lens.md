@@ -5,9 +5,9 @@ brief_summary: "Meta-lens framework showing how coercion operates across four di
 tagline: "Four dimensions of coercion in identity systems and the visibility-to-coercion escalation chain"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 - extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]⊙
 
 # Coercion Resistance as Meta-Lens
@@ -32,7 +32,7 @@ Identity systems that make people visible enable classification (legibility), wh
 |-----------|-----------|-----------------|-----------------|
 | Interface | Dark patterns, manipulative defaults, deceptive design | This meta-lens | Design Paternalism |
 | Inference | Behavioral profiling creating conformity pressure | [[Self-Coercion Through Surveillance Awareness]]⊙ | Algorithmic Paternalism |
-| Structural | Lock-in, credential dependencies, exit penalties | [[Choice Architecture and Exit Rights]] | Infrastructural Paternalism |
+| Structural | Lock-in, credential dependencies, exit penalties | [\[\[Choice Architecture and Exit Rights\]\]](Choice%20Architecture%20and%20Exit%20Rights.html) | Infrastructural Paternalism |
 | Psychological | Self-censorship, anticipatory compliance | [[Self-Coercion Through Surveillance Awareness]]⊙ | Protective Paternalism (partial) |
 
 ### Reinforcement Pattern
@@ -41,7 +41,7 @@ The four dimensions reinforce each other: interface manipulation enables profili
 
 ## Boundaries
 
-This model describes how coercion operates, not what to do about it. Countermeasures are in [[Technology Paternalism Masks Coercion]] (override, contest, inspect, exit). The model applies to identity systems broadly — centralized, decentralized, and hybrid.
+This model describes how coercion operates, not what to do about it. Countermeasures are in [\[\[Technology Paternalism Masks Coercion\]\]](../patterns/Technology%20Paternalism%20Masks%20Coercion.html) (override, contest, inspect, exit). The model applies to identity systems broadly — centralized, decentralized, and hybrid.
 
 ## Sources
 
@@ -50,9 +50,9 @@ This model describes how coercion operates, not what to do about it. Countermeas
 
 ## Relations
 
-relates_to::[[Self-Sovereign Identity]]
-relates_to::[[Technology Paternalism Masks Coercion]]
-relates_to::[[Authentic Collaboration Requires Agency]]
-relates_to::[[Choice Architecture and Exit Rights]]
+relates_to::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
+relates_to::[\[\[Technology Paternalism Masks Coercion\]\]](../patterns/Technology%20Paternalism%20Masks%20Coercion.html)
+relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../convictions/Authentic%20Collaboration%20Requires%20Agency.html)
+relates_to::[\[\[Choice Architecture and Exit Rights\]\]](Choice%20Architecture%20and%20Exit%20Rights.html)
 relates_to::[[Self-Coercion Through Surveillance Awareness]]⊙
 relates_to::[[Coercion Resistance as Replacement Framing]]⊙

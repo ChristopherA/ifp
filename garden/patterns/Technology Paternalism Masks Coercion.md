@@ -5,10 +5,10 @@ brief_summary: "Anti-pattern where digital systems shape, restrict, or pre-decid
 tagline: "When benevolent intent in system design masks systematic coercion across four layers"
 ---
 
-- is_a::[[Pattern Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
-- extracted_from::[[Kolpondinos (2026) Technology Paternalism]]
+- is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
+- extracted_from::[\[\[Kolpondinos (2026) Technology Paternalism\]\]](../citations/Kolpondinos%20%282026%29%20Technology%20Paternalism/Kolpondinos%20%282026%29%20Technology%20Paternalism.html)
 
 # Technology Paternalism Masks Coercion
 
@@ -71,9 +71,9 @@ These extend Spiekermann and Pallas's "right to the last word" (2006) into a tes
 
 ## Relations
 
-relates_to::[[Authentic Collaboration Requires Agency]]
-relates_to::[[Self-Sovereign Identity]]
+relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../convictions/Authentic%20Collaboration%20Requires%20Agency.html)
+relates_to::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 extends::[[Coercion Resistance]]⊙
-relates_to::[[Kolpondinos (2026) Technology Paternalism]]
+relates_to::[\[\[Kolpondinos (2026) Technology Paternalism\]\]](../citations/Kolpondinos%20%282026%29%20Technology%20Paternalism/Kolpondinos%20%282026%29%20Technology%20Paternalism.html)
 relates_to::[[Dimensions of Digital Coercion]]⊙
 relates_to::[[Choice Architecture]]⊙

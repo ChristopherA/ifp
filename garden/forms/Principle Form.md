@@ -5,10 +5,10 @@ brief_summary: "Defines the Principle form type: a decision constraint derived f
 tagline: "What must we always or never do? — the structural contract for principle forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Principle Form
 
@@ -32,18 +32,18 @@ Naming heuristic: maxim or priority declaration. "Human Authority Over Augmentat
 
 ## Typical Predicates
 
-- `is_a::[[Principle Form]]`
-- `has_status::[[Seed Stage]]` or `[[Evergreen Stage]]`
-- `in_domain::[[Deep Context Architecture]]`
+- `is_a::[\[\[Principle Form\]\]](Principle%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
+- `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
 - `depends_on::[[Value]]` or `[[Conviction]]` — what grounds the principle
 - `extends::[[Related Principle]]` — how principles build on each other
-- `relates_to::[[Boundary Form]]`, `[[Pattern Form]]`, `[[Model Form]]`
+- `relates_to::[\[\[Boundary Form\]\]](Boundary%20Form.html)`, `[\[\[Pattern Form\]\]](Pattern%20Form.html)`, `[\[\[Model Form\]\]](Model%20Form.html)`
 
 ## Exemplars
 
-- [[Human Authority Over Augmentation Systems]] — multi-level manifestation (session, architecture, knowledge)
-- [[Authority Flows from the Person]] — grounded in Self-Sovereign Identity domain with delegability test
-- [[Content Over Container]] — priority declaration with clear "X Over Y" naming
+- [\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html) — multi-level manifestation (session, architecture, knowledge)
+- [\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html) — grounded in Self-Sovereign Identity domain with delegability test
+- [\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html) — priority declaration with clear "X Over Y" naming
 
 ## Category
 
@@ -51,11 +51,11 @@ Orientation form — establishes *what matters* and *what we believe*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 52-53.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 52-53.
 
 ## Relations
 
-- relates_to::[[Boundary Form]] — principles inform boundaries; boundaries enforce principles
-- relates_to::[[Decision Form]] — principles provide standing constraints that decisions apply
-- relates_to::[[Pattern Form]] — principles compress patterns into heuristics
-- relates_to::[[Model Form]] — principles constrain what models can represent
+- relates_to::[\[\[Boundary Form\]\]](Boundary%20Form.html) — principles inform boundaries; boundaries enforce principles
+- relates_to::[\[\[Decision Form\]\]](Decision%20Form.html) — principles provide standing constraints that decisions apply
+- relates_to::[\[\[Pattern Form\]\]](Pattern%20Form.html) — principles compress patterns into heuristics
+- relates_to::[\[\[Model Form\]\]](Model%20Form.html) — principles constrain what models can represent

@@ -5,9 +5,9 @@ brief_summary: "In Inter-Face Protocol, a persona is a coherent subset of a pers
 tagline: "Personas reflect how human interests naturally cluster, not how systems categorize people"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Persona as Emergent Context Cluster
 
@@ -26,14 +26,14 @@ The persona is not an identity. The agent identifier (from IFP-5 and IFP-10) sta
 
 ## Relations
 
-- defines_vocabulary_from::[[Inter-Face Protocol]]
+- defines_vocabulary_from::[\[\[Inter-Face Protocol\]\]](../protocols/Inter-Face%20Protocol.html)
   - "Persona" is IFP's term for emergent context clusters.
 
-- grounds::[[Personas Emerge from Observation Not Enumeration]]
+- grounds::[\[\[Personas Emerge from Observation Not Enumeration\]\]](../convictions/Personas%20Emerge%20from%20Observation%20Not%20Enumeration.html)
   - The conviction that prescribed enumeration misrepresents how people experience context.
 
-- relates_to::[[Disclosure Tier Hierarchy for Persona-Peer Relationships]]
+- relates_to::[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]](../models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)
   - Disclosure tiers are persona-specific — each persona has its own disclosure settings per peer.
 
-- relates_to::[[Progressive Disclosure Over Eager Loading]]
+- relates_to::[\[\[Progressive Disclosure Over Eager Loading\]\]](../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)
   - Persona-specific disclosure follows the same progressive pattern — share narrowly first, deepen as trust builds.

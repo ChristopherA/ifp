@@ -1,6 +1,6 @@
 ---
 created: 2026-03-17
-part_of: "[[Kolpondinos (2026) Technology Paternalism]]"
+part_of: "[\[\[Kolpondinos (2026) Technology Paternalism\]\]](Kolpondinos%20%282026%29%20Technology%20Paternalism.html)"
 ---
 
 # Insights: Technology Paternalism
@@ -11,7 +11,7 @@ The article's primary contribution is definitional: naming a pattern that has be
 
 **Garden connection**: This supports creating a Pattern Form anti-pattern in the garden. The name should capture the failure-mode-as-claim convention: "Technology Paternalism Masks Coercion" or similar. The four-form taxonomy could become sub-patterns or remain integrated in the parent pattern's analysis.
 
-**Connects to**: [[Authentic Collaboration Requires Agency]] — technology paternalism is what happens when systems substitute their judgment for user agency while claiming to serve users.
+**Connects to**: [\[\[Authentic Collaboration Requires Agency\]\]](../../convictions/Authentic%20Collaboration%20Requires%20Agency.html) — technology paternalism is what happens when systems substitute their judgment for user agency while claiming to serve users.
 
 ## Insight 2: Four Countermeasures as a Test Framework
 

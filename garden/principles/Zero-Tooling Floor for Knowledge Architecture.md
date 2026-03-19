@@ -6,9 +6,9 @@ tagline: "Plain markdown, git, and shell one-liners — specialized tools add va
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Zero-Tooling Floor for Knowledge Architecture
 
@@ -46,7 +46,7 @@ The convergence suggests that plain markdown with typed metadata is not merely a
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]], "Authoring Layer" and "Semantic Layer" sections (lines 244-256)
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Authoring Layer" and "Semantic Layer" sections (lines 244-256)
 - [[The Gardening Problem Returns - Document Lifecycle in the Age of AI Agents]]⊙, Section 1.3 — ClawVault, QMD, and MIE as independent convergence on markdown+YAML for agent memory
 
 ## Relations
@@ -54,8 +54,8 @@ The convergence suggests that plain markdown with typed metadata is not merely a
 - relates_to::[[Predicate Maintenance Recipes Over Tools]]⊙
   - Maintenance recipes demonstrate the zero-tooling floor in practice.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](Human%20Authority%20Over%20Augmentation%20Systems.html)
   - Zero-tooling preserves human authority by avoiding tool lock-in.
 
-- relates_to::[[Content Over Container]]
+- relates_to::[\[\[Content Over Container\]\]](Content%20Over%20Container.html)
   - Both principles favor portable content over infrastructure dependency.

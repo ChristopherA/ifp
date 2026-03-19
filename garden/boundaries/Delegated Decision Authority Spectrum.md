@@ -6,9 +6,9 @@ tagline: "Four authority zones that determine who may decide what within a garde
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Boundary Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Boundary Form\]\]](../forms/Boundary%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Delegated Decision Authority Spectrum
 
@@ -60,7 +60,7 @@ Extracted from the "Decision Boundaries" section of the deep context architectur
 
 ## Relations
 
-- implements::[[Deep Context as an Architecture for Captured Reasoning]]
+- implements::[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)
   - The four-zone authority table and agent behavior guidance originate from the Decision Boundaries section of the architecture document.
 
 - grounded_in::[[Autonomy]]⊙
@@ -69,8 +69,8 @@ Extracted from the "Decision Boundaries" section of the deep context architectur
 - embodies::[[Progressive Trust]]⊙
   - Authority is granted progressively — an agent proves competence at lower zones before being trusted with higher-authority actions.
 
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]]
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)
   - The four authority zones operationalize the model's boundary condition for this vault.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The spectrum implements the principle that human authority must be preserved at every decision level.

@@ -5,11 +5,11 @@ brief_summary: "Defines the Domain form type: a navigational and structural inde
 tagline: "What knowledge area does this cluster of forms belong to? — the structural contract for domain forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
-- in_precinct::[[Vault Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
+- in_precinct::[\[\[Vault Precinct\]\]](../glosses/Vault%20Precinct.html)
 
 # Domain Form
 
@@ -35,16 +35,16 @@ Naming heuristic: knowledge area proper name, concise. One to three words that n
 
 ## Typical Predicates
 
-- `is_a::[[Domain Form]]`
-- `has_status::[[Growing Stage]]`
+- `is_a::[\[\[Domain Form\]\]](Domain%20Form.html)`
+- `has_status::[\[\[Growing Stage\]\]](Growing%20Stage.html)`
 - `indexes::[[Garden Node]]` — nodes belonging to this domain
 - `relates_to::[[Other Domain]]` — related knowledge areas
 
 ## Exemplars
 
-- [[Deep Context Architecture]] — the self-referential domain: 79 nodes defining the architecture that defines the garden
-- [[Self-Sovereign Identity]] — first non-Deep Context Architecture domain, 4 nodes on the principal authority framework from agency law
-- [[Synpraxis]] — how independent agents achieve outcomes together across varying degrees of integration
+- [\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html) — the self-referential domain: 79 nodes defining the architecture that defines the garden
+- [\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html) — first non-Deep Context Architecture domain, 4 nodes on the principal authority framework from agency law
+- [\[\[Synpraxis\]\]](../domains/Synpraxis.html) — how independent agents achieve outcomes together across varying degrees of integration
 
 ## Category
 
@@ -52,11 +52,11 @@ Structural form — captures *how things relate* and *what we understand*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 71-76.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 71-76.
 
 ## Relations
 
 - relates_to::[[Reference Form]] — references brief on domains; domain pages actively index them
-- relates_to::[[Model Form]] — models describe structural relationships within a domain
-- relates_to::[[Inquiry Form]] — domain pages track open questions that inquiry nodes investigate
-- relates_to::[[Opus Form]] — domains index opuses alongside other form types via in_domain:: predicates
+- relates_to::[\[\[Model Form\]\]](Model%20Form.html) — models describe structural relationships within a domain
+- relates_to::[\[\[Inquiry Form\]\]](Inquiry%20Form.html) — domain pages track open questions that inquiry nodes investigate
+- relates_to::[\[\[Opus Form\]\]](Opus%20Form.html) — domains index opuses alongside other form types via in_domain:: predicates

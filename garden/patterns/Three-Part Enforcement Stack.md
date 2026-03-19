@@ -6,15 +6,15 @@ tagline: "Legal duties plus technical enforcement plus exit rights — remove an
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Pattern Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 
 # Three-Part Enforcement Stack
 
 ## Context
 
-Digital identity systems claim to serve users but lack mechanisms to enforce that claim. Agency law defines duties ([[Principal Authority as Agency Law for Digital Identity]]) and predicates encode authority chains ([[Authority Conferral Chain]]), but neither legal definitions nor technical encodings alone produce accountability.
+Digital identity systems claim to serve users but lack mechanisms to enforce that claim. Agency law defines duties ([\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)) and predicates encode authority chains ([\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html)), but neither legal definitions nor technical encodings alone produce accountability.
 
 ## Forces
 
@@ -52,11 +52,11 @@ The stack also applies to principal-agent relationships in augmentation systems.
 
 ## Relations
 
-- depends_on::[[Principal Authority as Agency Law for Digital Identity]]
+- depends_on::[\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)
   - The legal layer draws its duties from the agency law framework.
 
-- depends_on::[[Authority Conferral Chain]]
+- depends_on::[\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html)
   - The technical layer uses the predicate vocabulary for encoding boundaries.
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - The stack applies to knowledge work augmentation systems, not only digital identity.

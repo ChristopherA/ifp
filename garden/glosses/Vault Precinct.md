@@ -6,9 +6,9 @@ tagline: "Operational knowledge capture, organization, and retrieval for daily w
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Vault Precinct
 
@@ -19,7 +19,7 @@ Vault content uses the same predicate infrastructure as garden nodes (`is_a::`, 
 ## What Lives Here
 
 - **Vault form types**: [[Meeting Note]]⊙, [[Transcript]]⊙, [[Person Note]]⊙, [[Chat Log]]⊙, [[Sidecar]]⊙
-- **Growth stages** shared with the [[Garden Precinct]]: Seed, Growing, Evergreen, Pruned
+- **Growth stages** shared with the [\[\[Garden Precinct\]\]](Garden%20Precinct.html): Seed, Growing, Evergreen, Pruned
 - **Processing stages** specific to meetings: Captured, Transcribed, Cleaned, Summarized, Published
 - **Folder structure**: `Meetings/`, `People/`, `Daily/`, `Research/`, `Notes/`, `Clippings/`, `References/`
 
@@ -40,7 +40,7 @@ Term adopted from urban planning via [[Precinct as Organizational Unit]]⊙.
 - defined_by::[[Precinct as Organizational Unit]]⊙
   - The decision that established this term.
 
-- relates_to::[[Garden Precinct]]
+- relates_to::[\[\[Garden Precinct\]\]](Garden%20Precinct.html)
   - The sibling precinct for curated knowledge forms.
 
 - relates_to::[[Vault Content Graduation]]⊙

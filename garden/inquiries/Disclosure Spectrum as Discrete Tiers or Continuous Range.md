@@ -5,9 +5,9 @@ brief_summary: "IFP-12 defines six named disclosure tiers (public through close)
 tagline: "Should information sharing boundaries be discrete named tiers or a continuous spectrum?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Disclosure Spectrum as Discrete Tiers or Continuous Range
 
@@ -45,18 +45,18 @@ This raises three related questions:
 ## Sources
 
 - [IFP-12: Personas and Disclosure Tiers](../../ifp-12-personas.md), Section 3.3
-- [[Allen (2024) Progressive Trust]] — progressive disclosure as a continuous model
+- [\[\[Allen (2024) Progressive Trust\]\]](../citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html) — progressive disclosure as a continuous model
 
 ## Relations
 
-- relates_to::[[Disclosure Tier Hierarchy for Persona-Peer Relationships]]
+- relates_to::[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]](../models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)
   - The model this inquiry questions.
 
-- relates_to::[[Granularity of Progressive Authentication Stages]]
+- relates_to::[\[\[Granularity of Progressive Authentication Stages\]\]](Granularity%20of%20Progressive%20Authentication%20Stages.html)
   - The same discrete-vs-continuous question applies to authentication levels.
 
-- relates_to::[[Personas Emerge from Observation Not Enumeration]]
+- relates_to::[\[\[Personas Emerge from Observation Not Enumeration\]\]](../convictions/Personas%20Emerge%20from%20Observation%20Not%20Enumeration.html)
   - Emergent personas paired with prescribed tiers creates a tension worth examining.
 
-- relates_to::[[Convergence and Divergence Across Agent Application Platforms]]
+- relates_to::[\[\[Convergence and Divergence Across Agent Application Platforms\]\]](Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)
   - Different platforms may need different disclosure vocabularies.

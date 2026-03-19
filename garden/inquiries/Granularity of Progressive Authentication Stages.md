@@ -5,9 +5,9 @@ brief_summary: "IFP defines four authentication levels (shared secret, signed, v
 tagline: "Do four discrete authentication levels capture the right trust boundaries for agent protocols?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Granularity of Progressive Authentication Stages
 
@@ -44,18 +44,18 @@ The jumps between levels are large. Are there trust-relevant distinctions being 
 ## Sources
 
 - [IFP-5: Identity and Message Signing](../../ifp-5-identity-signing.md), Section 2
-- [[Allen (2024) Progressive Trust]] — the continuous model these levels discretize
+- [\[\[Allen (2024) Progressive Trust\]\]](../citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html) — the continuous model these levels discretize
 
 ## Relations
 
-- relates_to::[[Progressive Authentication as Trust Deepening]]
+- relates_to::[\[\[Progressive Authentication as Trust Deepening\]\]](../models/Progressive%20Authentication%20as%20Trust%20Deepening.html)
   - The model this inquiry questions.
 
-- relates_to::[[Allen (2024) Progressive Trust]]
+- relates_to::[\[\[Allen (2024) Progressive Trust\]\]](../citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html)
   - The progressive trust framework describes a richer spectrum than four discrete stages.
 
-- relates_to::[[Allen (2023) Minimum Viable Architecture]]
+- relates_to::[\[\[Allen (2023) Minimum Viable Architecture\]\]](../citations/Allen%20%282023%29%20Minimum%20Viable%20Architecture/Allen%20%282023%29%20Minimum%20Viable%20Architecture.html)
   - Are four levels a load-bearing decision or a tactical one?
 
-- relates_to::[[Disclosure Spectrum as Discrete Tiers or Continuous Range]]
+- relates_to::[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)
   - The same granularity question applies to disclosure tiers — both discretize a continuous spectrum.

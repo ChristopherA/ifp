@@ -5,9 +5,9 @@ brief_summary: "Model of how initially voluntary digital choices accumulate into
 tagline: "How voluntary digital choices accumulate into coercive dependencies with prohibitive exit costs"
 ---
 
-- is_a::[[Model Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 - extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]⊙
 
 # Choice Architecture and Exit Rights
@@ -42,7 +42,7 @@ In Kolpondinos's taxonomy, this is **Infrastructural Paternalism** — the form 
 
 ## Boundaries
 
-This model covers structural lock-in and exit costs. Psychological effects of lock-in awareness (self-censorship) are in [[Self-Coercion Through Surveillance Awareness]]⊙. Interface manipulation that creates the initial adoption is in [[Coercion Resistance as Meta-Lens]].
+This model covers structural lock-in and exit costs. Psychological effects of lock-in awareness (self-censorship) are in [[Self-Coercion Through Surveillance Awareness]]⊙. Interface manipulation that creates the initial adoption is in [\[\[Coercion Resistance as Meta-Lens\]\]](Coercion%20Resistance%20as%20Meta-Lens.html).
 
 ## Sources
 
@@ -53,7 +53,7 @@ This model covers structural lock-in and exit costs. Psychological effects of lo
 
 ## Relations
 
-relates_to::[[Coercion Resistance as Meta-Lens]]
-relates_to::[[Technology Paternalism Masks Coercion]]
-relates_to::[[Self-Sovereign Identity]]
-relates_to::[[Authentic Collaboration Requires Agency]]
+relates_to::[\[\[Coercion Resistance as Meta-Lens\]\]](Coercion%20Resistance%20as%20Meta-Lens.html)
+relates_to::[\[\[Technology Paternalism Masks Coercion\]\]](../patterns/Technology%20Paternalism%20Masks%20Coercion.html)
+relates_to::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
+relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../convictions/Authentic%20Collaboration%20Requires%20Agency.html)

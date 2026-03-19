@@ -5,9 +5,9 @@ brief_summary: "The decision to capture personal reasoning as typed markdown for
 tagline: "Capture reasoning as typed forms with predicates — not fine-tuning, RAG, databases, or tags"
 ---
 
-- is_a::[[Decision Form]]
-- has_status::[[Growing Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Decision Form\]\]](../forms/Decision%20Form.html)
+- has_status::[\[\[Growing Stage\]\]](../forms/Growing%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Deep Context as an Architecture for Captured Reasoning
 
@@ -80,13 +80,13 @@ Sixteen form types organized in five categories (Orientation, Structural, Action
 
 ## Relations
 
-- grounded_in::[[Reasoning Fidelity]]
+- grounded_in::[\[\[Reasoning Fidelity\]\]](../values/Reasoning%20Fidelity.html)
   - The architecture exists to serve this value — capturing how someone reasons, not just what they know.
 
-- grounded_in::[[Knowledge Durability]]
+- grounded_in::[\[\[Knowledge Durability\]\]](../values/Knowledge%20Durability.html)
   - Plain markdown, git, zero-tooling floor — all serve the value that knowledge outlasts tools.
 
-- grounded_in::[[Values Precede Technical Decisions]]
+- grounded_in::[\[\[Values Precede Technical Decisions\]\]](../convictions/Values%20Precede%20Technical%20Decisions.html)
   - The architecture derives from values; the decision to use typed forms follows from what matters, not what's technically convenient.
 
 - implements::[[Standalone Document Test for Form Candidacy]]⊙
@@ -98,11 +98,11 @@ Sixteen form types organized in five categories (Orientation, Structural, Action
 - validated_by::[[Hybrid Bootstrapping for Garden Migration]]⊙
   - The first garden bootstrap proved the architecture works at vault scale.
 
-- relates_to::[[Deep Context Architecture]]
+- relates_to::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
   - This decision is the founding architectural choice for the domain.
 
 - relates_to::[[Captured Reasoning Exchange Pipeline]]⊙
   - The three-layer model (authoring, semantic, trust) implements this decision.
 
-- relates_to::[[Delegated Decision Authority Spectrum]]
+- relates_to::[\[\[Delegated Decision Authority Spectrum\]\]](../boundaries/Delegated%20Decision%20Authority%20Spectrum.html)
   - Decision boundaries operationalize requirement #4 (distinguishing agent vs. human authority).

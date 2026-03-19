@@ -8,9 +8,9 @@ brief_summary: "Christopher Allen's progressive trust framework: trust deepens t
 tagline: "Trust deepens through verifiable stages, not binary trusted/untrusted switches"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../../domains/Self-Sovereign%20Identity.html)
 - cites_work_by::[[Christopher Allen]]⊙
 
 # Allen (2024) Progressive Trust
@@ -45,20 +45,20 @@ Progressive trust is the conceptual foundation for two of IFP's core models: pro
 
 ## Relations
 
-- relates_to::[[Progressive Authentication as Trust Deepening]]
+- relates_to::[\[\[Progressive Authentication as Trust Deepening\]\]](../../models/Progressive%20Authentication%20as%20Trust%20Deepening.html)
   - IFP's four authentication levels implement progressive trust for agent identity verification.
 
-- relates_to::[[Disclosure Tier Hierarchy for Persona-Peer Relationships]]
+- relates_to::[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]](../../models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)
   - IFP's disclosure tiers implement progressive trust for information sharing boundaries.
 
-- relates_to::[[Granularity of Progressive Authentication Stages]]
+- relates_to::[\[\[Granularity of Progressive Authentication Stages\]\]](../../inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html)
   - The progressive trust framework describes a spectrum — the inquiry asks whether IFP's four discrete stages capture the right boundaries.
 
-- relates_to::[[Progressive Disclosure Over Eager Loading]]
+- relates_to::[\[\[Progressive Disclosure Over Eager Loading\]\]](../../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)
   - Progressive disclosure is the information-sharing expression of progressive trust.
 
-- relates_to::[[Authority Flows from the Person]]
+- relates_to::[\[\[Authority Flows from the Person\]\]](../../principles/Authority%20Flows%20from%20the%20Person.html)
   - Progressive trust assumes the person controls their own trust progression — no external authority decides when to deepen.
 
-- relates_to::[[Conversation Temperature as Protocol Cadence Spectrum]]
+- relates_to::[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](../../models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)
   - Temperature and trust deepen in parallel — cool conversations at low trust, hot collaboration at high trust.

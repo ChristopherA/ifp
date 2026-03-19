@@ -6,9 +6,9 @@ tagline: "Agency law applied to digital identity — five duties, five definitio
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Gloss Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Self-Sovereign Identity]]
+- is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
 
 # Principal Authority as Agency Law for Digital Identity
 
@@ -57,13 +57,13 @@ Consent theater is performative consent without understanding. Users would need 
 
 ## Relations
 
-- implements::[[Deep Context as an Architecture for Captured Reasoning]]
+- implements::[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)
   - Principal authority concept applied from Self-Sovereign Identity domain to vault design.
 
-- depends_on::[[Authority Flows from the Person]]
+- depends_on::[\[\[Authority Flows from the Person\]\]](../principles/Authority%20Flows%20from%20the%20Person.html)
   - The legal framework rests on the principle that authority originates with the person.
 
-- relates_to::[[Authority Conferral Chain]]
+- relates_to::[\[\[Authority Conferral Chain\]\]](../models/Authority%20Conferral%20Chain.html)
   - The formal predicate model that encodes these concepts as machine-readable metadata.
 
-- relates_to::[[Opus Form]] — Opus Form's principal:: predicate operationalizes this framework for authored works
+- relates_to::[\[\[Opus Form\]\]](../forms/Opus%20Form.html) — Opus Form's principal:: predicate operationalizes this framework for authored works

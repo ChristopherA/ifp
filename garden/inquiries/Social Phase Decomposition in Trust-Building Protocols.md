@@ -5,9 +5,9 @@ brief_summary: "IFP-3 defines six conversation phases — greeting, context, pro
 tagline: "Do six social phases capture the right decomposition of trust-building agent conversation?"
 ---
 
-- is_a::[[Inquiry Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Social Phase Decomposition in Trust-Building Protocols
 
@@ -48,14 +48,14 @@ These phases are described as social — they model how trust-building conversat
 
 ## Relations
 
-- relates_to::[[Social Conversation Phases as Protocol Semantics]]
+- relates_to::[\[\[Social Conversation Phases as Protocol Semantics\]\]](../models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
   - The model this inquiry questions.
 
-- relates_to::[[Errors as Negotiation Opportunities]]
+- relates_to::[\[\[Errors as Negotiation Opportunities\]\]](../patterns/Errors%20as%20Negotiation%20Opportunities.html)
   - The error phase handles protocol violations — but what handles social manipulation?
 
-- relates_to::[[Gossip as Social Sensing Filter]]
+- relates_to::[\[\[Gossip as Social Sensing Filter\]\]](../glosses/Gossip%20as%20Social%20Sensing%20Filter.html)
   - The probe phase is where filtering happens — the most complex and least specified phase.
 
-- relates_to::[[Allen (2024) Progressive Trust]]
+- relates_to::[\[\[Allen (2024) Progressive Trust\]\]](../citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html)
   - Progressive trust describes stages of trust deepening — do the phases map to those stages?

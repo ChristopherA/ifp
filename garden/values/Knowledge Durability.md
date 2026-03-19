@@ -6,9 +6,9 @@ tagline: "Knowledge should outlast the tools used to capture it — plain text, 
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Value Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Value Form\]\]](../forms/Value%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Knowledge Durability
 
@@ -32,21 +32,21 @@ The value produces specific technical constraints: plain markdown over proprieta
 
 ## Sources
 
-- [[Deep Context as an Architecture for Captured Reasoning]] — the authoring layer's zero-dependency design and the three-layer architecture both serve durability
+- [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — the authoring layer's zero-dependency design and the three-layer architecture both serve durability
 - The zero-tooling floor principle derives directly from this value
 
 ## Relations
 
-- generates::[[Zero-Tooling Floor for Knowledge Architecture]]
+- generates::[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](../principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)
   - The principle that the architecture must work without any specific tool is a direct expression of knowledge durability.
 
-- generates::[[Content Over Container]]
+- generates::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html)
   - Content over container follows from durability: if the container (tool, platform, format) is impermanent, then the content must be portable.
 
 - generates::[[Predicate Maintenance Recipes Over Tools]]⊙
   - Preferring shell one-liners over dedicated graph tools keeps maintenance durable.
 
-- relates_to::[[Reasoning Fidelity]]
+- relates_to::[\[\[Reasoning Fidelity\]\]](Reasoning%20Fidelity.html)
   - Reasoning captured in a format that doesn't survive tool changes loses its fidelity over time. Durability is a precondition for long-term fidelity.
 
 - relates_to::[[Captured Reasoning Exchange Pipeline]]⊙

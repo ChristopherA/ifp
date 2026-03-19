@@ -5,10 +5,10 @@ brief_summary: "Defines the Gloss form type: an interpretive annotation anchored
 tagline: "What does this specific source or concept mean? — the structural contract for gloss forms"
 ---
 
-- is_a::[[Form Type]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
-- in_precinct::[[Garden Precinct]]
+- is_a::[\[\[Form Type\]\]](Form%20Type.html)
+- has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
+- in_precinct::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html)
 
 # Gloss Form
 
@@ -31,16 +31,16 @@ Naming heuristic: source + thesis. Mix based on how strong the interpretation is
 
 ## Typical Predicates
 
-- `is_a::[[Gloss Form]]`
-- `has_status::[[Seed Stage]]` or `[[Growing Stage]]`
-- `in_domain::[[Deep Context Architecture]]`
+- `is_a::[\[\[Gloss Form\]\]](Gloss%20Form.html)`
+- `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
+- `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
 - `extracted_from::[[Source Document]]` — provenance with optional line numbers
 - `relates_to::[[Related Form]]` — lateral connections
 - `defines_vocabulary_from::[[Source]]` — when defining terms from decisions or research
 
 ## Exemplars
 
-- [[Deep Context Graph Vocabulary]] — consolidates 7 terms from compound document decisions
+- [\[\[Deep Context Graph Vocabulary\]\]](../glosses/Deep%20Context%20Graph%20Vocabulary.html) — consolidates 7 terms from compound document decisions
 - [[PARA as Actionability-First Design]] — interprets Forte's PARA through a specific lens
 - [[Digital Garden as Growth Ethos]] — glosses the digital garden concept against vault architecture
 
@@ -50,10 +50,10 @@ Structural form — captures *how things relate* and *what we understand*.
 
 ## Sources
 
-Definition from [[Deep Context as an Architecture for Captured Reasoning]], lines 65-66.
+Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), lines 65-66.
 
 ## Relations
 
-- relates_to::[[Inquiry Form]] — inquiries may resolve into glosses when interpretation solidifies
-- relates_to::[[Decision Form]] — glosses often define vocabulary used by decisions
-- relates_to::[[Model Form]] — glosses interpret concepts that models structure
+- relates_to::[\[\[Inquiry Form\]\]](Inquiry%20Form.html) — inquiries may resolve into glosses when interpretation solidifies
+- relates_to::[\[\[Decision Form\]\]](Decision%20Form.html) — glosses often define vocabulary used by decisions
+- relates_to::[\[\[Model Form\]\]](Model%20Form.html) — glosses interpret concepts that models structure

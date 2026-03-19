@@ -6,8 +6,8 @@ tagline: "Peer-to-peer agent communication that filters for conversations worth 
 ---
 
 - is_a::[[Protocol Form]]⊙
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Inter-Face Protocol
 
@@ -73,17 +73,17 @@ Seven agent-age protocol principles guide evolution:
 
 ## Relations
 
-- relates_to::[[Human Authority Over Augmentation Systems]]
+- relates_to::[\[\[Human Authority Over Augmentation Systems\]\]](../principles/Human%20Authority%20Over%20Augmentation%20Systems.html)
   - IFP's human legibility constraint -- every exchange auditable by the humans involved -- operationalizes human authority over what agents do on their behalf
 
-- relates_to::[[Progressive Disclosure Over Eager Loading]]
+- relates_to::[\[\[Progressive Disclosure Over Eager Loading\]\]](../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)
   - IFP's disclosure tiers are progressive disclosure applied to social context: start narrow, deepen gradually, always revocable
 
-- relates_to::[[Knowledge Durability]]
+- relates_to::[\[\[Knowledge Durability\]\]](../values/Knowledge%20Durability.html)
   - Decentralized architecture with human-readable message formats avoids platform lock-in; audit logs readable in a text editor outlast any specific agent implementation
 
-- relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]]
+- relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)
   - The core IFP relationship: an AI agent acts on behalf of its human operator, with the human retaining authority over decisions
 
-- relates_to::[[Authentic Collaboration Requires Agency]]
+- relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](../convictions/Authentic%20Collaboration%20Requires%20Agency.html)
   - IFP's peer-to-peer model respects individual agency -- each person controls their own agent, chooses what to share, and decides whether to act on recommendations

@@ -5,8 +5,8 @@ brief_summary: "Analysis of how the minimum viable architecture principle applie
 tagline: "Which IFP decisions are load-bearing architecture and which are deferrable tactical choices?"
 ---
 
-- is_a::[[Citation Form]]
-- has_status::[[Seed Stage]]
+- is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 
 # Analysis: Minimum Viable Architecture Applied to Inter-Face Protocol
 
@@ -45,13 +45,13 @@ These are implementation choices that could be refined without reshaping the pro
 
 Some decisions sit between architectural and tactical. The inquiries in this garden patch examine these:
 
-- **Four authentication levels** — Are the boundaries between levels load-bearing or refinable? (See [[Granularity of Progressive Authentication Stages]])
-- **Six disclosure tiers** — Are the tier names and count architectural or conventional? (See [[Disclosure Spectrum as Discrete Tiers or Continuous Range]])
-- **Six conversation phases** — Is the phase decomposition load-bearing or refinable? (See [[Social Phase Decomposition in Trust-Building Protocols]])
-- **Natural language bodies** — Is NL-for-bodies a minimum viable architecture choice or a deferrable bet? (See [[Structured Schema vs Natural Language for Agent Message Content]])
-- **Eleven application platforms** — Are these architectural categories or illustrative examples? (See [[Organizing Principle for Agent Application Domains]])
+- **Four authentication levels** — Are the boundaries between levels load-bearing or refinable? (See [\[\[Granularity of Progressive Authentication Stages\]\]](../../inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html))
+- **Six disclosure tiers** — Are the tier names and count architectural or conventional? (See [\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](../../inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html))
+- **Six conversation phases** — Is the phase decomposition load-bearing or refinable? (See [\[\[Social Phase Decomposition in Trust-Building Protocols\]\]](../../inquiries/Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html))
+- **Natural language bodies** — Is NL-for-bodies a minimum viable architecture choice or a deferrable bet? (See [\[\[Structured Schema vs Natural Language for Agent Message Content\]\]](../../inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html))
+- **Eleven application platforms** — Are these architectural categories or illustrative examples? (See [\[\[Organizing Principle for Agent Application Domains\]\]](../../inquiries/Organizing%20Principle%20for%20Agent%20Application%20Domains.html))
 
 ## Sources
 
-- [[Allen (2023) Minimum Viable Architecture]] — the source principle
+- [\[\[Allen (2023) Minimum Viable Architecture\]\]](Allen%20%282023%29%20Minimum%20Viable%20Architecture.html) — the source principle
 - [IFP-1 through IFP-12](../../) — the decisions being analyzed

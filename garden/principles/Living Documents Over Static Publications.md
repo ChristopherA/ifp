@@ -6,9 +6,9 @@ tagline: "Garden nodes grow and evolve through tending — the current state mat
 formatted: "2026-03-14"
 ---
 
-- is_a::[[Principle Form]]
-- has_status::[[Seed Stage]]
-- in_domain::[[Deep Context Architecture]]
+- is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
+- has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
+- in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 
 # Living Documents Over Static Publications
 
@@ -48,10 +48,10 @@ The digital garden movement established "continuous growth" as a core principle 
 
 ## Relations
 
-- relates_to::[[Garden Precinct]] — living documents are a defining characteristic of the garden precinct
+- relates_to::[\[\[Garden Precinct\]\]](../glosses/Garden%20Precinct.html) — living documents are a defining characteristic of the garden precinct
 - relates_to::[[Digital Garden as Growth Ethos]]⊙ — the growth ethos provides the philosophical foundation; this principle makes it architectural
-- relates_to::[[Seed Stage]] — entry point for new living documents
-- relates_to::[[Evergreen Stage]] — mature but still living; stability is not finality
+- relates_to::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html) — entry point for new living documents
+- relates_to::[\[\[Evergreen Stage\]\]](../forms/Evergreen%20Stage.html) — mature but still living; stability is not finality
 - relates_to::[[Pruned Stage]]⊙ — end-of-life for living documents; superseded, not deleted
 - relates_to::[[Vault Content Graduation]]⊙ — vault content becomes a living document when it graduates to a garden node
-- relates_to::[[Opus Form]] — opus lead files are living documents by design; analysis can be revised when the work evolves
+- relates_to::[\[\[Opus Form\]\]](../forms/Opus%20Form.html) — opus lead files are living documents by design; analysis can be revised when the work evolves

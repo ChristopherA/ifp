@@ -202,7 +202,7 @@ When you see a link marked with **‚äô** in a garden node, it points here. The ‚ä
 
 ### Chat Log
 
-**Chat Log**: Defines the Chat Log vault type: a text chat record from a meeting sidebar or AI conversation, always derived from a parent note via derived_from:: predicate. Preserves original timestamps and speaker attribution without cleanup. Captures links shared, brief exchanges, and introductions alongside the spoken conversation.
+**Chat Log**: Defines the Chat Log vault type: a text chat record from a parallel chat during a meeting or AI conversation, always derived from a parent note via derived_from:: predicate. Preserves original timestamps and speaker attribution without cleanup. Captures links shared, brief exchanges, and introductions alongside the spoken conversation.
 
 ### Decision Form
 

@@ -16,4 +16,6 @@ Standing constraints on what we must always or never do.
 
 **[Zero-Tooling Floor for Knowledge Architecture](Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)** — Plain markdown, git, and shell one-liners — specialized tools add value but are never prerequisites
 
-*7 nodes in this section.*
+**[Systems Should Listen More Than They Speak](Systems%20Should%20Listen%20More%20Than%20They%20Speak.html)** — Well-designed subsystems compress information at every stage; measure attention saved, not data delivered
+
+*8 nodes in this section.*

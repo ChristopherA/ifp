@@ -26,4 +26,10 @@ Structural representations showing how elements relate to each other.
 
 **[Vocabulary Lifecycle Through Tending](Vocabulary%20Lifecycle%20Through%20Tending.html)** — Growing vocabularies degrade without tending — weed, seed, and fertilize to maintain retrieval
 
-*12 nodes in this section.*
+**[Conversational Repair Organization](Conversational%20Repair%20Organization.html)** — Four repair types from conversation analysis map to agent error-correction protocol design
+
+**[Grounding Constraints Across Communication Media](Grounding%20Constraints%20Across%20Communication%20Media.html)** — Eight grounding constraints mapped across channels from face-to-face through structured APIs
+
+**[Pace Layers for Knowledge and Agent Systems](Pace%20Layers%20for%20Knowledge%20and%20Agent%20Systems.html)** — Brand's six civilization layers mapped to garden form types and agent platform components
+
+*15 nodes in this section.*

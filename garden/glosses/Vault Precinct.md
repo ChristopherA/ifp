@@ -18,14 +18,14 @@ Vault content uses the same predicate infrastructure as garden nodes (`is_a::`, 
 
 ## What Lives Here
 
-- **Vault form types**: [[Meeting Note]], [[Transcript]], [[Person Note]], [[Chat Log]], [[Sidecar]]
+- **Vault form types**: [[Meeting Note]]⊙, [[Transcript]]⊙, [[Person Note]]⊙, [[Chat Log]]⊙, [[Sidecar]]⊙
 - **Growth stages** shared with the [[Garden Precinct]]: Seed, Growing, Evergreen, Pruned
 - **Processing stages** specific to meetings: Captured, Transcribed, Cleaned, Summarized, Published
 - **Folder structure**: `Meetings/`, `People/`, `Daily/`, `Research/`, `Notes/`, `Clippings/`, `References/`
 
 ## Typed Edges in the Vault
 
-The vault precinct uses typed predicates now — `is_a::[[Meeting Note]]`, `attendee::[[Person Name]]`, `derived_from::[[Parent Note]]`. The current lighter adoption is a tactical sequencing choice: learning the pattern in the garden first, then extending it vault-wide. Predicates are shared infrastructure, not a garden-only feature. The [[Classification via Predicates Not Tags]] decision applies across both precincts.
+The vault precinct uses typed predicates now — `is_a::[[Meeting Note]]⊙`, `attendee::[[Person Name]]⊙`, `derived_from::[[Parent Note]]⊙`. The current lighter adoption is a tactical sequencing choice: learning the pattern in the garden first, then extending it vault-wide. Predicates are shared infrastructure, not a garden-only feature. The [[Classification via Predicates Not Tags]]⊙ decision applies across both precincts.
 
 ## Relationship to Garden Precinct
 
@@ -33,18 +33,18 @@ Both precincts share the deep context infrastructure and coexist as peers. The v
 
 ## Sources
 
-Term adopted from urban planning via [[Precinct as Organizational Unit]].
+Term adopted from urban planning via [[Precinct as Organizational Unit]]⊙.
 
 ## Relations
 
-- defined_by::[[Precinct as Organizational Unit]]
+- defined_by::[[Precinct as Organizational Unit]]⊙
   - The decision that established this term.
 
 - relates_to::[[Garden Precinct]]
   - The sibling precinct for curated knowledge forms.
 
-- relates_to::[[Vault Content Graduation]]
+- relates_to::[[Vault Content Graduation]]⊙
   - The pattern by which vault content moves into garden nodes.
 
-- relates_to::[[Meeting Note]]
+- relates_to::[[Meeting Note]]⊙
   - The most developed vault form type, with compound document conventions.

@@ -14,7 +14,7 @@ formatted: "2026-03-14"
 
 ## Claim
 
-The authoring and semantic layers of the deep context architecture operate without specialized tooling. Forms are plain markdown with YAML frontmatter and `predicate::[[target]]` typed relations. Version control is git. The query layer is shell one-liners (`rg 'predicate::\[\[Target\]\]' --type md`). A dedicated graph-traversal skill could add value but is not required.
+The authoring and semantic layers of the deep context architecture operate without specialized tooling. Forms are plain markdown with YAML frontmatter and `predicate::[[target]]⊙` typed relations. Version control is git. The query layer is shell one-liners (`rg 'predicate::\[\[Target\]\]' --type md`). A dedicated graph-traversal skill could add value but is not required.
 
 ## Scope
 
@@ -47,11 +47,11 @@ The convergence suggests that plain markdown with typed metadata is not merely a
 ## Sources
 
 - [[Deep Context as an Architecture for Captured Reasoning]], "Authoring Layer" and "Semantic Layer" sections (lines 244-256)
-- [[The Gardening Problem Returns - Document Lifecycle in the Age of AI Agents]], Section 1.3 — ClawVault, QMD, and MIE as independent convergence on markdown+YAML for agent memory
+- [[The Gardening Problem Returns - Document Lifecycle in the Age of AI Agents]]⊙, Section 1.3 — ClawVault, QMD, and MIE as independent convergence on markdown+YAML for agent memory
 
 ## Relations
 
-- relates_to::[[Predicate Maintenance Recipes Over Tools]]
+- relates_to::[[Predicate Maintenance Recipes Over Tools]]⊙
   - Maintenance recipes demonstrate the zero-tooling floor in practice.
 
 - relates_to::[[Human Authority Over Augmentation Systems]]

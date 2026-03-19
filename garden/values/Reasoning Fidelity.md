@@ -43,11 +43,11 @@ The value does not demand completeness. A garden with three well-connected princ
 - generates::[[Human Authority Over Augmentation Systems]]
   - Fidelity to *human* reasoning requires that the human remains the authority — an agent that overrides the owner's reasoning has broken fidelity.
 
-- generates::[[Progressive Summary Before Substance]]
+- generates::[[Progressive Summary Before Substance]]⊙
   - Progressive disclosure serves reasoning fidelity by loading reasoning context on demand rather than requiring the full graph.
 
 - relates_to::[[Knowledge Durability]]
   - Reasoning captured in a format that doesn't survive tool changes loses its fidelity over time.
 
-- contradicts::[[Autonomy]]
+- contradicts::[[Autonomy]]⊙
   - Mild tension: a fully autonomous agent might reason differently than its owner. Reasoning fidelity constrains agent autonomy to stay within the owner's reasoning patterns.

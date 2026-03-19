@@ -11,7 +11,7 @@ tagline: "Four forms of technology paternalism and four countermeasures to resto
 - is_a::[[Citation Form]]
 - has_status::[[Seed Stage]]
 - in_domain::[[Self-Sovereign Identity]]
-- cites_work_by::[[Martina Kolpondinos]]
+- cites_work_by::[[Martina Kolpondinos]]⊙
 
 # Kolpondinos (2026) Technology Paternalism
 
@@ -21,7 +21,7 @@ tagline: "Four forms of technology paternalism and four countermeasures to resto
 
 ## Summary
 
-Kolpondinos names "Technology Paternalism" as an anti-pattern where digital systems shape, restrict, or pre-decide user choices under justifications of safety, efficiency, or protection. She provides a four-part taxonomy (Design, Algorithmic, Infrastructural, Protective), extends the analysis to agentic AI and digital identity systems, and proposes four concrete countermeasures: the ability to override, contest, inspect, and exit. The article connects to the [[Revisiting Self-Sovereign Identity Initiative]]'s four coercion-prevention lenses.
+Kolpondinos names "Technology Paternalism" as an anti-pattern where digital systems shape, restrict, or pre-decide user choices under justifications of safety, efficiency, or protection. She provides a four-part taxonomy (Design, Algorithmic, Infrastructural, Protective), extends the analysis to agentic AI and digital identity systems, and proposes four concrete countermeasures: the ability to override, contest, inspect, and exit. The article connects to the [[Revisiting Self-Sovereign Identity Initiative]]⊙'s four coercion-prevention lenses.
 
 ## Key Points
 
@@ -91,7 +91,7 @@ This article performs a naming function for the Self-Sovereign Identity and broa
 
 relates_to::[[Self-Sovereign Identity]]
 relates_to::[[Authentic Collaboration Requires Agency]]
-relates_to::[[Dimensions of Digital Coercion]]
-extends::[[Coercion Resistance]]
-relates_to::[[Choice Architecture]]
-relates_to::[[Martina Kolpondinos]]
+relates_to::[[Dimensions of Digital Coercion]]⊙
+extends::[[Coercion Resistance]]⊙
+relates_to::[[Choice Architecture]]⊙
+relates_to::[[Martina Kolpondinos]]⊙

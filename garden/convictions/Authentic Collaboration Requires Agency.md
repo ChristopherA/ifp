@@ -58,10 +58,10 @@ Each of these domains independently confirmed the same dependency: remove agency
 
 ## Relations
 
-- grounds::[[Agency Before Collaboration]] — the principle derived from this conviction (future)
+- grounds::[[Agency Before Collaboration]]⊙ — the principle derived from this conviction (future)
 - relates_to::[[Authority Flows from the Person]] — Self-Sovereign Identity's expression of the same conviction in the identity domain
 - relates_to::[[Human Authority Over Augmentation Systems]] — Deep Context Architecture's expression in the vault-agent relationship
-- relates_to::[[Precondition Stack for Joint Action]] — the model that operationalizes this conviction (future)
+- relates_to::[[Precondition Stack for Joint Action]]⊙ — the model that operationalizes this conviction (future)
 - relates_to::[[Values Precede Technical Decisions]] — the Deep Context Architecture conviction that values ground technical architecture; this conviction is a specific instance of that general principle applied to synpraxis
 - relates_to::[[Cooperation vs Collaboration as Distinct Concepts]] — the inquiry that established why the cooperation/collaboration distinction matters here
 - relates_to::[[Opus Form]] — opus etymology (operari, from opus) connects to the cooperation-collaboration distinction

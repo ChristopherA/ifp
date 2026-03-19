@@ -66,13 +66,13 @@ Some mechanisms are not spectrum positions but operate *across* the spectrum, ta
 
 - **Emergent shared understanding** (collaboration level) — Meaning converges through joint work. Not a vote or a protocol outcome but an alignment of mental models that emerges from sustained interaction. Jazz improvisation converging on a feel. A writing partnership arriving at a shared voice. This cannot be algorithmed — it requires the full stack of preconditions (agency, trust, psychological safety).
 
-Whether these three levels are one mechanism at different scales or three distinct mechanisms that share a label is an open question (see [[Is Consensus One Mechanism or Three]]). The levels do inform each other in both directions. Machine consensus proved that distributed agreement is achievable without trusted third parties — a result that reshapes what's thinkable about human coordination. Conversely, groupware research demonstrated that computational solutions for human consensus fail without human preconditions: people will not use collaborative software if they believe it is a panopticon. Privacy is not a feature of consensus tools; it is a precondition for the cooperation those tools are meant to support.
+Whether these three levels are one mechanism at different scales or three distinct mechanisms that share a label is an open question (see [[Is Consensus One Mechanism or Three]]⊙). The levels do inform each other in both directions. Machine consensus proved that distributed agreement is achievable without trusted third parties — a result that reshapes what's thinkable about human coordination. Conversely, groupware research demonstrated that computational solutions for human consensus fail without human preconditions: people will not use collaborative software if they believe it is a panopticon. Privacy is not a feature of consensus tools; it is a precondition for the cooperation those tools are meant to support.
 
 **Pattern languages** are another cross-cutting mechanism — structured collections of recurring solutions that can operate at any spectrum level. The Group Works Project produced 91 patterns for group process spanning facilitation, decision-making, and collective intelligence. *Meeples Together* produced patterns for cooperative game design. Alexander's original architectural pattern language was itself a collaborative artifact. Pattern languages are both a product of synpraxis and a tool for improving it.
 
 ## Preconditions
 
-The spectrum is not just descriptive — each position has structural preconditions. Remove a precondition and you don't get a lesser form of joint action; you get an anti-pattern. This dependency chain is a thesis, not established fact; the strength of each link varies and some are contested (see [[Precondition Dependencies in Joint Action]]).
+The spectrum is not just descriptive — each position has structural preconditions. Remove a precondition and you don't get a lesser form of joint action; you get an anti-pattern. This dependency chain is a thesis, not established fact; the strength of each link varies and some are contested (see [[Precondition Dependencies in Joint Action]]⊙).
 
 | Precondition | What it enables | What breaks without it |
 |-------------|----------------|----------------------|
@@ -88,7 +88,7 @@ The dependency runs upward: privacy enables coercion-resistance, which enables a
 
 Two notes on contested preconditions. "Fair incentive distribution" is better framed as **incentive compatibility** — a system-design property where individual rationality aligns with collective benefit. Bitcoin demonstrated this: the system works because defection is expensive, not because a central authority distributes rewards "fairly." Fairness is a value judgment; incentive compatibility is a structural property. Second, **exit rights** deserve explicit status as a precondition rather than being implicit in "agency." The ability to leave a cooperative arrangement without catastrophic cost is what keeps cooperation voluntary. Markets work as coordination mechanisms precisely because exit is cheap. When exit becomes prohibitively expensive, cooperation shades into coercion regardless of how it started.
 
-The deepest pattern across all domains: cooperation describes behavioral outcomes regardless of cognitive sophistication (bacteria cooperate, OS processes cooperate, nations cooperate). Collaboration implies shared intentional creation — it requires minds that can hold shared representations and produce emergent novelty. But collaboration also requires the most preconditions, which is why it is the most fragile and the most rewarding — and why collaboration is not always the right choice (see [[Is Collaboration Always Superior to Cooperation]]).
+The deepest pattern across all domains: cooperation describes behavioral outcomes regardless of cognitive sophistication (bacteria cooperate, OS processes cooperate, nations cooperate). Collaboration implies shared intentional creation — it requires minds that can hold shared representations and produce emergent novelty. But collaboration also requires the most preconditions, which is why it is the most fragile and the most rewarding — and why collaboration is not always the right choice (see [[Is Collaboration Always Superior to Cooperation]]⊙).
 
 ## Anti-Patterns and Defection Dynamics
 
@@ -160,7 +160,7 @@ These dynamics operate at different levels of analysis — individual moves (def
 
 ### Decisions
 
-- [[Synpraxis as Domain Name]] — why we coined "synpraxis" over existing terms; alternatives evaluated, collisions found
+- [[Synpraxis as Domain Name]]⊙ — why we coined "synpraxis" over existing terms; alternatives evaluated, collisions found
 
 ### Convictions
 
@@ -176,10 +176,10 @@ These dynamics operate at different levels of analysis — individual moves (def
 
 These questions are substantial enough to warrant their own inquiry forms:
 
-- [[Is Consensus One Mechanism or Three]] — Does "consensus" at machine, negotiated, and emergent levels name one mechanism at different scales, or three distinct mechanisms sharing a label? (Referenced from Cross-cutting mechanisms above.)
-- [[Is Collaboration Always Superior to Cooperation]] — The spectrum's own "what's at stake" table shows collaboration has the highest coercion vulnerability, exit cost, and risk. When is staying at the cooperation level the right choice? Markets are the most successful coordination mechanism in history and they operate through cooperation, not collaboration. (Referenced from Preconditions above.)
-- [[Precondition Dependencies in Joint Action]] — Is the preconditions dependency chain (privacy → agency → cooperation → trust → collaboration) a logical necessity or an empirical claim? Open source communities collaborate in radical transparency. Scientists collaborate across political systems with minimal privacy. Which links are strong and which are contested? (Referenced from Preconditions above.)
-- [[Is the Synpraxis Spectrum a True Continuum]] — Are coordination, cooperation, and collaboration points on a single axis, or categorically different phenomena? The 15 dimensions don't all move together. Wittgenstein might ask whether they share a family resemblance rather than a common essence.
+- [[Is Consensus One Mechanism or Three]]⊙ — Does "consensus" at machine, negotiated, and emergent levels name one mechanism at different scales, or three distinct mechanisms sharing a label? (Referenced from Cross-cutting mechanisms above.)
+- [[Is Collaboration Always Superior to Cooperation]]⊙ — The spectrum's own "what's at stake" table shows collaboration has the highest coercion vulnerability, exit cost, and risk. When is staying at the cooperation level the right choice? Markets are the most successful coordination mechanism in history and they operate through cooperation, not collaboration. (Referenced from Preconditions above.)
+- [[Precondition Dependencies in Joint Action]]⊙ — Is the preconditions dependency chain (privacy → agency → cooperation → trust → collaboration) a logical necessity or an empirical claim? Open source communities collaborate in radical transparency. Scientists collaborate across political systems with minimal privacy. Which links are strong and which are contested? (Referenced from Preconditions above.)
+- [[Is the Synpraxis Spectrum a True Continuum]]⊙ — Are coordination, cooperation, and collaboration points on a single axis, or categorically different phenomena? The 15 dimensions don't all move together. Wittgenstein might ask whether they share a family resemblance rather than a common essence.
 
 ### Research questions
 
@@ -280,5 +280,5 @@ This domain page currently carries content that belongs in typed forms. The sect
 - relates_to::[[Authority Flows from the Person]] — agency as a non-alienable precondition for authentic joint action
 - relates_to::[[Principal-Agent Relationship in Augmented Knowledge Work]] — the vault-agent relationship sits somewhere on the synpraxis spectrum
 - relates_to::[[Opus Form]] — opus (Latin: work product) shares the etymological root of cooperation (operari, from opus); the author's substantial works on synpraxis topics are tracked as Opuses
-- relates_to::[[Participation to Community Progression as Garden Concepts]] — the participation-engagement-affinity-association-community progression operates within synpraxis territory
+- relates_to::[[Participation to Community Progression as Garden Concepts]]⊙ — the participation-engagement-affinity-association-community progression operates within synpraxis territory
 - relates_to::[[Delegated Decision Authority Spectrum]] — where authority is shared vs retained maps onto the cooperation-collaboration axis

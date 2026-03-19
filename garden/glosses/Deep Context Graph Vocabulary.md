@@ -28,23 +28,23 @@ This gloss consolidates the graph vocabulary: structural terms from the compound
 
 **Compound node**: A folder-based context node containing a lead file, optional sibling files, and optional `Renditions/` and `Archives/` subfolders. Generalizes "compound document" from the garden decisions to vault-wide use.
 
-**Lead file**: The primary access point of a compound node — the file that gives an LLM or human the most useful context first. A single lead file serves both audiences; LLM-specific context lives in a YAML frontmatter field rather than a separate file. See [[Lead File Selection Guidance]].
+**Lead file**: The primary access point of a compound node — the file that gives an LLM or human the most useful context first. A single lead file serves both audiences; LLM-specific context lives in a YAML frontmatter field rather than a separate file. See [[Lead File Selection Guidance]]⊙.
 
 ## Terms from Compound Document Decisions
 
-**Rendition**: A format-transformed markdown copy of an external source. Searchable. Lives in `Renditions/`. Created by conversion tools. Carries `derived_from::` pointing to the canonical source. Defined by [[Renditions and Archives Replace Sources]] and [[Renditions and Archives as Distinct Artifact Types]].
+**Rendition**: A format-transformed markdown copy of an external source. Searchable. Lives in `Renditions/`. Created by conversion tools. Carries `derived_from::` pointing to the canonical source. Defined by [[Renditions and Archives Replace Sources]]⊙ and [[Renditions and Archives as Distinct Artifact Types]]⊙.
 
-**Archive**: A preserved original binary. Lives in `Archives/` within a compound node folder. Named with [[Descriptive Slugs for Archive Binaries|descriptive slugs]]. Most don't need sidecars. Distinct from `Attachments/`, which is Obsidian's paste/drag subfolder for embedded media. Defined by [[Renditions and Archives Replace Sources]] and [[Renditions and Archives as Distinct Artifact Types]].
+**Archive**: A preserved original binary. Lives in `Archives/` within a compound node folder. Named with [[Descriptive Slugs for Archive Binaries|descriptive slugs]]⊙. Most don't need sidecars. Distinct from `Attachments/`, which is Obsidian's paste/drag subfolder for embedded media. Defined by [[Renditions and Archives Replace Sources]]⊙ and [[Renditions and Archives as Distinct Artifact Types]]⊙.
 
-**Sidecar** (`.sidecar.md`): A metadata envelope for a binary that cannot carry its own frontmatter. Links to its binary via `artifact::` (per [[Artifact Predicate for Binary Metadata]]) and to the canonical source via `derived_from::`. Only created when the binary is actively cited or needs agent discoverability. Defined by [[Sidecar Files as Metadata Envelopes]].
+**Sidecar** (`.sidecar.md`): A metadata envelope for a binary that cannot carry its own frontmatter. Links to its binary via `artifact::` (per [[Artifact Predicate for Binary Metadata]]⊙) and to the canonical source via `derived_from::`. Only created when the binary is actively cited or needs agent discoverability. Defined by [[Sidecar Files as Metadata Envelopes]]⊙.
 
 ## Classification Predicates
 
 Four predicates classify every context node in the graph:
 
-- **`is_a::`** — the node's form type or vault type (`is_a::[[Model Form]]`, `is_a::[[Meeting Note]]`)
-- **`has_status::`** — lifecycle stage (`has_status::[[Seed Stage]]`, `has_status::[[Curated]]`)
-- **`in_precinct::`** — organizational unit (`in_precinct::[[Garden Precinct]]`, `in_precinct::[[Vault Precinct]]`). Garden precinct node types carry structural contracts; vault precinct types serve operational capture. See [[Precinct as Organizational Unit]].
+- **`is_a::`** — the node's form type or vault type (`is_a::[[Model Form]]`, `is_a::[[Meeting Note]]⊙`)
+- **`has_status::`** — lifecycle stage (`has_status::[[Seed Stage]]`, `has_status::[[Curated]]⊙`)
+- **`in_precinct::`** — organizational unit (`in_precinct::[[Garden Precinct]]`, `in_precinct::[[Vault Precinct]]`). Garden precinct node types carry structural contracts; vault precinct types serve operational capture. See [[Precinct as Organizational Unit]]⊙.
 - **`in_domain::`** — knowledge area (`in_domain::[[Deep Context Architecture]]`). Links a node to the domain it belongs to. A node may belong to multiple domains.
 
 The first two are required on every classified note. The latter two appear on garden nodes and are optional on vault types.
@@ -90,7 +90,7 @@ Beyond classification predicates, the graph uses semantic predicates to express 
 - `signaled_by::` — this scenario would be confirmed by that observable development
 - `prepares_for::` — this scenario informs that decision or strategy
 
-Predicates are freeform strings. Consistency depends on ongoing vocabulary curation — awareness of what exists, periodic review for drift, consolidation of redundant terms, and clarification of ambiguous ones. The vocabulary above has stabilized through use but is not enforced by the system. See [[Predicate Vocabulary Stabilization]] for the open question on when to formalize, and [[Informal Edges Poison the Graph]] for the failure mode that curation prevents.
+Predicates are freeform strings. Consistency depends on ongoing vocabulary curation — awareness of what exists, periodic review for drift, consolidation of redundant terms, and clarification of ambiguous ones. The vocabulary above has stabilized through use but is not enforced by the system. See [[Predicate Vocabulary Stabilization]]⊙ for the open question on when to formalize, and [[Informal Edges Poison the Graph]]⊙ for the failure mode that curation prevents.
 
 ## Sources
 
@@ -98,16 +98,16 @@ Extracted from the Graph Vocabulary gloss section of the compound nodes research
 
 ## Relations
 
-- extracted_from::[[Compound Nodes for Knowledge Management]]
+- extracted_from::[[Compound Nodes for Knowledge Management]]⊙
   - The vocabulary gloss section, lines 91-115.
 
-- extends::[[Typed Relations as Simple Graphs in Plain Markdown]]
+- extends::[[Typed Relations as Simple Graphs in Plain Markdown]]⊙
   - The typed edge concept builds on the predicate::[[target]] convention defined in the typed relations specification.
 
-- defines_vocabulary_from::[[Renditions and Archives as Distinct Artifact Types]]
+- defines_vocabulary_from::[[Renditions and Archives as Distinct Artifact Types]]⊙
   - The rendition, archive, and sidecar terms originate from these decisions.
 
-- defines_vocabulary_from::[[Artifact Predicate for Binary Metadata]]
+- defines_vocabulary_from::[[Artifact Predicate for Binary Metadata]]⊙
   - The artifact:: predicate is defined as graph vocabulary here.
 
 - relates_to::[[Knowledge Compounds Through Typed Edges Not Filing]]

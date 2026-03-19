@@ -47,7 +47,7 @@ In practice within this vault, group-deliberative decisions have not yet arisen 
 - relates_to::[[Delegated Decision Authority Spectrum]]
   - This inquiry explores the practical implementation of the boundary's group-deliberative zone.
 
-- relates_to::[[Protocol Form]]
+- relates_to::[[Protocol Form]]⊙
   - The deliberation mechanism may itself be a protocol — a form type with zero DCA instances that could be instantiated here.
 
 - relates_to::[[Authentic Collaboration Requires Agency]]

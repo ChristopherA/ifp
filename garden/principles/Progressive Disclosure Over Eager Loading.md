@@ -44,17 +44,17 @@ The forcing function has a constructive effect: it demands that knowledge system
 
 ## Relations
 
-- extends::[[Context Conservation Hierarchy]]
+- extends::[[Context Conservation Hierarchy]]⊙
   - Progressive disclosure is the graph-level application of context conservation.
 
-- relates_to::[[Summary Fields as Load-Bearing Infrastructure]]
+- relates_to::[[Summary Fields as Load-Bearing Infrastructure]]⊙
   - Summary fields are the mechanism that enables progressive disclosure.
 
-- relates_to::[[Structural Retrieval Hierarchy]]
+- relates_to::[[Structural Retrieval Hierarchy]]⊙
   - The retrieval hierarchy implements progressive disclosure for agent search.
 
-- relates_to::[[Cross-Domain Document Lifecycle Parallels]]
+- relates_to::[[Cross-Domain Document Lifecycle Parallels]]⊙
   - Token economics is the constraint that makes progressive disclosure structural rather than optional.
 
-- relates_to::[[One Context One Concern]]
+- relates_to::[[One Context One Concern]]⊙
   - Progressive disclosure defines how to load incrementally; One Context One Concern defines the boundary of what constitutes a complete concern.

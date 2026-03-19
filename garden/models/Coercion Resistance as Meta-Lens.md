@@ -8,7 +8,7 @@ tagline: "Four dimensions of coercion in identity systems and the visibility-to-
 - is_a::[[Model Form]]
 - has_status::[[Seed Stage]]
 - in_domain::[[Self-Sovereign Identity]]
-- extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]
+- extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]⊙
 
 # Coercion Resistance as Meta-Lens
 
@@ -31,9 +31,9 @@ Identity systems that make people visible enable classification (legibility), wh
 | Dimension | Mechanism | Specialized Lens | Kolpondinos Form |
 |-----------|-----------|-----------------|-----------------|
 | Interface | Dark patterns, manipulative defaults, deceptive design | This meta-lens | Design Paternalism |
-| Inference | Behavioral profiling creating conformity pressure | [[Self-Coercion Through Surveillance Awareness]] | Algorithmic Paternalism |
+| Inference | Behavioral profiling creating conformity pressure | [[Self-Coercion Through Surveillance Awareness]]⊙ | Algorithmic Paternalism |
 | Structural | Lock-in, credential dependencies, exit penalties | [[Choice Architecture and Exit Rights]] | Infrastructural Paternalism |
-| Psychological | Self-censorship, anticipatory compliance | [[Self-Coercion Through Surveillance Awareness]] | Protective Paternalism (partial) |
+| Psychological | Self-censorship, anticipatory compliance | [[Self-Coercion Through Surveillance Awareness]]⊙ | Protective Paternalism (partial) |
 
 ### Reinforcement Pattern
 
@@ -54,5 +54,5 @@ relates_to::[[Self-Sovereign Identity]]
 relates_to::[[Technology Paternalism Masks Coercion]]
 relates_to::[[Authentic Collaboration Requires Agency]]
 relates_to::[[Choice Architecture and Exit Rights]]
-relates_to::[[Self-Coercion Through Surveillance Awareness]]
-relates_to::[[Coercion Resistance as Replacement Framing]]
+relates_to::[[Self-Coercion Through Surveillance Awareness]]⊙
+relates_to::[[Coercion Resistance as Replacement Framing]]⊙

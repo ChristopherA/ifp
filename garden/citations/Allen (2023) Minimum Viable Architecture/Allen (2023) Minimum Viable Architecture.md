@@ -11,7 +11,7 @@ tagline: "Make the hard-to-reverse decisions early, defer everything else"
 - is_a::[[Citation Form]]
 - has_status::[[Seed Stage]]
 - in_domain::[[Deep Context Architecture]]
-- cites_work_by::[[Christopher Allen]]
+- cites_work_by::[[Christopher Allen]]⊙
 
 # Allen (2023) Minimum Viable Architecture
 

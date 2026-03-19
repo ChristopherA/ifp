@@ -11,7 +11,7 @@ tagline: "Trust deepens through verifiable stages, not binary trusted/untrusted 
 - is_a::[[Citation Form]]
 - has_status::[[Seed Stage]]
 - in_domain::[[Self-Sovereign Identity]]
-- cites_work_by::[[Christopher Allen]]
+- cites_work_by::[[Christopher Allen]]⊙
 
 # Allen (2024) Progressive Trust
 

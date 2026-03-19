@@ -28,7 +28,7 @@ The difference between augmentation and substitution is testable: remove the hum
 
 ## Why Authority Cannot Be Delegated Away
 
-Deb Roy argues in [[Roy (2026) Words Without Consequence, from The Atlantic|Words Without Consequence]] that speech without a speaker who bears consequence for it is "words without consequence" — a machine can produce fluent text but cannot risk being wrong, cannot be embarrassed by a weak argument, cannot have its reputation shaped by what it publishes. That vulnerability is what makes authorship real. A vault whose content is entirely agent-produced has no author in this sense, regardless of how coherent the prose appears. The human's role is not performance but responsibility: standing behind the result, having genuinely shaped it, being accountable for its claims. Augmentation tools research, draft, restructure, and critique — but they cannot bear the consequence of the output. The vault owner can.
+Deb Roy argues in [[Roy (2026) Words Without Consequence, from The Atlantic|Words Without Consequence]]⊙ that speech without a speaker who bears consequence for it is "words without consequence" — a machine can produce fluent text but cannot risk being wrong, cannot be embarrassed by a weak argument, cannot have its reputation shaped by what it publishes. That vulnerability is what makes authorship real. A vault whose content is entirely agent-produced has no author in this sense, regardless of how coherent the prose appears. The human's role is not performance but responsibility: standing behind the result, having genuinely shaped it, being accountable for its claims. Augmentation tools research, draft, restructure, and critique — but they cannot bear the consequence of the output. The vault owner can.
 
 ## Generation-Verification Asymmetry
 
@@ -43,9 +43,9 @@ The structural consequence for the vault: design every agent interaction so the 
 - Christopher Allen, "Principal Authority" (2021)
 - Chat archive: agency-and-autonomy-in-agentic-ai-systems.md — augmentation vs substitution
 - Vault architecture: .claude/CLAUDE.md, rules/, processes/
-- [[Roy (2026) Words Without Consequence, from The Atlantic]] — speech without a speaker who bears consequence erodes the moral structure of language
-- [[The Gardening Problem Returns - Document Lifecycle in the Age of AI Agents]] — "authorship is not performance but responsibility"
-- [[George (2026) Harness Engineering Is Cybernetics]] — generation-verification asymmetry and the P-vs-NP intuition applied to agent engineering
+- [[Roy (2026) Words Without Consequence, from The Atlantic]]⊙ — speech without a speaker who bears consequence erodes the moral structure of language
+- [[The Gardening Problem Returns - Document Lifecycle in the Age of AI Agents]]⊙ — "authorship is not performance but responsibility"
+- [[George (2026) Harness Engineering Is Cybernetics]]⊙ — generation-verification asymmetry and the P-vs-NP intuition applied to agent engineering
 
 ## Relations
 
@@ -61,13 +61,13 @@ The structural consequence for the vault: design every agent interaction so the 
 - relates_to::[[Delegated Decision Authority Spectrum]]
   - The boundary form that defines where agent authority ends and human judgment begins.
 
-- relates_to::[[Automated Gardening Trust Problem]]
+- relates_to::[[Automated Gardening Trust Problem]]⊙
   - The inquiry testing where human authority is structurally necessary for self-referential maintenance.
 
-- relates_to::[[George (2026) Harness Engineering Is Cybernetics]]
+- relates_to::[[George (2026) Harness Engineering Is Cybernetics]]⊙
   - George's generation-verification asymmetry — humans out-evaluate but don't out-implement — grounds the structural viability claim in the P-vs-NP intuition. The cybernetics lineage (Watt's governor through Kubernetes through agent harnesses) provides the historical evidence.
 
-- relates_to::[[Guardrail Hierarchy for Graph Maintenance]]
+- relates_to::[[Guardrail Hierarchy for Graph Maintenance]]⊙
   - The guardrail hierarchy operationalizes generation-verification asymmetry for garden maintenance: agent-generated changes pass through verification gates that preserve human authority at each level.
 
 - relates_to::[[Opus Form]] — principal:: predicate distinguishes human authority from AI authorship in augmented works

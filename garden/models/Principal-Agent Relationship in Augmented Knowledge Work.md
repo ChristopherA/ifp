@@ -16,7 +16,7 @@ The vault embodies a principal-agent relationship where the BCR-2026-xxx framewo
 
 | Self-Sovereign Identity Term | Vault Implementation |
 |----------|---------------------|
-| **Principal** | Vault owner ([[Christopher Allen]]) — directs all work, reviews outputs, bears responsibility |
+| **Principal** | Vault owner ([[Christopher Allen]]⊙) — directs all work, reviews outputs, bears responsibility |
 | **Agent** | Claude Code sessions — generate content, execute tasks, operate within conferral |
 | **Conferral** | Rules, skills, processes — what Claude may do, how, and within what boundaries |
 | **Authorship** | Claude generates content: notes, summaries, code, form extractions |

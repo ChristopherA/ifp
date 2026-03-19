@@ -14,7 +14,7 @@ formatted: "2026-03-14"
 
 ## Thesis
 
-The deep context architecture defines three layers: authoring (markdown), semantic (agent traversal), and trust ([[Gordian Envelope as Agent Memory Layer|Gordian Envelope]] for signing, elision, and verified exchange). The first two layers are operational. The trust layer is described as "a future phase, not a prerequisite" — a garden operates at full value without it.
+The deep context architecture defines three layers: authoring (markdown), semantic (agent traversal), and trust ([[Gordian Envelope as Agent Memory Layer|Gordian Envelope]]⊙ for signing, elision, and verified exchange). The first two layers are operational. The trust layer is described as "a future phase, not a prerequisite" — a garden operates at full value without it.
 
 But "future phase" is not a criterion. The question is: what conditions make the trust layer worth activating? Signing, elision, and content addressing add complexity. The architecture needs criteria for when that complexity is justified.
 
@@ -42,15 +42,15 @@ No garden currently uses these capabilities. The first garden operates entirely 
 ## Sources
 
 - [[Deep Context as an Architecture for Captured Reasoning]] — Open Question 11 and the Trust Layer section
-- [[Gordian Envelope as Agent Memory Layer]] — full technical evaluation of Envelope capabilities
-- [[Captured Reasoning Exchange Pipeline]] — the three-layer model where the trust layer sits
+- [[Gordian Envelope as Agent Memory Layer]]⊙ — full technical evaluation of Envelope capabilities
+- [[Captured Reasoning Exchange Pipeline]]⊙ — the three-layer model where the trust layer sits
 
 ## Relations
 
-- relates_to::[[Captured Reasoning Exchange Pipeline]]
+- relates_to::[[Captured Reasoning Exchange Pipeline]]⊙
   - This inquiry addresses when the pipeline's third layer (trust) should activate.
 
-- relates_to::[[Progressive Trust]]
+- relates_to::[[Progressive Trust]]⊙
   - Progressive trust is both a pattern the trust layer enables and a potential activation criterion — trust builds through interaction, and the trust layer supports that building.
 
 - relates_to::[[Delegated Decision Authority Spectrum]]

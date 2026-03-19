@@ -36,7 +36,7 @@ The writing phase for a new work becomes a *query* against existing structure, n
 
 Retraction or invalidation of any node ripples through edges to every dependent node. The graph makes the impact of a revision visible.
 
-Cross-domain synthesis becomes a graph operation: find structural parallels between subgraphs. This is the mechanism behind [[Swanson Linking — Undiscovered Public Knowledge]] — discovery through traversal rather than serendipity.
+Cross-domain synthesis becomes a graph operation: find structural parallels between subgraphs. This is the mechanism behind [[Swanson Linking — Undiscovered Public Knowledge]]⊙ — discovery through traversal rather than serendipity.
 
 The cognitive work shifts from filing to *judging* — validating machine-proposed connections rather than creating the connections manually. This is a different skill and a different bottleneck.
 
@@ -48,13 +48,13 @@ The system works not just for one project's knowledge but for a career's accumul
 
 ## Relations
 
-- extracted_from::[[Research Graphs and Precinct Architecture]]
+- extracted_from::[[Research Graphs and Precinct Architecture]]⊙
 
-- relates_to::[[Swanson Linking — Undiscovered Public Knowledge]]
+- relates_to::[[Swanson Linking — Undiscovered Public Knowledge]]⊙
   - Swanson Linking is the cross-domain instance of this pattern: typed edges enable discovery across literature boundaries that filing cannot.
 
-- relates_to::[[Informal Edges Poison the Graph]]
+- relates_to::[[Informal Edges Poison the Graph]]⊙
   - The solution depends on edge *quality* — typed edges that carry real semantic weight. Informal or redundant edges create noise that degrades traversal rather than enabling it.
 
-- relates_to::[[Ghost Links as Garden Planning Tools]]
+- relates_to::[[Ghost Links as Garden Planning Tools]]⊙
   - Ghost links are the garden's mechanism for identifying edges that should exist but don't yet — planned connections in the graph.

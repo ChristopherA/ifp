@@ -39,17 +39,19 @@ grounds::[[Filtering Is More Valuable Than Connecting]]  — foundational suppor
 
 These are written as `predicate::[[Target]]` in the node body. In a full garden with Obsidian, these become navigable graph edges. Here in markdown, they serve as structured metadata showing the knowledge network.
 
-### Wikilink Markers
+### Reading Wikilinks and Markers
 
-Not every wikilink target is in this patch. Markers distinguish what's here from what's elsewhere:
+Text in `[[double brackets]]` is a **wikilink** — a reference to another node in the knowledge graph. In a full garden with Obsidian, these are clickable navigation links. Here on GitHub Pages, they render as plain text showing the node name and its connections.
 
-| Marker | Meaning |
-|--------|---------|
-| `[[Node]]` (no marker) | Node is in this patch, or is a ghost link (concept that could become a node) |
-| `[[Node]]↗` | Linked external — destination exists in another published garden with a navigable URL |
-| `[[Node]]⊙` | Exists elsewhere — node exists in the source garden but is not published or linked |
+Not every wikilink target is in this patch. A **⊙** marker after a wikilink means the node exists in the source garden but is not included here:
 
-See [EXTERNAL.md](EXTERNAL.html) for the manifest of all external references and their source locations.
+| What You See | Meaning |
+|--------------|---------|
+| `[[Node Name]]` | This node is **in this patch** — look for it in the form-type subfolders. Or it is a ghost link (a concept that could become a node but doesn't exist yet). |
+| `[[Node Name]]⊙` | This node **exists in the source garden** but is not included in this patch. See [EXTERNAL.md](EXTERNAL.html) for details. |
+| `[[Node Name]]↗` | This node is in **another published garden** with a navigable URL. |
+
+Predicate lines like `relates_to::[[Target]]` are labeled directed edges — they say *how* two nodes relate, not just *that* they relate. The predicate name (before `::`) is the edge label; the wikilink (after `::`) is the target node.
 
 ## What Is a Garden Patch?
 

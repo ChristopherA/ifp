@@ -8,7 +8,7 @@ tagline: "How voluntary digital choices accumulate into coercive dependencies wi
 - is_a::[[Model Form]]
 - has_status::[[Seed Stage]]
 - in_domain::[[Self-Sovereign Identity]]
-- extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]
+- extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]⊙
 
 # Choice Architecture and Exit Rights
 
@@ -42,7 +42,7 @@ In Kolpondinos's taxonomy, this is **Infrastructural Paternalism** — the form 
 
 ## Boundaries
 
-This model covers structural lock-in and exit costs. Psychological effects of lock-in awareness (self-censorship) are in [[Self-Coercion Through Surveillance Awareness]]. Interface manipulation that creates the initial adoption is in [[Coercion Resistance as Meta-Lens]].
+This model covers structural lock-in and exit costs. Psychological effects of lock-in awareness (self-censorship) are in [[Self-Coercion Through Surveillance Awareness]]⊙. Interface manipulation that creates the initial adoption is in [[Coercion Resistance as Meta-Lens]].
 
 ## Sources
 

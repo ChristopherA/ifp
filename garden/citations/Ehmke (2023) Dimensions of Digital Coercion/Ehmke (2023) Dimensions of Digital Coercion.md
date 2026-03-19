@@ -13,7 +13,7 @@ source_updated: 2025-12-09
 - is_a::[[Citation Form]]
 - has_status::[[Seed Stage]]
 - in_domain::[[Self-Sovereign Identity]]
-- cites_work_by::[[Coraline Ada Ehmke]]
+- cites_work_by::[[Coraline Ada Ehmke]]⊙
 
 # Ehmke (2023) Dimensions of Digital Coercion
 
@@ -65,17 +65,17 @@ Ehmke's four-dimensional framework provides the most systematic vocabulary for i
 
 **Related vault citations**:
 - [[Kolpondinos (2026) Technology Paternalism]] — Technology Paternalism taxonomy maps to Ehmke's four dimensions
-- [[Brignull (2010) Deceptive Patterns Dark Patterns]] — Dark patterns are the interface-level mechanisms of attention and ergonomic coercion
-- [[Spiekermann and Pallas (2006) Technology Paternalism]] — "Right to the last word" addresses ergonomic and trust coercion
+- [[Brignull (2010) Deceptive Patterns Dark Patterns]]⊙ — Dark patterns are the interface-level mechanisms of attention and ergonomic coercion
+- [[Spiekermann and Pallas (2006) Technology Paternalism]]⊙ — "Right to the last word" addresses ergonomic and trust coercion
 
-**Vault clipping**: [[Dimensions of Digital Coercion]] (Clippings/Identity/)
+**Vault clipping**: [[Dimensions of Digital Coercion]]⊙ (Clippings/Identity/)
 
 ## Relations
 
 - relates_to::[[Technology Paternalism Masks Coercion]]
   Ehmke's four dimensions map systematically to Kolpondinos's four forms of technology paternalism. Design Paternalism corresponds to attention and ergonomic coercion; Algorithmic Paternalism to attention coercion through engagement maximization; Infrastructural Paternalism to ergonomic coercion through switching costs; Protective Paternalism to trust coercion through unaccountable safety framing.
 
-- relates_to::[[Coercion Resistance as Replacement Framing]]
+- relates_to::[[Coercion Resistance as Replacement Framing]]⊙
   The framework strengthens the case that "coercion resistance" is more precise than "privacy" for describing technology harms. Each dimension describes a mechanism of coercion, not a privacy violation.
 
 - relates_to::[[Authentic Collaboration Requires Agency]]

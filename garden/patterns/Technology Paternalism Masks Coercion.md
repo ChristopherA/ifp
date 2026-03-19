@@ -73,7 +73,7 @@ These extend Spiekermann and Pallas's "right to the last word" (2006) into a tes
 
 relates_to::[[Authentic Collaboration Requires Agency]]
 relates_to::[[Self-Sovereign Identity]]
-extends::[[Coercion Resistance]]
+extends::[[Coercion Resistance]]⊙
 relates_to::[[Kolpondinos (2026) Technology Paternalism]]
-relates_to::[[Dimensions of Digital Coercion]]
-relates_to::[[Choice Architecture]]
+relates_to::[[Dimensions of Digital Coercion]]⊙
+relates_to::[[Choice Architecture]]⊙

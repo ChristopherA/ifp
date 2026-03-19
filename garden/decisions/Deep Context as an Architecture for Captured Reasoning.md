@@ -56,7 +56,7 @@ Sixteen form types organized in five categories (Orientation, Structural, Action
 **Positive — external validation:**
 
 - Multiple agent memory systems (ClawVault, QMD, MIE) have independently converged on plain markdown + YAML frontmatter + typed metadata as the storage format for agent knowledge — benchmarks show this outperforms purpose-built infrastructure
-- [[Chatlatanagulchai (2025) Agent READMEs]] finds that context files "behave more like dynamic configurations than static text," validating the architecture's treatment of living documents as first-class engineering artifacts
+- [[Chatlatanagulchai (2025) Agent READMEs]]⊙ finds that context files "behave more like dynamic configurations than static text," validating the architecture's treatment of living documents as first-class engineering artifacts
 
 **Positive — architectural:**
 
@@ -89,19 +89,19 @@ Sixteen form types organized in five categories (Orientation, Structural, Action
 - grounded_in::[[Values Precede Technical Decisions]]
   - The architecture derives from values; the decision to use typed forms follows from what matters, not what's technically convenient.
 
-- implements::[[Standalone Document Test for Form Candidacy]]
+- implements::[[Standalone Document Test for Form Candidacy]]⊙
   - The test that determines what qualifies as a form type — the taxonomic foundation.
 
-- extends::[[Typed Relations as Simple Graphs in Plain Markdown]]
-  - The predicate grammar uses the `predicate::[[target]]` convention as its graph substrate.
+- extends::[[Typed Relations as Simple Graphs in Plain Markdown]]⊙
+  - The predicate grammar uses the `predicate::[[target]]⊙` convention as its graph substrate.
 
-- validated_by::[[Hybrid Bootstrapping for Garden Migration]]
+- validated_by::[[Hybrid Bootstrapping for Garden Migration]]⊙
   - The first garden bootstrap proved the architecture works at vault scale.
 
 - relates_to::[[Deep Context Architecture]]
   - This decision is the founding architectural choice for the domain.
 
-- relates_to::[[Captured Reasoning Exchange Pipeline]]
+- relates_to::[[Captured Reasoning Exchange Pipeline]]⊙
   - The three-layer model (authoring, semantic, trust) implements this decision.
 
 - relates_to::[[Delegated Decision Authority Spectrum]]

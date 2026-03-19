@@ -11,7 +11,7 @@ tagline: "Make the hard-to-reverse decisions early, defer everything else"
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../../domains/Deep%20Context%20Architecture.html)
-- cites_work_by::[[Christopher Allen]]⊙
+- cites_work_by::[\[\[Christopher Allen\]\]⊙](../../EXTERNAL.html#:~:text=Christopher%20Allen)
 
 # Allen (2023) Minimum Viable Architecture
 

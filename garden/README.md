@@ -39,19 +39,19 @@ grounds::[[Filtering Is More Valuable Than Connecting]]  — foundational suppor
 
 These are written as `predicate::[[Target]]` in the node body. In a full garden with Obsidian, these become navigable graph edges. Here in markdown, they serve as structured metadata showing the knowledge network.
 
-### Reading Wikilinks and Markers
+### Three Kinds of Links
 
-Text in `[[double brackets]]` is a **wikilink** — a reference to another node in the knowledge graph. In a full garden with Obsidian, these are clickable navigation links. Here on GitHub Pages, they render as plain text showing the node name and its connections.
+This garden patch has three kinds of links, each visually distinct:
 
-Not every wikilink target is in this patch. A **⊙** marker after a wikilink means the node exists in the source garden but is not included here:
+| What You See | Example | What It Does |
+|---|---|---|
+| **Blue link with [[brackets]]** | [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) | **In-patch node** — click to navigate to the node within this garden patch |
+| **Blue link with [[brackets]]⊙** | [\[\[Informal Edges Poison the Graph\]\]⊙](EXTERNAL.html#:~:text=Informal%20Edges%20Poison%20the%20Graph) | **External node** — exists in the source garden but not in this patch. Click to see its summary on the [External References](EXTERNAL.html) page |
+| **Plain text with [[brackets]]** | `[[Node Name]]` | **Ghost link** — a concept that could become a node but doesn't exist yet |
 
-| What You See | Meaning |
-|--------------|---------|
-| `[[Node Name]]` | This node is **in this patch** — look for it in the form-type subfolders. Or it is a ghost link (a concept that could become a node but doesn't exist yet). |
-| `[[Node Name]]⊙` | This node **exists in the source garden** but is not included in this patch. See [EXTERNAL.md](EXTERNAL.html) for details. |
-| `[[Node Name]]↗` | This node is in **another published garden** with a navigable URL. |
+### Predicate Links
 
-Predicate lines like `relates_to::[[Target]]` are labeled directed edges — they say *how* two nodes relate, not just *that* they relate. The predicate name (before `::`) is the edge label; the wikilink (after `::`) is the target node.
+Lines like `relates_to::[[Target]]` are **labeled directed edges** in the knowledge graph. The predicate name (before `::`) says *how* two nodes relate; the wikilink (after `::`) identifies the target node. These are the structure that makes a garden more than a folder of documents.
 
 ## What Is a Garden Patch?
 

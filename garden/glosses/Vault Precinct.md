@@ -18,14 +18,14 @@ Vault content uses the same predicate infrastructure as garden nodes (`is_a::`, 
 
 ## What Lives Here
 
-- **Vault form types**: [[Meeting Note]]⊙, [[Transcript]]⊙, [[Person Note]]⊙, [[Chat Log]]⊙, [[Sidecar]]⊙
+- **Vault form types**: [\[\[Meeting Note\]\]⊙](../EXTERNAL.html#:~:text=Meeting%20Note), [\[\[Transcript\]\]⊙](../EXTERNAL.html#:~:text=Transcript), [\[\[Person Note\]\]⊙](../EXTERNAL.html#:~:text=Person%20Note), [\[\[Chat Log\]\]⊙](../EXTERNAL.html#:~:text=Chat%20Log), [\[\[Sidecar\]\]⊙](../EXTERNAL.html#:~:text=Sidecar)
 - **Growth stages** shared with the [\[\[Garden Precinct\]\]](Garden%20Precinct.html): Seed, Growing, Evergreen, Pruned
 - **Processing stages** specific to meetings: Captured, Transcribed, Cleaned, Summarized, Published
 - **Folder structure**: `Meetings/`, `People/`, `Daily/`, `Research/`, `Notes/`, `Clippings/`, `References/`
 
 ## Typed Edges in the Vault
 
-The vault precinct uses typed predicates now — `is_a::[[Meeting Note]]⊙`, `attendee::[[Person Name]]⊙`, `derived_from::[[Parent Note]]⊙`. The current lighter adoption is a tactical sequencing choice: learning the pattern in the garden first, then extending it vault-wide. Predicates are shared infrastructure, not a garden-only feature. The [[Classification via Predicates Not Tags]]⊙ decision applies across both precincts.
+The vault precinct uses typed predicates now — `is_a::[\[\[Meeting Note\]\]⊙](../EXTERNAL.html#:~:text=Meeting%20Note)`, `attendee::[\[\[Person Name\]\]⊙](../EXTERNAL.html#:~:text=Person%20Name)`, `derived_from::[\[\[Parent Note\]\]⊙](../EXTERNAL.html#:~:text=Parent%20Note)`. The current lighter adoption is a tactical sequencing choice: learning the pattern in the garden first, then extending it vault-wide. Predicates are shared infrastructure, not a garden-only feature. The [\[\[Classification via Predicates Not Tags\]\]⊙](../EXTERNAL.html#:~:text=Classification%20via%20Predicates%20Not%20Tags) decision applies across both precincts.
 
 ## Relationship to Garden Precinct
 
@@ -33,18 +33,18 @@ Both precincts share the deep context infrastructure and coexist as peers. The v
 
 ## Sources
 
-Term adopted from urban planning via [[Precinct as Organizational Unit]]⊙.
+Term adopted from urban planning via [\[\[Precinct as Organizational Unit\]\]⊙](../EXTERNAL.html#:~:text=Precinct%20as%20Organizational%20Unit).
 
 ## Relations
 
-- defined_by::[[Precinct as Organizational Unit]]⊙
+- defined_by::[\[\[Precinct as Organizational Unit\]\]⊙](../EXTERNAL.html#:~:text=Precinct%20as%20Organizational%20Unit)
   - The decision that established this term.
 
 - relates_to::[\[\[Garden Precinct\]\]](Garden%20Precinct.html)
   - The sibling precinct for curated knowledge forms.
 
-- relates_to::[[Vault Content Graduation]]⊙
+- relates_to::[\[\[Vault Content Graduation\]\]⊙](../EXTERNAL.html#:~:text=Vault%20Content%20Graduation)
   - The pattern by which vault content moves into garden nodes.
 
-- relates_to::[[Meeting Note]]⊙
+- relates_to::[\[\[Meeting Note\]\]⊙](../EXTERNAL.html#:~:text=Meeting%20Note)
   - The most developed vault form type, with compound document conventions.

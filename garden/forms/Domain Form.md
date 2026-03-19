@@ -37,8 +37,8 @@ Naming heuristic: knowledge area proper name, concise. One to three words that n
 
 - `is_a::[\[\[Domain Form\]\]](Domain%20Form.html)`
 - `has_status::[\[\[Growing Stage\]\]](Growing%20Stage.html)`
-- `indexes::[[Garden Node]]⊙` — nodes belonging to this domain
-- `relates_to::[[Other Domain]]⊙` — related knowledge areas
+- `indexes::[\[\[Garden Node\]\]⊙](../EXTERNAL.html#:~:text=Garden%20Node)` — nodes belonging to this domain
+- `relates_to::[\[\[Other Domain\]\]⊙](../EXTERNAL.html#:~:text=Other%20Domain)` — related knowledge areas
 
 ## Exemplars
 
@@ -56,7 +56,7 @@ Definition from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]]
 
 ## Relations
 
-- relates_to::[[Reference Form]]⊙ — references brief on domains; domain pages actively index them
+- relates_to::[\[\[Reference Form\]\]⊙](../EXTERNAL.html#:~:text=Reference%20Form) — references brief on domains; domain pages actively index them
 - relates_to::[\[\[Model Form\]\]](Model%20Form.html) — models describe structural relationships within a domain
 - relates_to::[\[\[Inquiry Form\]\]](Inquiry%20Form.html) — domain pages track open questions that inquiry nodes investigate
 - relates_to::[\[\[Opus Form\]\]](Opus%20Form.html) — domains index opuses alongside other form types via in_domain:: predicates

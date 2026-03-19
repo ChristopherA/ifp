@@ -35,18 +35,18 @@ Naming heuristic: Alexandrian evocative — name the solution, lean toward image
 
 - `is_a::[\[\[Pattern Form\]\]](Pattern%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
-- `in_domain::[[Domain Name]]⊙`
-- `extracted_from::[[Source Document]]⊙` — provenance
-- `validated_by::[[Case Form]]⊙` — evidence the pattern works
-- `composes_with::[[Related Pattern]]⊙` — how patterns combine
+- `in_domain::[\[\[Domain Name\]\]⊙](../EXTERNAL.html#:~:text=Domain%20Name)`
+- `extracted_from::[\[\[Source Document\]\]⊙](../EXTERNAL.html#:~:text=Source%20Document)` — provenance
+- `validated_by::[\[\[Case Form\]\]⊙](../EXTERNAL.html#:~:text=Case%20Form)` — evidence the pattern works
+- `composes_with::[\[\[Related Pattern\]\]⊙](../EXTERNAL.html#:~:text=Related%20Pattern)` — how patterns combine
 - `relates_to::[\[\[Principle Form\]\]](Principle%20Form.html)` — values the pattern embodies
 
 ## Exemplars
 
-- [[Progressive Summary Before Substance]]⊙ — Alexandrian structure with clear forces and resolution
-- [[Knowledge on Three Axes]]⊙ — cross-domain pattern with mapping table
+- [\[\[Progressive Summary Before Substance\]\]⊙](../EXTERNAL.html#:~:text=Progressive%20Summary%20Before%20Substance) — Alexandrian structure with clear forces and resolution
+- [\[\[Knowledge on Three Axes\]\]⊙](../EXTERNAL.html#:~:text=Knowledge%20on%20Three%20Axes) — cross-domain pattern with mapping table
 - [\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html) — pattern from Self-Sovereign Identity domain with enforcement layers
-- [[Informal Edges Poison the Graph]]⊙ — anti-pattern naming: failure mode as a claim
+- [\[\[Informal Edges Poison the Graph\]\]⊙](../EXTERNAL.html#:~:text=Informal%20Edges%20Poison%20the%20Graph) — anti-pattern naming: failure mode as a claim
 
 ## Category
 

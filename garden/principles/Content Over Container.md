@@ -39,8 +39,8 @@ Extracted from the Content Over Container principle section of the compound node
 
 ## Relations
 
-- extracted_from::[[Compound Nodes for Knowledge Management]]⊙
+- extracted_from::[\[\[Compound Nodes for Knowledge Management\]\]⊙](../EXTERNAL.html#:~:text=Compound%20Nodes%20for%20Knowledge%20Management)
   - The principle section, lines 144-168.
 
-- constrains::[[Compound Node Anatomy]]⊙
+- constrains::[\[\[Compound Node Anatomy\]\]⊙](../EXTERNAL.html#:~:text=Compound%20Node%20Anatomy)
   - This principle determines when archives/ subfolders contain actual binaries vs. just sidecars pointing to canonical sources.

@@ -1,6 +1,6 @@
 # Deep Context Architecture — A Garden Lens on Inter-Face Protocol
 
-This folder contains a **mini-garden** — a small collection of structured knowledge nodes that express Inter-Face Protocol concepts through [Deep Context Architecture](https://github.com/ChristopherA/deep-context-architecture) garden forms.
+This folder contains a **mini-garden** — a small collection of structured knowledge nodes that express Inter-Face Protocol concepts through [Deep Context Architecture](domains/Deep%20Context%20Architecture.md) garden forms.
 
 This is not a critique of the IFP specifications. It is an alternative lens — a way to see connections between IFP's design decisions and broader patterns in identity, trust, collaboration, and protocol design. Peter's specs remain untouched. The garden sits alongside them.
 
@@ -97,5 +97,5 @@ Start anywhere that interests you. If you want a guided path:
 
 **Author**: Christopher Allen
 **Context**: Ongoing dialogue with Peter Kaminski about agency, AI, and structured knowledge
-**Source garden**: [Deep Context Architecture](https://github.com/ChristopherA/deep-context-architecture) (not yet published)
+**Source garden**: [Deep Context Architecture](domains/Deep%20Context%20Architecture.md) (not yet published)
 **License**: Same as the IFP repository

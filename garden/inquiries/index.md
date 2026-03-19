@@ -16,6 +16,8 @@ Open questions worth investigating, with possible directions.
 
 **[Living Document Scale Limits](Living%20Document%20Scale%20Limits.html)** — Is there a 'Dunbar number' for living documents — a point where maintenance cost exceeds value?
 
+**[Living Knowledge vs Static Archive in Agent Library Design](Living%20Knowledge%20vs%20Static%20Archive%20in%20Agent%20Library%20Design.html)** — Does the Library platform collapse living knowledge and static archives into a single paradigm?
+
 **[Organizing Principle for Agent Application Domains](Organizing%20Principle%20for%20Agent%20Application%20Domains.html)** — What principle should organize the taxonomy of agent application domains?
 
 **[Social Phase Decomposition in Trust-Building Protocols](Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html)** — Do six social phases capture the right decomposition of trust-building agent conversation?
@@ -26,4 +28,4 @@ Open questions worth investigating, with possible directions.
 
 **[When to Specify and When to Explore in Protocol Evolution](When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)** — When should a protocol commit to specification details vs leave space for implementation discovery?
 
-*12 nodes in this section.*
+*13 nodes in this section.*

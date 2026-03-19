@@ -63,3 +63,6 @@ If two platforms share the same IFP features (phases, temperature, trust levels)
 
 - relates_to::[\[\[Filtering Is More Valuable Than Connecting\]\]](../convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)
   - If filtering is the core value, do all eleven platforms serve filtering equally? Platforms that primarily connect (Guild Hall, Bazaar) may operate under a different conviction than those that primarily filter (Friend Zone).
+
+- relates_to::[\[\[Living Knowledge vs Static Archive in Agent Library Design\]\]](Living%20Knowledge%20vs%20Static%20Archive%20in%20Agent%20Library%20Design.html)
+  - The Library platform is the sharpest convergence case — it collapses living knowledge and static archives into a single paradigm that may require distinct protocol behaviors.

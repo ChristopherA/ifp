@@ -35,8 +35,8 @@ Naming heuristic: maxim or priority declaration. "Human Authority Over Augmentat
 - `is_a::[\[\[Principle Form\]\]](Principle%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
 - `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
-- `depends_on::[\[\[Value\]\]⊙](../EXTERNAL.html#:~:text=Value)` or `[\[\[Conviction\]\]⊙](../EXTERNAL.html#:~:text=Conviction)` — what grounds the principle
-- `extends::[\[\[Related Principle\]\]⊙](../EXTERNAL.html#:~:text=Related%20Principle)` — how principles build on each other
+- `depends_on::[\[\[Value\]\]⊙](../UPSTREAM.html#:~:text=Value)` or `[\[\[Conviction\]\]⊙](../UPSTREAM.html#:~:text=Conviction)` — what grounds the principle
+- `extends::[\[\[Related Principle\]\]⊙](../UPSTREAM.html#:~:text=Related%20Principle)` — how principles build on each other
 - `relates_to::[\[\[Boundary Form\]\]](Boundary%20Form.html)`, `[\[\[Pattern Form\]\]](Pattern%20Form.html)`, `[\[\[Model Form\]\]](Model%20Form.html)`
 
 ## Exemplars

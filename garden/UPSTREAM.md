@@ -1,10 +1,10 @@
-# External References
+# Upstream References
 
-Nodes referenced by this garden patch that exist in the source garden but are not included here. Each entry shows the node name, form type, and brief summary from the source garden.
+**Upstream nodes** are nodes that exist in the source garden but were not grafted into this garden patch. Each entry below shows the node name, form type, and brief summary from the source garden.
 
-When you see `[[Node Name]]⊙` in a garden node, it links here. The ⊙ marker means the node exists in the source garden but is not published or included in this patch.
+When you see a link marked with **⊙** in a garden node, it points here. The ⊙ means the node is upstream — it exists in the source garden but is not present in this patch. Click to read a summary of what it covers.
 
-**134 nodes documented** from the source garden. 42 references could not be located (may be ghost links or informal references).
+**134 upstream nodes documented.** 42 references could not be located (may be ghost links or informal references).
 
 ## Deep Context Architecture
 

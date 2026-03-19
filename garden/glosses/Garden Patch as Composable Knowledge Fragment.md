@@ -23,7 +23,7 @@ A patch carries everything needed to read it:
 - **New nodes** seeded from the external content being analyzed
 - **Citations** with canonical URLs pointing to source works (not copies of source text)
 
-Wikilinks within a patch (`[\[\[Node Name\]\]⊙](../EXTERNAL.html#:~:text=Node%20Name)`) resolve within the patch directory. Links to the source garden or external works use URLs, not wikilinks, since the source garden may not be published.
+Wikilinks within a patch (`[\[\[Node Name\]\]⊙](../UPSTREAM.html#:~:text=Node%20Name)`) resolve within the patch directory. Links to the source garden or external works use URLs, not wikilinks, since the source garden may not be published.
 
 ## Composability
 

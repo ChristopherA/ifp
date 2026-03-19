@@ -13,7 +13,7 @@ This is not part of the IFP specifications. It is an alternative lens that revea
 Read these files to orient yourself:
 
 - **[README.md](README.html)** — What the garden patch is, how it connects to IFP, reading order
-- **[EXTERNAL.md](EXTERNAL.html)** — Manifest of nodes referenced but not included (patch boundary)
+- **[UPSTREAM.md](UPSTREAM.html)** — Index of upstream nodes (source garden nodes not grafted into this patch)
 - **[forms/Form Type.md](forms/Form%20Type.html)** — What form types are and how the type system works
 - **[glosses/Deep Context Graph Vocabulary.md](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Definitions: node, edge, predicate, form type
 
@@ -106,15 +106,16 @@ When adding a node to this garden patch:
 | `extends::` | Builds on | `extends::[[Authority Flows from the Person]]` |
 | `depends_on::` | Requires | `depends_on::[[Progressive Disclosure]]` |
 
-## Wikilink Markers
+## Link Types
 
-| Marker | Meaning |
-|--------|---------|
-| `[[Node]]` (no marker) | In-patch or ghost link |
-| `[[Node]]↗` | Linked external — navigable URL available |
-| `[[Node]]⊙` | Exists in source garden — not linked, ask or search |
+| What You See | Term | Meaning |
+|---|---|---|
+| Clickable link with brackets | **Grafted node** | Present in this patch — click to navigate |
+| Clickable link with brackets + ⊙ | **Upstream node** | Exists in source garden, not grafted here — click for summary |
+| Clickable link with brackets + ↗ | **Cross-garden node** | In another published garden with navigable URL |
+| Plain text with brackets | **Ghost link** | Node does not exist yet — a stake marking where one could grow |
 
-See [EXTERNAL.md](EXTERNAL.html) for the manifest of external references.
+See [UPSTREAM.md](UPSTREAM.html) for the index of upstream nodes.
 
 ## Key Points for Agents
 

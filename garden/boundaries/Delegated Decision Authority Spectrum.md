@@ -63,10 +63,10 @@ Extracted from the "Decision Boundaries" section of the deep context architectur
 - implements::[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)
   - The four-zone authority table and agent behavior guidance originate from the Decision Boundaries section of the architecture document.
 
-- grounded_in::[\[\[Autonomy\]\]⊙](../EXTERNAL.html#:~:text=Autonomy)
+- grounded_in::[\[\[Autonomy\]\]⊙](../UPSTREAM.html#:~:text=Autonomy)
   - The spectrum exists because the garden owner's autonomy requires that agents know where their authority ends.
 
-- embodies::[\[\[Progressive Trust\]\]⊙](../EXTERNAL.html#:~:text=Progressive%20Trust)
+- embodies::[\[\[Progressive Trust\]\]⊙](../UPSTREAM.html#:~:text=Progressive%20Trust)
   - Authority is granted progressively — an agent proves competence at lower zones before being trusted with higher-authority actions.
 
 - relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)

@@ -43,11 +43,11 @@ The value produces specific technical constraints: plain markdown over proprieta
 - generates::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html)
   - Content over container follows from durability: if the container (tool, platform, format) is impermanent, then the content must be portable.
 
-- generates::[\[\[Predicate Maintenance Recipes Over Tools\]\]⊙](../EXTERNAL.html#:~:text=Predicate%20Maintenance%20Recipes%20Over%20Tools)
+- generates::[\[\[Predicate Maintenance Recipes Over Tools\]\]⊙](../UPSTREAM.html#:~:text=Predicate%20Maintenance%20Recipes%20Over%20Tools)
   - Preferring shell one-liners over dedicated graph tools keeps maintenance durable.
 
 - relates_to::[\[\[Reasoning Fidelity\]\]](Reasoning%20Fidelity.html)
   - Reasoning captured in a format that doesn't survive tool changes loses its fidelity over time. Durability is a precondition for long-term fidelity.
 
-- relates_to::[\[\[Captured Reasoning Exchange Pipeline\]\]⊙](../EXTERNAL.html#:~:text=Captured%20Reasoning%20Exchange%20Pipeline)
+- relates_to::[\[\[Captured Reasoning Exchange Pipeline\]\]⊙](../UPSTREAM.html#:~:text=Captured%20Reasoning%20Exchange%20Pipeline)
   - The three-layer pipeline (markdown → semantic → trust) preserves durability at the authoring layer while adding capabilities in higher layers.

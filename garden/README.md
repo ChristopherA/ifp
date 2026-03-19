@@ -44,11 +44,11 @@ Start anywhere that interests you. If you want a guided path:
 
 ### Three Kinds of Links
 
-| What You See | What It Does |
+| What You See | What It Means |
 |---|---|
-| **Blue link with [[brackets]]** | **In-patch node** — click to navigate within this garden patch |
-| **Blue link with [[brackets]]⊙** | **External node** — exists in the source garden but not here. Click to see its summary on the [External References](EXTERNAL.html) page |
-| **Plain text with [[brackets]]** | **Ghost link** — a concept that could become a node but doesn't exist yet |
+| Blue clickable text with brackets | **Grafted node** — this node is present in this garden patch. Click to navigate to it. |
+| Blue clickable text with brackets and ⊙ | **Upstream node** — this node exists in the source garden but was not grafted into this patch. Click to see its summary on the [Upstream References](UPSTREAM.html) page. |
+| Plain (non-clickable) text with brackets | **Ghost link** — a reference to a node that does not exist yet. A stake in the ground marking where a node could grow. |
 
 ### Form Types
 

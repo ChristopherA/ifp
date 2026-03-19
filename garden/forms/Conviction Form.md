@@ -32,8 +32,8 @@ Naming heuristic: declarative claim about reality. State the conviction, not the
 
 - `is_a::[\[\[Conviction Form\]\]](Conviction%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
-- `in_domain::[\[\[Domain Name\]\]⊙](../EXTERNAL.html#:~:text=Domain%20Name)`
-- `grounds::[\[\[Value\]\]⊙](../EXTERNAL.html#:~:text=Value)` — values this conviction supports
+- `in_domain::[\[\[Domain Name\]\]⊙](../UPSTREAM.html#:~:text=Domain%20Name)`
+- `grounds::[\[\[Value\]\]⊙](../UPSTREAM.html#:~:text=Value)` — values this conviction supports
 - `relates_to::[\[\[Principle Form\]\]](Principle%20Form.html)` — principles derived from this conviction
 
 ## Exemplars

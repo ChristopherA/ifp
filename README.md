@@ -44,6 +44,10 @@ The **[community/](community/)** directory has information about the people behi
 | **Profile** | How a core protocol operates in a specific transport or environment |
 | **Informational** | Context, design rationale, philosophy, or exploration |
 
+## Garden Patch
+
+The [garden/](garden/) folder contains a **Deep Context Architecture garden patch** — a collection of typed knowledge nodes that express IFP concepts through garden forms, revealing connections to broader patterns in identity, trust, collaboration, and protocol design. The patch sits alongside the specifications without modifying them.
+
 ## Design Workspace
 
 The design conversations and working documents that produced the IFP series live in the [inter-face-bootstrap](https://github.com/Inter-Face-Protocol/inter-face-bootstrap) repository. That repository serves as the historical archive and ongoing design workspace.

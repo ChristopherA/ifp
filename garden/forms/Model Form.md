@@ -33,17 +33,17 @@ Naming heuristic: value proposition + structure metaphor. "Compound Node Anatomy
 - `is_a::[\[\[Model Form\]\]](Model%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
 - `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
-- `depends_on::[\[\[Foundational Concept\]\]⊙](../EXTERNAL.html#:~:text=Foundational%20Concept)` — prerequisites
+- `depends_on::[\[\[Foundational Concept\]\]⊙](../UPSTREAM.html#:~:text=Foundational%20Concept)` — prerequisites
 - `implements::[\[\[Decision Form\]\]](Decision%20Form.html)` — operationalizes a decision
 - `relates_to::[\[\[Principle Form\]\]](Principle%20Form.html)`, `[\[\[Boundary Form\]\]](Boundary%20Form.html)`, `[\[\[Pattern Form\]\]](Pattern%20Form.html)`
 
 ## Exemplars
 
-- [\[\[Compound Node Anatomy\]\]⊙](../EXTERNAL.html#:~:text=Compound%20Node%20Anatomy) — mapping table between abstract structure and vault implementation
+- [\[\[Compound Node Anatomy\]\]⊙](../UPSTREAM.html#:~:text=Compound%20Node%20Anatomy) — mapping table between abstract structure and vault implementation
 - [\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html) — multi-level model with conferral mechanisms
-- [\[\[Personal Knowledge Management Organizing Principle Spectrum\]\]⊙](../EXTERNAL.html#:~:text=Personal%20Knowledge%20Management%20Organizing%20Principle%20Spectrum) — comparative model positioning approaches along an axis
-- [\[\[Sycophantic Confidence Spiral\]\]⊙](../EXTERNAL.html#:~:text=Sycophantic%20Confidence%20Spiral) — feedback loop model with empirical measurements
-- [\[\[Vocabulary Lifecycle Through Tending\]\]⊙](../EXTERNAL.html#:~:text=Vocabulary%20Lifecycle%20Through%20Tending) — cross-domain mechanism model with instance mapping table
+- [\[\[Personal Knowledge Management Organizing Principle Spectrum\]\]⊙](../UPSTREAM.html#:~:text=Personal%20Knowledge%20Management%20Organizing%20Principle%20Spectrum) — comparative model positioning approaches along an axis
+- [\[\[Sycophantic Confidence Spiral\]\]⊙](../UPSTREAM.html#:~:text=Sycophantic%20Confidence%20Spiral) — feedback loop model with empirical measurements
+- [\[\[Vocabulary Lifecycle Through Tending\]\]⊙](../UPSTREAM.html#:~:text=Vocabulary%20Lifecycle%20Through%20Tending) — cross-domain mechanism model with instance mapping table
 
 ## Category
 

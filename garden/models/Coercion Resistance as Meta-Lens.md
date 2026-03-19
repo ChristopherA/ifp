@@ -1,0 +1,58 @@
+---
+created: 2026-03-18
+author: Christopher Allen
+brief_summary: "Meta-lens framework showing how coercion operates across four dimensions in digital identity systems: interface (dark patterns), inference (behavioral profiling), structural (lock-in), and psychological (self-censorship). Each dimension has a specialized sub-lens. The chain Visibility → Legibility → Control → Coercion describes how identity systems escalate from observation to coercion."
+tagline: "Four dimensions of coercion in identity systems and the visibility-to-coercion escalation chain"
+---
+
+- is_a::[[Model Form]]
+- has_status::[[Seed Stage]]
+- in_domain::[[Self-Sovereign Identity]]
+- extracted_from::[[Revisiting Self-Sovereign Identity Initiative]]
+
+# Coercion Resistance as Meta-Lens
+
+## Framing
+
+Coercion resistance is the deeper purpose of Self-Sovereign Identity — privacy is the shield, but the goal is protecting people from coercion. This model describes how coercion operates across four dimensions that technical decentralization alone cannot prevent.
+
+Core insight: "Privacy is not the ultimate goal of Self-Sovereign Identity — it is the shield. The deeper purpose is protecting people from coercion."
+
+## Structure
+
+### The Coercion Escalation Chain
+
+Visibility → Legibility → Control → Coercion
+
+Identity systems that make people visible enable classification (legibility), which enables governance (control), which becomes coercive once alternatives disappear or become too costly. This chain operates whether systems are centralized or decentralized.
+
+### Four Coercion Dimensions
+
+| Dimension | Mechanism | Specialized Lens | Kolpondinos Form |
+|-----------|-----------|-----------------|-----------------|
+| Interface | Dark patterns, manipulative defaults, deceptive design | This meta-lens | Design Paternalism |
+| Inference | Behavioral profiling creating conformity pressure | [[Self-Coercion Through Surveillance Awareness]] | Algorithmic Paternalism |
+| Structural | Lock-in, credential dependencies, exit penalties | [[Choice Architecture and Exit Rights]] | Infrastructural Paternalism |
+| Psychological | Self-censorship, anticipatory compliance | [[Self-Coercion Through Surveillance Awareness]] | Protective Paternalism (partial) |
+
+### Reinforcement Pattern
+
+The four dimensions reinforce each other: interface manipulation enables profiling → profiling creates dependencies → dependencies produce psychological internalization → property law legitimizes all of it through "voluntary" transactions.
+
+## Boundaries
+
+This model describes how coercion operates, not what to do about it. Countermeasures are in [[Technology Paternalism Masks Coercion]] (override, contest, inspect, exit). The model applies to identity systems broadly — centralized, decentralized, and hybrid.
+
+## Sources
+
+- Allen, C. (2025). Coercion Resistance Lens. Revisiting Self-Sovereign Identity, v0.2.01.
+- Kolpondinos, M. (2026). Technology Paternalism. KosmaConnect.
+
+## Relations
+
+relates_to::[[Self-Sovereign Identity]]
+relates_to::[[Technology Paternalism Masks Coercion]]
+relates_to::[[Authentic Collaboration Requires Agency]]
+relates_to::[[Choice Architecture and Exit Rights]]
+relates_to::[[Self-Coercion Through Surveillance Awareness]]
+relates_to::[[Coercion Resistance as Replacement Framing]]

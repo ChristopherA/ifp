@@ -1,81 +1,24 @@
-# Deep Context Architecture — A Garden Lens on Inter-Face Protocol
+# A Garden Patch for Inter-Face Protocol
 
-This folder contains a **mini-garden** — a small collection of structured knowledge nodes that express Inter-Face Protocol concepts through [Deep Context Architecture](domains/Deep%20Context%20Architecture.html) garden forms.
+This is a **garden patch** — a portable, self-contained collection of typed knowledge nodes placed alongside the [Inter-Face Protocol](../README.md) specifications. It expresses IFP concepts through [Deep Context Architecture](domains/Deep%20Context%20Architecture.html) garden forms, revealing connections to broader patterns in identity, trust, collaboration, and protocol design.
 
-This is not a critique of the IFP specifications. It is an alternative lens — a way to see connections between IFP's design decisions and broader patterns in identity, trust, collaboration, and protocol design. Peter's specs remain untouched. The garden sits alongside them.
+A garden patch carries everything needed to read it: form type definitions, domain pages, nodes from the source garden, new nodes seeded from the target content, and citations pointing to canonical source URLs. It does not modify the content it sits alongside — Peter's specs remain untouched.
 
-## What Are Garden Forms?
+This is not a critique. It is a **dialogue** — showing how the same ideas look through a different lens, and where IFP's design decisions connect to decades of work on human agency, progressive trust, and decentralized systems.
 
-A garden is a collection of **typed nodes** connected by **labeled edges** (predicate links). Each node belongs to a **form type** that determines its structural contract — what question it answers and how it is organized.
+## What's In This Patch
 
-Where a traditional document says "here is information about X," a garden node says "here is a **pattern** / **decision** / **conviction** / **model** that answers a specific question about X, and here is how it connects to other nodes."
+**Glosses** — Interpretive definitions of IFP's key concepts ([gossip](glosses/Gossip%20as%20Social%20Sensing%20Filter.html), [agent](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html), [persona](glosses/Persona%20as%20Emergent%20Context%20Cluster.html), [disclosure tier](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html), [temperature](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html), [capability](glosses/Capability%20as%20Advertised%20Agent%20Function.html), [relay](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html), [recommendation](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)) that frame each concept through a broader lens.
 
-### Form Types Used in This Mini-Garden
+**Models, convictions, decisions, patterns, principles** — New nodes seeded from IFP concepts. These express design decisions and architectural choices through garden forms, making their connections to broader patterns visible.
 
-| Form Type | Core Question | Example |
-|-----------|--------------|---------|
-| **Model** | "How do these elements relate to each other?" | Temperature spectrum, disclosure tiers |
-| **Conviction** | "What do we believe is true about the world?" | Filtering over connecting |
-| **Decision** | "Why did we choose this over alternatives?" | Clarity over tolerance |
-| **Pattern** | "What resolves this recurring tension?" | Errors as negotiation |
-| **Principle** | "What must we always or never do?" | Auditable intermediaries |
-| **Gloss** | "What does this concept mean through an interpretive lens?" | Gossip as social sensing |
-| **Boundary** | "Where does this system's authority end?" | Delegated decision authority |
-| **Inquiry** | "What should we think about X?" | Group deliberation mechanism |
-| **Domain** | "What knowledge area does this cluster belong to?" | Synpraxis |
+**Inquiries** — Open questions that surface hidden assumptions. Where IFP makes decisions without explicit justification (why four authentication levels? why six disclosure tiers? why natural language bodies?), inquiries frame the question and explore alternatives.
 
-Full form type definitions are in [forms/](forms/).
+**Citations** — Compound citations of Christopher Allen's published works ([Minimum Viable Architecture](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [Progressive Trust](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to IFP's architectural decisions.
 
-### Predicate Links
-
-Nodes connect through typed predicates — labeled directed edges that say *how* two nodes relate, not just *that* they relate:
-
-```
-is_a::[[Pattern Form]]           — classification
-in_domain::[[Self-Sovereign Identity]]  — knowledge area
-relates_to::[[Progressive Authentication as Trust Deepening]]  — lateral connection
-grounds::[[Filtering Is More Valuable Than Connecting]]  — foundational support
-```
-
-These are written as `predicate::[[Target]]` in the node body. In a full garden with Obsidian, these become navigable graph edges. Here in markdown, they serve as structured metadata showing the knowledge network.
-
-### Three Kinds of Links
-
-This garden patch has three kinds of links, each visually distinct:
-
-| What You See | Example | What It Does |
-|---|---|---|
-| **Blue link with [[brackets]]** | [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) | **In-patch node** — click to navigate to the node within this garden patch |
-| **Blue link with [[brackets]]⊙** | [\[\[Informal Edges Poison the Graph\]\]⊙](EXTERNAL.html#:~:text=Informal%20Edges%20Poison%20the%20Graph) | **External node** — exists in the source garden but not in this patch. Click to see its summary on the [External References](EXTERNAL.html) page |
-| **Plain text with [[brackets]]** | `[[Node Name]]` | **Ghost link** — a concept that could become a node but doesn't exist yet |
-
-### Predicate Links
-
-Lines like `relates_to::[[Target]]` are **labeled directed edges** in the knowledge graph. The predicate name (before `::`) says *how* two nodes relate; the wikilink (after `::`) identifies the target node. These are the structure that makes a garden more than a folder of documents.
-
-## What Is a Garden Patch?
-
-This folder is a **garden patch** — a portable, self-contained fragment of a larger garden that can be placed alongside external content to reveal connections through the garden lens. See [Garden Patch as Composable Knowledge Fragment](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html) for the full concept.
-
-A patch carries everything needed to read it: form type definitions, domain pages, copied nodes from the source garden, new nodes seeded from the target content, and citations pointing to canonical source URLs.
-
-## How This Garden Patch Connects to IFP
-
-The patch has five layers:
-
-**Glosses** — Interpretive definitions of IFP's key concepts (gossip, temperature, persona, disclosure tier, agent, capability, relay, recommendation) that frame each concept through a broader lens.
-
-**Models, convictions, decisions, patterns, principles** — New nodes seeded from IFP concepts. These express Peter's design decisions and architectural choices through garden forms, making their connections to broader patterns visible.
-
-**Inquiries** — Open questions that surface hidden assumptions in IFP's design. Where IFP makes decisions without explicit justification (why four authentication levels? why six disclosure tiers? why natural language bodies?), inquiries frame the question and explore alternatives.
-
-**Citations** — Compound citations of Christopher Allen's published works ([Minimum Viable Architecture](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [Progressive Trust](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to IFP's architectural decisions. Citations point to canonical URLs, not copies of source text.
-
-**Existing garden nodes** — Copies from Christopher Allen's Deep Context Architecture garden. These nodes on progressive trust, principal-agent relationships, coercion resistance, and collaboration mechanics already exist in a larger knowledge graph. They show that IFP's concepts connect to a network of related ideas across identity, governance, and protocol design.
+**Existing garden nodes** — Copies from the source garden covering [progressive trust](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html), [principal-agent relationships](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html), [coercion resistance](models/Coercion%20Resistance%20as%20Meta-Lens.html), and [collaboration mechanics](convictions/Authentic%20Collaboration%20Requires%20Agency.html). These show that IFP's concepts connect to a network of related ideas across identity, governance, and protocol design.
 
 ## Three Knowledge Domains
-
-The garden nodes in this collection connect to three knowledge domains:
 
 - **[Deep Context Architecture](domains/Deep%20Context%20Architecture.html)** — Architecture for personal knowledge systems that preserve captured reasoning through typed forms, predicate edges, and progressive disclosure.
 
@@ -83,7 +26,7 @@ The garden nodes in this collection connect to three knowledge domains:
 
 - **[Synpraxis](domains/Synpraxis.html)** — How independent agents achieve outcomes together across varying degrees of integration — from coordination through cooperation to collaboration.
 
-## Reading Order
+## Where to Start
 
 Start anywhere that interests you. If you want a guided path:
 
@@ -95,7 +38,43 @@ Start anywhere that interests you. If you want a guided path:
 
 4. **Connections** — Read [Authority Flows from the Person](principles/Authority%20Flows%20from%20the%20Person.html) to see how IFP's identity model connects to Self-Sovereign Identity principles that predate IFP.
 
-## About This Garden
+---
+
+## How to Read Garden Nodes
+
+### Three Kinds of Links
+
+| What You See | What It Does |
+|---|---|
+| **Blue link with [[brackets]]** | **In-patch node** — click to navigate within this garden patch |
+| **Blue link with [[brackets]]⊙** | **External node** — exists in the source garden but not here. Click to see its summary on the [External References](EXTERNAL.html) page |
+| **Plain text with [[brackets]]** | **Ghost link** — a concept that could become a node but doesn't exist yet |
+
+### Form Types
+
+Each node belongs to a **form type** that determines its structural contract — what question it answers and how it is organized.
+
+| Form Type | Core Question | Example |
+|-----------|--------------|---------|
+| **Model** | "How do these elements relate?" | Temperature spectrum, disclosure tiers |
+| **Conviction** | "What do we believe is true?" | Filtering over connecting |
+| **Decision** | "Why did we choose this over alternatives?" | Clarity over tolerance |
+| **Pattern** | "What resolves this recurring tension?" | Errors as negotiation |
+| **Principle** | "What must we always or never do?" | Auditable intermediaries |
+| **Gloss** | "What does this concept mean?" | Gossip as social sensing |
+| **Inquiry** | "What should we think about X?" | Group deliberation mechanism |
+| **Boundary** | "Where does authority end?" | Delegated decision authority |
+| **Domain** | "What knowledge area is this?" | Synpraxis |
+
+Full form type definitions are in [forms/](forms/).
+
+### Predicate Links
+
+Lines like `relates_to::[[Target]]` are **labeled directed edges** in the knowledge graph. The predicate name (before `::`) says *how* two nodes relate; the wikilink (after `::`) identifies the target node. These typed edges are the structure that makes a garden more than a folder of documents.
+
+For the full concept, see [Garden Patch as Composable Knowledge Fragment](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html).
+
+---
 
 **Author**: Christopher Allen
 **Context**: Ongoing dialogue with Peter Kaminski about agency, AI, and structured knowledge

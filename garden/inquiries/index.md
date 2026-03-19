@@ -22,4 +22,6 @@ Open questions worth investigating, with possible directions.
 
 **[Trust Layer Activation Criteria](Trust%20Layer%20Activation%20Criteria.html)** — When does a garden need signing, elision, and verified exchange — what triggers the trust layer?
 
-*10 nodes in this section.*
+**[When to Specify and When to Explore in Protocol Evolution](When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)** — When should a protocol commit to specification details vs leave space for implementation discovery?
+
+*11 nodes in this section.*

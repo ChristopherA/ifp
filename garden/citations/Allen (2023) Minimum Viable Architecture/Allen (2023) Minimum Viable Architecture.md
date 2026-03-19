@@ -52,3 +52,6 @@ Directly relevant to Inter-Face Protocol's architectural choices. IFP's load-bea
 
 - relates_to::[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](../../decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)
   - Replacing Postel's Law is a hard-to-reverse architectural decision — exactly the kind minimum viable architecture says to make early.
+
+- relates_to::[\[\[When to Specify and When to Explore in Protocol Evolution\]\]](../../inquiries/When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)
+  - The central application of minimum viable architecture to IFP: which decisions deserve specification commitment and which should remain open for implementation discovery?

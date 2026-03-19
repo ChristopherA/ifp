@@ -54,3 +54,5 @@ The risk is misclassification. An agent that observes patterns may draw wrong bo
 
 - relates_to::[\[\[Content Over Container\]\]](../principles/Content%20Over%20Container.html)
   - Observation discovers structure from content; enumeration imposes containers on content.
+- relates_to::[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](../inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)
+  - Emergent personas paired with prescribed disclosure tiers creates a tension worth examining.

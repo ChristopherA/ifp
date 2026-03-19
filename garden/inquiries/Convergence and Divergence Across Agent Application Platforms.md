@@ -60,3 +60,6 @@ If two platforms share the same IFP features (phases, temperature, trust levels)
 
 - relates_to::[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)
   - Different platforms may need different disclosure vocabularies — a genuine divergence point.
+
+- relates_to::[\[\[Filtering Is More Valuable Than Connecting\]\]](../convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)
+  - If filtering is the core value, do all eleven platforms serve filtering equally? Platforms that primarily connect (Guild Hall, Bazaar) may operate under a different conviction than those that primarily filter (Friend Zone).

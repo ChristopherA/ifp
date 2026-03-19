@@ -66,3 +66,5 @@ The persona-peer-tier mapping is what makes IFP's disclosure model richer than b
 
 - relates_to::[\[\[Choice Architecture and Exit Rights\]\]](Choice%20Architecture%20and%20Exit%20Rights.html)
   - The person can always narrow their disclosure or stop sharing — exit rights apply to information sharing.
+- relates_to::[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]](../inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)
+  - Should disclosure be discrete named tiers or a continuous spectrum?

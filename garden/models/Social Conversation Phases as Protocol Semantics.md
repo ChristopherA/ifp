@@ -59,3 +59,5 @@ The error phase deserves particular attention. In traditional protocols, an erro
 
 - relates_to::[\[\[Progressive Disclosure Over Eager Loading\]\]](../principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)
   - Phases progressively deepen context exchange — greeting before context, context before probe.
+- relates_to::[\[\[Social Phase Decomposition in Trust-Building Protocols\]\]](../inquiries/Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html)
+  - Do six phases capture the right decomposition of trust-building conversation?

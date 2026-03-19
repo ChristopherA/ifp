@@ -58,3 +58,5 @@ IFP's progressive authentication model aligns with Self-Sovereign Identity princ
 
 - relates_to::[\[\[Trust Layer Activation Criteria\]\]](../inquiries/Trust%20Layer%20Activation%20Criteria.html)
   - When should authentication deepen from Level 1 to Level 2 or Level 3? The trust layer activation criteria provide a framework for answering this question.
+- relates_to::[\[\[Granularity of Progressive Authentication Stages\]\]](../inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html)
+  - Are four discrete levels the right granularity for progressive authentication?

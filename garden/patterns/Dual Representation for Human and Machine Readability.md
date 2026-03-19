@@ -60,3 +60,5 @@ Conversion between IFP-3 and IFP-4 is defined as lossless for the core message m
 
 - relates_to::[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](../principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)
   - IFP-3's YAML + Markdown format is readable with zero tools — any text editor works.
+- relates_to::[\[\[Structured Schema vs Natural Language for Agent Message Content\]\]](../inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)
+  - Dual representation preserves both readability and processability for envelopes — but the body remains natural language only.

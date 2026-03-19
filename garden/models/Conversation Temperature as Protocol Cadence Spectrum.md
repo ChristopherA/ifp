@@ -53,3 +53,5 @@ The temperature model is reusable beyond IFP. Any system where the same particip
 
 - relates_to::[\[\[Social Conversation Phases as Protocol Semantics\]\]](Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
   - Phases progress at the rate the temperature allows — cool phases take days, hot phases take minutes.
+- relates_to::[\[\[Organizing Principle for Agent Application Domains\]\]](../inquiries/Organizing%20Principle%20for%20Agent%20Application%20Domains.html)
+  - Temperature is one candidate organizing principle for the application platform taxonomy.

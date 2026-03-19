@@ -46,3 +46,5 @@ This conviction has consequences for protocol design: most gossip exchanges shou
 
 - relates_to::[\[\[Authentic Collaboration Requires Agency\]\]](Authentic%20Collaboration%20Requires%20Agency.html)
   - Filtering preserves human agency over attention — the person decides what to engage with, not the algorithm.
+- relates_to::[\[\[Convergence and Divergence Across Agent Application Platforms\]\]](../inquiries/Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)
+  - If filtering is the core value, do all eleven platforms serve filtering equally?

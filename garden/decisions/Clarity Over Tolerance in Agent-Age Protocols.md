@@ -58,3 +58,5 @@ The chosen approach combines strict reporting with a unique mitigation: **errors
 
 - relates_to::[\[\[Social Conversation Phases as Protocol Semantics\]\]](../models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
   - The error phase implements conversational resolution, enabling clarity without brittleness.
+- relates_to::[\[\[Structured Schema vs Natural Language for Agent Message Content\]\]](../inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)
+  - The clarity principle may be in tension with natural language bodies that resist validation.

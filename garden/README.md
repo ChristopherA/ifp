@@ -46,9 +46,9 @@ Start anywhere that interests you. If you want a guided path:
 
 | What You See | What It Means |
 |---|---|
-| Blue clickable text with brackets | **Grafted node** — this node is present in this garden patch. Click to navigate to it. |
-| Blue clickable text with brackets and ⊙ | **Upstream node** — this node exists in the source garden but was not grafted into this patch. Click to see its summary on the [Upstream References](UPSTREAM.html) page. |
-| Plain (non-clickable) text with brackets | **Ghost link** — a reference to a node that does not exist yet. A stake in the ground marking where a node could grow. |
+| Blue clickable text with brackets | [**Grafted node**](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) — this node is present in this garden patch. Click to navigate to it. |
+| Blue clickable text with brackets and ⊙ | [**Upstream node**](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html) — this node exists in the source garden but was not grafted into this patch. Click to see its summary on the [Upstream References](UPSTREAM.html) page. |
+| Plain (non-clickable) text with brackets | [**Ghost link**](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html) — a reference to a node that does not exist yet. A stake in the ground marking where a node could grow. |
 
 ### Form Types
 
@@ -67,6 +67,17 @@ Each node belongs to a **form type** that determines its structural contract —
 | [**Domain**](forms/Domain%20Form.html) | "What knowledge area is this?" | [\[\[Synpraxis\]\]](domains/Synpraxis.html) |
 
 All [form type definitions](forms/index.html), [models](models/index.html), [glosses](glosses/index.html), [inquiries](inquiries/index.html), [patterns](patterns/index.html), [principles](principles/index.html), [convictions](convictions/index.html), [citations](citations/index.html), and [values](values/index.html) are browsable by section.
+
+The source garden has additional form types not represented in this patch — either because no IFP-relevant instances exist yet, or because the form type is still maturing:
+
+| Form Type | Core Question | Why Not Included |
+|---|---|---|
+| [**Case**⊙](UPSTREAM.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
+| [**Reference**⊙](UPSTREAM.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
+| [**Research**⊙](UPSTREAM.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
+| [**Scenario**⊙](UPSTREAM.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
+| [**Skill**⊙](UPSTREAM.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
+| [**Opus**](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
 
 ### Predicate Links
 

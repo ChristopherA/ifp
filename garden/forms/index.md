@@ -30,8 +30,10 @@ Structural contracts defining what each form type answers and how it is organize
 
 **[Principle Form](Principle%20Form.html)** — What must we always or never do? — the structural contract for principle forms
 
+**[Protocol Form](Protocol%20Form.html)** — How do independent parties coordinate reliably? — the structural contract for protocol forms
+
 **[Seed Stage](Seed%20Stage.html)** — Raw capture, unprocessed, low confidence — where every garden node begins
 
 **[Value Form](Value%20Form.html)** — What do we care about? — the structural contract for value forms
 
-*16 nodes in this section.*
+*17 nodes in this section.*

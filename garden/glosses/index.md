@@ -14,7 +14,11 @@ Interpretive definitions that frame concepts through a broader lens.
 
 **[Garden Precinct](Garden%20Precinct.html)** — Curated knowledge nodes with structural contracts and growth stages
 
+**[Ghost Link as Unplanted Garden Stake](Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html)** — A reference to a node that does not exist yet — a stake marking where one could grow
+
 **[Gossip as Social Sensing Filter](Gossip%20as%20Social%20Sensing%20Filter.html)** — Gossip filters attention rather than broadcasting information
+
+**[Grafted Node as Transplanted Knowledge in a Garden Patch](Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node transplanted into a garden patch, whether from the source garden or grown new
 
 **[Persona as Emergent Context Cluster](Persona%20as%20Emergent%20Context%20Cluster.html)** — Personas reflect how human interests naturally cluster, not how systems categorize people
 
@@ -24,6 +28,8 @@ Interpretive definitions that frame concepts through a broader lens.
 
 **[Relay as Accountable Store-and-Forward Intermediary](Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)** — Relays forward messages between agents while leaving an auditable trace
 
+**[Upstream Node as Source Garden Reference](Upstream%20Node%20as%20Source%20Garden%20Reference.html)** — A node that exists in the source garden but was not grafted into this patch
+
 **[Vault Precinct](Vault%20Precinct.html)** — Operational knowledge capture, organization, and retrieval for daily work
 
-*12 nodes in this section.*
+*15 nodes in this section.*

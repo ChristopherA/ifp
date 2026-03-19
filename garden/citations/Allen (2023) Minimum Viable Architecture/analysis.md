@@ -10,7 +10,13 @@ tagline: "Which IFP decisions are load-bearing architecture and which are deferr
 
 # Analysis: Minimum Viable Architecture Applied to Inter-Face Protocol
 
-The minimum viable architecture principle asks: which decisions are hard to reverse, and which can be deferred until you know more? Applied to IFP, this produces a clear separation.
+## MVA vs MVP
+
+Minimum viable architecture is often confused with minimum viable product, but they answer different questions. MVP asks: *what is the minimum product we can ship to learn from users?* MVA asks: *what architecture will support changes as we learn?*
+
+MVP optimizes for speed to market — build the smallest thing, ship it, iterate based on feedback. MVA optimizes for adaptability — commit to the few decisions that are hard to reverse, and deliberately leave everything else open so implementations can explore, fail cheaply, and converge on what works.
+
+The distinction matters for protocol design. A protocol built on MVP thinking specifies everything at once (ship the spec, see what happens). A protocol built on MVA thinking specifies the load-bearing architecture and explicitly marks the rest as open for exploration. The first approach risks premature commitment; the second risks insufficient interoperability. The right balance depends on which decisions are hard to reverse.
 
 ## Load-Bearing Decisions (Hard to Reverse)
 

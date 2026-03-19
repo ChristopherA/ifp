@@ -32,7 +32,7 @@ Naming heuristic: abstract quality or orientation as a noun phrase. Name the val
 
 - `is_a::[\[\[Value Form\]\]](Value%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
-- `in_domain::[[Domain Name]]`
+- `in_domain::[[Domain Name]]⊙`
 - `grounded_in::[\[\[Conviction Form\]\]](Conviction%20Form.html)` — convictions this value rests on
 - `generates::[\[\[Principle Form\]\]](Principle%20Form.html)` — principles derived from this value
 

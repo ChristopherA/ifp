@@ -38,16 +38,16 @@ Naming heuristic: scope of investigation + what's being determined.
 - `is_a::[\[\[Inquiry Form\]\]](Inquiry%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
 - `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
-- `directed_at::[[Person Name]]` — flags questions for specific people
-- `extracted_from::[[Research Note]]` — provenance
-- `extends::[[Related Form]]` — applies a concept to new domain
+- `directed_at::[[Person Name]]⊙` — flags questions for specific people
+- `extracted_from::[[Research Note]]⊙` — provenance
+- `extends::[[Related Form]]⊙` — applies a concept to new domain
 - `relates_to::[\[\[Gloss Form\]\]](Gloss%20Form.html)`, `[\[\[Pattern Form\]\]](Pattern%20Form.html)`
 
 ## Exemplars
 
-- [[Compound Node Meeting Structure]] — directed questions about meeting compound node design
-- [[Personal Knowledge Management Method Adoption for Vault Architecture]] — comparative inquiry across personal knowledge management methods
-- [[Vault-Wide Compound Node Adoption]] — investigation with resolved structure and remaining questions
+- [[Compound Node Meeting Structure]]⊙ — directed questions about meeting compound node design
+- [[Personal Knowledge Management Method Adoption for Vault Architecture]]⊙ — comparative inquiry across personal knowledge management methods
+- [[Vault-Wide Compound Node Adoption]]⊙ — investigation with resolved structure and remaining questions
 
 ## Category
 

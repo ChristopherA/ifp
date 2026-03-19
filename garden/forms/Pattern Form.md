@@ -35,18 +35,18 @@ Naming heuristic: Alexandrian evocative — name the solution, lean toward image
 
 - `is_a::[\[\[Pattern Form\]\]](Pattern%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)`
-- `in_domain::[[Domain Name]]`
-- `extracted_from::[[Source Document]]` — provenance
-- `validated_by::[[Case Form]]` — evidence the pattern works
-- `composes_with::[[Related Pattern]]` — how patterns combine
+- `in_domain::[[Domain Name]]⊙`
+- `extracted_from::[[Source Document]]⊙` — provenance
+- `validated_by::[[Case Form]]⊙` — evidence the pattern works
+- `composes_with::[[Related Pattern]]⊙` — how patterns combine
 - `relates_to::[\[\[Principle Form\]\]](Principle%20Form.html)` — values the pattern embodies
 
 ## Exemplars
 
-- [[Progressive Summary Before Substance]] — Alexandrian structure with clear forces and resolution
-- [[Knowledge on Three Axes]] — cross-domain pattern with mapping table
+- [[Progressive Summary Before Substance]]⊙ — Alexandrian structure with clear forces and resolution
+- [[Knowledge on Three Axes]]⊙ — cross-domain pattern with mapping table
 - [\[\[Three-Part Enforcement Stack\]\]](../patterns/Three-Part%20Enforcement%20Stack.html) — pattern from Self-Sovereign Identity domain with enforcement layers
-- [[Informal Edges Poison the Graph]] — anti-pattern naming: failure mode as a claim
+- [[Informal Edges Poison the Graph]]⊙ — anti-pattern naming: failure mode as a claim
 
 ## Category
 

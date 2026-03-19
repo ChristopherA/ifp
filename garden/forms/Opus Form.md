@@ -78,21 +78,21 @@ Attribution uses role-specific predicates grounded in the principal-agent framew
 
 ### Required
 
-- `authored_by::[[Person]]` -- who wrote the content
-- `principal::[[Person]]` -- who directed the work and bears ultimate responsibility (from agency law; see [\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html))
+- `authored_by::[[Person]]⊙` -- who wrote the content
+- `principal::[[Person]]⊙` -- who directed the work and bears ultimate responsibility (from agency law; see [\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html))
 
 ### Recommended
 
-- `copyright_held_by::[[Person]]` -- legal ownership (distinct from authorship)
-- `produced_by::[[Person]]` -- who made the work happen as a creative project (from film/game industry usage; often the same as principal but carries different connotation)
+- `copyright_held_by::[[Person]]⊙` -- legal ownership (distinct from authorship)
+- `produced_by::[[Person]]⊙` -- who made the work happen as a creative project (from film/game industry usage; often the same as principal but carries different connotation)
 
 ### As Needed
 
-- `foreword_by::[[Person]]` -- foreword contributor
-- `illustrated_by::[[Person]]` -- illustrator
-- `contributed_by::[[Person]]` -- catch-all for other roles
-- `edited_by::[[Person]]` -- editor
-- `translated_by::[[Person]]` -- translator
+- `foreword_by::[[Person]]⊙` -- foreword contributor
+- `illustrated_by::[[Person]]⊙` -- illustrator
+- `contributed_by::[[Person]]⊙` -- catch-all for other roles
+- `edited_by::[[Person]]⊙` -- editor
+- `translated_by::[[Person]]⊙` -- translator
 
 The distinction between authorship and responsibility matters for AI-assisted works: a human may not author a single word yet bears full responsibility as principal. "The augmentation is the method, not the author."
 
@@ -100,12 +100,12 @@ The distinction between authorship and responsibility matters for AI-assisted wo
 
 - `is_a::[\[\[Opus Form\]\]](Opus%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` (or Growing, Evergreen)
-- `in_domain::[[Domain Name]]`
-- `in_series::[[Series Title]]` -- membership in a thematic collection
-- `inspired_by::[[Source]]` -- intellectual lineage
-- `extends::[[Other Opus]]` -- when one work builds on another
-- `develops_from::[[Other Opus]]` -- earlier work this one grew out of
-- `presents::[[Garden Node]]` -- references garden Pattern, Model, or other nodes the work discusses
+- `in_domain::[[Domain Name]]⊙`
+- `in_series::[[Series Title]]⊙` -- membership in a thematic collection
+- `inspired_by::[[Source]]⊙` -- intellectual lineage
+- `extends::[[Other Opus]]⊙` -- when one work builds on another
+- `develops_from::[[Other Opus]]⊙` -- earlier work this one grew out of
+- `presents::[[Garden Node]]⊙` -- references garden Pattern, Model, or other nodes the work discusses
 - `same_work_as::URL` -- identity consolidation: "this work also exists here" (the IndieWeb rel-me concept applied to works)
 
 ## Frontmatter
@@ -146,9 +146,9 @@ The form definition remains mechanism-agnostic. The SSI layer sits alongside the
 
 ## Exemplars
 
-- [[Sociosocratic Learning & Seminars]] -- Seed stage, compound (analysis.md + insights.md). Solo-authored essay on collaborative learning, published as GitHub Gist. Develops from the Hybrid Flipped Learning presentation.
-- [[My Hybrid Flipped Learning Environment]] -- Seed stage, compound (lead article + Expressions/ with SlideShare sidecar). ~5,000-word article expanding a 2013 faculty presentation on game-design-informed pedagogy. Published on SlideShare (abbreviated).
-- [[Field Notes on Handpan Sound Models & Instruments]] -- Seed stage, dual-format compound (interactive HTML + portable markdown per instrument). Web-publishable reference work with code assets, requirements docs, and a 2014 precursor article as Rendition. Demonstrates Opus Form handling of hybrid web/vault content.
+- [[Sociosocratic Learning & Seminars]]⊙ -- Seed stage, compound (analysis.md + insights.md). Solo-authored essay on collaborative learning, published as GitHub Gist. Develops from the Hybrid Flipped Learning presentation.
+- [[My Hybrid Flipped Learning Environment]]⊙ -- Seed stage, compound (lead article + Expressions/ with SlideShare sidecar). ~5,000-word article expanding a 2013 faculty presentation on game-design-informed pedagogy. Published on SlideShare (abbreviated).
+- [[Field Notes on Handpan Sound Models & Instruments]]⊙ -- Seed stage, dual-format compound (interactive HTML + portable markdown per instrument). Web-publishable reference work with code assets, requirements docs, and a 2014 precursor article as Rendition. Demonstrates Opus Form handling of hybrid web/vault content.
 
 ## Category
 
@@ -161,15 +161,15 @@ Structural form -- captures *what I am saying* and *how it connects*.
 - [\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html) -- principal-agent framework
 - [\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](../inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html) -- etymological grounding (opus = work product)
 - "Wikis, Publishers, Communities, Community Stewards" email thread (Jan 2026) -- producer/principal distinction
-- [[The Gardening Problem Returns]] -- "authorship is not performance but responsibility"
+- [[The Gardening Problem Returns]]⊙ -- "authorship is not performance but responsibility"
 
 ## Relations
 
 - relates_to::[\[\[Citation Form\]\]](Citation%20Form.html) -- citations capture others' works; opuses capture your own
 - relates_to::[\[\[Pattern Form\]\]](Pattern%20Form.html) -- opuses may present patterns as garden nodes
 - relates_to::[\[\[Model Form\]\]](Model%20Form.html) -- opuses may present models as garden nodes
-- relates_to::[[Case Form]] -- opuses may contain case studies
-- relates_to::[[Reference Form]] -- references synthesize knowledge; opuses are original contributions
-- relates_to::[[Research Form]] -- research investigates; opuses articulate
+- relates_to::[[Case Form]]⊙ -- opuses may contain case studies
+- relates_to::[[Reference Form]]⊙ -- references synthesize knowledge; opuses are original contributions
+- relates_to::[[Research Form]]⊙ -- research investigates; opuses articulate
 - relates_to::[\[\[Principal Authority as Agency Law for Digital Identity\]\]](../glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html) -- attribution framework
 - relates_to::[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](../models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html) -- implementation model

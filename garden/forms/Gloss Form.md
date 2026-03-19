@@ -34,15 +34,15 @@ Naming heuristic: source + thesis. Mix based on how strong the interpretation is
 - `is_a::[\[\[Gloss Form\]\]](Gloss%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
 - `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
-- `extracted_from::[[Source Document]]` — provenance with optional line numbers
-- `relates_to::[[Related Form]]` — lateral connections
-- `defines_vocabulary_from::[[Source]]` — when defining terms from decisions or research
+- `extracted_from::[[Source Document]]⊙` — provenance with optional line numbers
+- `relates_to::[[Related Form]]⊙` — lateral connections
+- `defines_vocabulary_from::[[Source]]⊙` — when defining terms from decisions or research
 
 ## Exemplars
 
 - [\[\[Deep Context Graph Vocabulary\]\]](../glosses/Deep%20Context%20Graph%20Vocabulary.html) — consolidates 7 terms from compound document decisions
-- [[PARA as Actionability-First Design]] — interprets Forte's PARA through a specific lens
-- [[Digital Garden as Growth Ethos]] — glosses the digital garden concept against vault architecture
+- [[PARA as Actionability-First Design]]⊙ — interprets Forte's PARA through a specific lens
+- [[Digital Garden as Growth Ethos]]⊙ — glosses the digital garden concept against vault architecture
 
 ## Category
 

@@ -32,16 +32,16 @@ Decisions carry a `status` field in frontmatter (`proposed`, `accepted`, `deprec
 - `is_a::[\[\[Decision Form\]\]](Decision%20Form.html)`
 - `has_status::[\[\[Seed Stage\]\]](Seed%20Stage.html)` or `[\[\[Growing Stage\]\]](Growing%20Stage.html)`
 - `in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`
-- `supersedes::[[Previous Decision]]` — chains revised decisions
-- `extended_by::[[Follow-Up Decision]]` — marks refinements
-- `extracted_from::[[Source Document]]` — provenance
-- `informs::[[Related Form]]` — downstream effects
+- `supersedes::[[Previous Decision]]⊙` — chains revised decisions
+- `extended_by::[[Follow-Up Decision]]⊙` — marks refinements
+- `extracted_from::[[Source Document]]⊙` — provenance
+- `informs::[[Related Form]]⊙` — downstream effects
 
 ## Exemplars
 
-- [[Classification via Predicates Not Tags]] — canonical example with clear context/decision/consequences/alternatives
-- [[Artifact Predicate for Binary Metadata]] — introduces a new predicate with rationale
-- [[Extraction Model for Garden Migration]] — reframes an entire approach (D6)
+- [[Classification via Predicates Not Tags]]⊙ — canonical example with clear context/decision/consequences/alternatives
+- [[Artifact Predicate for Binary Metadata]]⊙ — introduces a new predicate with rationale
+- [[Extraction Model for Garden Migration]]⊙ — reframes an entire approach (D6)
 
 ## Category
 

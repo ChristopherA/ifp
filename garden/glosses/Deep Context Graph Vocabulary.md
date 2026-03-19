@@ -24,7 +24,7 @@ This gloss consolidates the graph vocabulary: structural terms from the compound
 
 **Form type**: The category a node belongs to (Pattern Form, Decision Form), declared by its `is_a::` edge. "Node" and "form type" are distinct: there is one Pattern Form type but many pattern nodes. When discussing individual documents, say "node" or "instance of [Form Type]"; reserve "form" for the type itself.
 
-**Typed edge**: A predicate wikilink — a named, directional connection between context nodes. Written as `predicate::[[Target]]`. The predicate names the relationship type; the wikilink identifies the target. Examples: `relates_to::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`, `is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)`, `derived_from::"https://example.com"`.
+**Typed edge**: A predicate wikilink — a named, directional connection between context nodes. Written as `predicate::[[Target]]⊙`. The predicate names the relationship type; the wikilink identifies the target. Examples: `relates_to::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)`, `is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)`, `derived_from::"https://example.com"`.
 
 **Compound node**: A folder-based context node containing a lead file, optional sibling files, and optional `Renditions/` and `Archives/` subfolders. Generalizes "compound document" from the garden decisions to vault-wide use.
 
@@ -102,7 +102,7 @@ Extracted from the Graph Vocabulary gloss section of the compound nodes research
   - The vocabulary gloss section, lines 91-115.
 
 - extends::[[Typed Relations as Simple Graphs in Plain Markdown]]⊙
-  - The typed edge concept builds on the predicate::[[target]] convention defined in the typed relations specification.
+  - The typed edge concept builds on the predicate::[[target]]⊙ convention defined in the typed relations specification.
 
 - defines_vocabulary_from::[[Renditions and Archives as Distinct Artifact Types]]⊙
   - The rendition, archive, and sidecar terms originate from these decisions.

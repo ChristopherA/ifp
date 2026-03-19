@@ -34,10 +34,10 @@ The term borrows from Andy Matuschak's "evergreen notes" concept but applies it 
 
 ## Sources
 
-Growth stage definitions from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Growth Stages as Lifecycle Metadata" section. Originally `status/evergreen` tag; migrated to `has_status::[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)` predicate per [[Classification via Predicates Not Tags]]. Term inspired by Matuschak, Andy. "Evergreen notes." https://notes.andymatuschak.org/Evergreen_notes
+Growth stage definitions from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Growth Stages as Lifecycle Metadata" section. Originally `status/evergreen` tag; migrated to `has_status::[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html)` predicate per [[Classification via Predicates Not Tags]]⊙. Term inspired by Matuschak, Andy. "Evergreen notes." https://notes.andymatuschak.org/Evergreen_notes
 
 ## Relations
 
 - relates_to::[\[\[Growing Stage\]\]](Growing%20Stage.html) — the previous stage in the growth progression
-- relates_to::[[Pruned Stage]] — the end-of-life transition for superseded evergreen nodes
-- relates_to::[[Structural Retrieval Hierarchy]] — evergreen nodes rank highest in retrieval priority
+- relates_to::[[Pruned Stage]]⊙ — the end-of-life transition for superseded evergreen nodes
+- relates_to::[[Structural Retrieval Hierarchy]]⊙ — evergreen nodes rank highest in retrieval priority

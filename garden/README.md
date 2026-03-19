@@ -1,6 +1,6 @@
 # Deep Context Architecture — A Garden Lens on Inter-Face Protocol
 
-This folder contains a **mini-garden** — a small collection of structured knowledge nodes that express Inter-Face Protocol concepts through [Deep Context Architecture](domains/Deep%20Context%20Architecture.md) garden forms.
+This folder contains a **mini-garden** — a small collection of structured knowledge nodes that express Inter-Face Protocol concepts through [Deep Context Architecture](domains/Deep%20Context%20Architecture.html) garden forms.
 
 This is not a critique of the IFP specifications. It is an alternative lens — a way to see connections between IFP's design decisions and broader patterns in identity, trust, collaboration, and protocol design. Peter's specs remain untouched. The garden sits alongside them.
 
@@ -49,11 +49,11 @@ Not every wikilink target is in this patch. Markers distinguish what's here from
 | `[[Node]]↗` | Linked external — destination exists in another published garden with a navigable URL |
 | `[[Node]]⊙` | Exists elsewhere — node exists in the source garden but is not published or linked |
 
-See [EXTERNAL.md](EXTERNAL.md) for the manifest of all external references and their source locations.
+See [EXTERNAL.md](EXTERNAL.html) for the manifest of all external references and their source locations.
 
 ## What Is a Garden Patch?
 
-This folder is a **garden patch** — a portable, self-contained fragment of a larger garden that can be placed alongside external content to reveal connections through the garden lens. See [Garden Patch as Composable Knowledge Fragment](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.md) for the full concept.
+This folder is a **garden patch** — a portable, self-contained fragment of a larger garden that can be placed alongside external content to reveal connections through the garden lens. See [Garden Patch as Composable Knowledge Fragment](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html) for the full concept.
 
 A patch carries everything needed to read it: form type definitions, domain pages, copied nodes from the source garden, new nodes seeded from the target content, and citations pointing to canonical source URLs.
 
@@ -67,7 +67,7 @@ The patch has five layers:
 
 **Inquiries** — Open questions that surface hidden assumptions in IFP's design. Where IFP makes decisions without explicit justification (why four authentication levels? why six disclosure tiers? why natural language bodies?), inquiries frame the question and explore alternatives.
 
-**Citations** — Compound citations of Christopher Allen's published works ([Minimum Viable Architecture](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.md) and [Progressive Trust](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.md)) with analysis and insights showing how these frameworks apply to IFP's architectural decisions. Citations point to canonical URLs, not copies of source text.
+**Citations** — Compound citations of Christopher Allen's published works ([Minimum Viable Architecture](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [Progressive Trust](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to IFP's architectural decisions. Citations point to canonical URLs, not copies of source text.
 
 **Existing garden nodes** — Copies from Christopher Allen's Deep Context Architecture garden. These nodes on progressive trust, principal-agent relationships, coercion resistance, and collaboration mechanics already exist in a larger knowledge graph. They show that IFP's concepts connect to a network of related ideas across identity, governance, and protocol design.
 
@@ -75,27 +75,27 @@ The patch has five layers:
 
 The garden nodes in this collection connect to three knowledge domains:
 
-- **[Deep Context Architecture](domains/Deep%20Context%20Architecture.md)** — Architecture for personal knowledge systems that preserve captured reasoning through typed forms, predicate edges, and progressive disclosure.
+- **[Deep Context Architecture](domains/Deep%20Context%20Architecture.html)** — Architecture for personal knowledge systems that preserve captured reasoning through typed forms, predicate edges, and progressive disclosure.
 
-- **[Self-Sovereign Identity](domains/Self-Sovereign%20Identity.md)** — Individual control of digital identity through principal authority, agency law, and coercion resistance.
+- **[Self-Sovereign Identity](domains/Self-Sovereign%20Identity.html)** — Individual control of digital identity through principal authority, agency law, and coercion resistance.
 
-- **[Synpraxis](domains/Synpraxis.md)** — How independent agents achieve outcomes together across varying degrees of integration — from coordination through cooperation to collaboration.
+- **[Synpraxis](domains/Synpraxis.html)** — How independent agents achieve outcomes together across varying degrees of integration — from coordination through cooperation to collaboration.
 
 ## Reading Order
 
 Start anywhere that interests you. If you want a guided path:
 
-1. **Glosses** — Read [Gossip as Social Sensing Filter](glosses/Gossip%20as%20Social%20Sensing%20Filter.md) and [Agent as Human Proxy in Protocol Exchange](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.md) to see how garden glosses reframe familiar IFP concepts.
+1. **Glosses** — Read [Gossip as Social Sensing Filter](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) and [Agent as Human Proxy in Protocol Exchange](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html) to see how garden glosses reframe familiar IFP concepts.
 
-2. **Models** — Read [Conversation Temperature as Protocol Cadence Spectrum](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.md) to see how a model form captures structural relationships.
+2. **Models** — Read [Conversation Temperature as Protocol Cadence Spectrum](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html) to see how a model form captures structural relationships.
 
-3. **Convictions** — Read [Filtering Is More Valuable Than Connecting](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.md) to see how IFP's core insight maps to a conviction form.
+3. **Convictions** — Read [Filtering Is More Valuable Than Connecting](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) to see how IFP's core insight maps to a conviction form.
 
-4. **Connections** — Read [Authority Flows from the Person](principles/Authority%20Flows%20from%20the%20Person.md) to see how IFP's identity model connects to Self-Sovereign Identity principles that predate IFP.
+4. **Connections** — Read [Authority Flows from the Person](principles/Authority%20Flows%20from%20the%20Person.html) to see how IFP's identity model connects to Self-Sovereign Identity principles that predate IFP.
 
 ## About This Garden
 
 **Author**: Christopher Allen
 **Context**: Ongoing dialogue with Peter Kaminski about agency, AI, and structured knowledge
-**Source garden**: [Deep Context Architecture](domains/Deep%20Context%20Architecture.md) (not yet published)
+**Source garden**: [Deep Context Architecture](domains/Deep%20Context%20Architecture.html) (not yet published)
 **License**: Same as the IFP repository

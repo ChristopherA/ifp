@@ -112,10 +112,11 @@ When adding a node to this garden patch:
 
 | What You See | Term | Meaning |
 |---|---|---|
-| \[\[Node Name\]\] | **Grafted node** | Present in this patch — click to navigate |
+| \[\[Node Name\]\] | **Grafted node** | Copied from the source garden into this patch — click to navigate |
+| \[\[Node Name\]\]⊙ | **Patch-native node** | Born in this patch, not grafted from upstream — this patch is its garden home |
 | \[\[Node Name\]\]↑ | **Upstream node** | Exists in source garden, not grafted here — click for summary |
-| \[\[Node Name\]\]↗ | **Cross-garden node** | In another published garden with navigable URL |
 | \[\[Node Name\]\] | **Ghost link** | Node does not exist yet — a stake marking where one could grow |
+| \[\[Node Name\]\]↗ | **Cross-garden node** | In another published garden with navigable URL |
 | [Link text](url) | **Regular link** | Standard web link to an external website or resource — no brackets |
 
 See [UPSTREAM.md](UPSTREAM.html) for the index of upstream nodes.

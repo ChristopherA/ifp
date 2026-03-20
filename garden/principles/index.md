@@ -4,7 +4,7 @@
 
 Standing constraints on what we must always or never do.
 
-**[\[\[Auditable Intermediaries Over Silent Proxies\]\]](Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)** — Intermediaries must leave auditable traces rather than forwarding silently
+**[\[\[Auditable Intermediaries Over Silent Proxies\]\]⊙](Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)** — Intermediaries must leave auditable traces rather than forwarding silently
 
 **[\[\[Authority Flows from the Person\]\]](Authority%20Flows%20from%20the%20Person.html)** — Identity is delegable, not alienable — authority originates with the person
 

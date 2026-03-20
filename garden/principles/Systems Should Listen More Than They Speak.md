@@ -5,6 +5,9 @@ brief_summary: "Herbert Simon's design principle applied to information systems:
 tagline: "Well-designed subsystems compress information at every stage — measure attention saved, not data delivered"
 ---
 
+← [Garden Patch Home](../README.html) · [Principles](index.html)
+
+
 - is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
@@ -38,3 +41,6 @@ Grounded in [\[\[Simon (1971) Designing Organizations for an Information-Rich Wo
 
 - relates_to::[\[\[Gossip as Social Sensing Filter\]\]](../glosses/Gossip%20as%20Social%20Sensing%20Filter.html)
   - Social gossip networks are natural examples of listen-more-than-speak systems — many observations compress into few transmitted judgments.
+
+- relates_to::[\[\[Gossip Duality Between Human Silence and Agent Noise\]\]](../inquiries/Gossip%20Duality%20Between%20Human%20Silence%20and%20Agent%20Noise.html)
+  - The listening principle manifests as the human-silence side of the gossip duality.

@@ -7,10 +7,13 @@ brief_summary: "Simon's 1971 essay argues that information abundance creates att
 tagline: "A wealth of information creates a poverty of attention — design for filtering, not volume"
 ---
 
+← [Garden Patch Home](../../README.html) · [Citations](../index.html)
+
+
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../../domains/Deep%20Context%20Architecture.html)
-- cites_work_by::[\[\[Herbert A. Simon\]\]⊙](../../UPSTREAM.html#:~:text=Herbert%20A.%20Simon)
+- cites_work_by::[\[\[Herbert A. Simon\]\]↑](../../UPSTREAM.html#:~:text=Herbert%20A.%20Simon)
 
 # Simon (1971) Designing Organizations for an Information-Rich World
 

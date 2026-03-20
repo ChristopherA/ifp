@@ -5,6 +5,9 @@ brief_summary: "Analysis of Brand's pace layering as a knowledge architecture an
 tagline: "Why knowledge gardens and agent platforms need components at different speeds — and what breaks when you synchronize them"
 ---
 
+← [Garden Patch Home](../../README.html) · [Citations](../index.html)
+
+
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 

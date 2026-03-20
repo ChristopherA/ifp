@@ -5,6 +5,9 @@ brief_summary: "A garden patch is a portable, self-contained subset of a Deep Co
 tagline: "A portable garden subset that reveals connections in external content without modifying it"
 ---
 
+← [Garden Patch Home](../README.html) · [Glosses](index.html)
+
+
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
@@ -23,7 +26,7 @@ A patch carries everything needed to read it:
 - **New nodes** seeded from the external content being analyzed
 - **Citations** with canonical URLs pointing to source works (not copies of source text)
 
-Wikilinks within a patch (`[\[\[Node Name\]\]⊙](../UPSTREAM.html#:~:text=Node%20Name)`) resolve within the patch directory. Links to the source garden or external works use URLs, not wikilinks, since the source garden may not be published.
+Wikilinks within a patch (`[\[\[Node Name\]\]↑](../UPSTREAM.html#:~:text=Node%20Name)`) resolve within the patch directory. Links to the source garden or external works use URLs, not wikilinks, since the source garden may not be published.
 
 ## Composability
 
@@ -47,3 +50,9 @@ The `garden/` folder in this repository is a garden patch. It contains nodes fro
 
 - relates_to::[\[\[Knowledge Compounds Through Typed Edges Not Filing\]\]](../patterns/Knowledge%20Compounds%20Through%20Typed%20Edges%20Not%20Filing.html)
   - A patch's value comes from the typed edges between nodes, not from the folder structure — the same principle that makes gardens work.
+
+- relates_to::[\[\[Neobooks as Composable Knowledge Objects\]\]](Neobooks%20as%20Composable%20Knowledge%20Objects.html)
+  - Garden patches are one implementation of the neobooks concept — portable, composable, shareable knowledge fragments.
+
+- relates_to::[\[\[Collaborative Meeting as Composable Knowledge Pipeline\]\]](../models/Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)
+  - Meetings are a pipeline input that produces garden patch updates through the seven-stage composable process.

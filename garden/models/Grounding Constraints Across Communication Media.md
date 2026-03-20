@@ -5,6 +5,9 @@ brief_summary: "Clark and Brennan's eight grounding constraints — copresence, 
 tagline: "Eight constraints on mutual understanding shift predictably from embodied conversation to structured data exchange"
 ---
 
+← [Garden Patch Home](../README.html) · [Models](index.html)
+
+
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)

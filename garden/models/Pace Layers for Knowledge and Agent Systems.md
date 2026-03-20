@@ -5,6 +5,9 @@ brief_summary: "Stewart Brand's six pace layers — fashion, commerce, infrastru
 tagline: "Fast learns, slow remembers — forced synchronization across different rates of change destroys systems"
 ---
 
+← [Garden Patch Home](../README.html) · [Models](index.html)
+
+
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
@@ -58,5 +61,8 @@ Grounded in [\[\[Brand (2018) Pace Layering\]\]](../citations/Brand%20%282018%29
 - relates_to::[\[\[Living Documents Over Static Publications\]\]](../principles/Living%20Documents%20Over%20Static%20Publications.html)
   - Living documents work because garden nodes operate at pace layers where continuous revision is appropriate.
 
-- relates_to::[\[\[Systems Thinking\]\]⊙](../UPSTREAM.html#:~:text=Systems%20Thinking)
+- relates_to::[\[\[Systems Thinking\]\]↑](../UPSTREAM.html#:~:text=Systems%20Thinking)
   - Pace layering is a systems thinking pattern — the health of the whole depends on the interaction dynamics between layers, not the behavior of any single layer.
+
+- relates_to::[\[\[Collaborative Meeting as Composable Knowledge Pipeline\]\]](Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)
+  - The seven pipeline stages operate at different pace layers — transcript cleanup (minutes) to garden seeding (hours) to workstream closure (days).

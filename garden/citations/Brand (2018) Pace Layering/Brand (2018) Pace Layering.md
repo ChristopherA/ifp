@@ -7,10 +7,13 @@ brief_summary: "Brand's pace layering framework describes how complex systems ma
 tagline: "Fast learns, slow remembers — six layers of civilization and why their different speeds matter"
 ---
 
+← [Garden Patch Home](../../README.html) · [Citations](../index.html)
+
+
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../../domains/Deep%20Context%20Architecture.html)
-- cites_work_by::[\[\[Stewart Brand\]\]⊙](../../UPSTREAM.html#:~:text=Stewart%20Brand)
+- cites_work_by::[\[\[Stewart Brand\]\]↑](../../UPSTREAM.html#:~:text=Stewart%20Brand)
 
 # Brand (2018) Pace Layering
 
@@ -55,5 +58,5 @@ Pace layering provides an organizing principle for any system where components o
 - relates_to::[\[\[Living Documents Over Static Publications\]\]](../../principles/Living%20Documents%20Over%20Static%20Publications.html)
   Living documents embody pace layering at the document level — some sections change frequently (examples, references) while others change rarely (core definitions, principles). The health of a living document depends on maintaining appropriate rates of change across its parts.
 
-- relates_to::[\[\[Systems Thinking\]\]⊙](../../UPSTREAM.html#:~:text=Systems%20Thinking)
+- relates_to::[\[\[Systems Thinking\]\]↑](../../UPSTREAM.html#:~:text=Systems%20Thinking)
   Pace layering is a specific instance of hierarchical systems theory applied to temporal dynamics. It extends the general systems insight that complex wholes have emergent properties by specifying that temporal differentiation between layers is a source of resilience.

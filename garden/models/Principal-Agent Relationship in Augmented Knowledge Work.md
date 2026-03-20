@@ -6,6 +6,9 @@ tagline: "How principal authority maps to vault owner, Claude sessions, rules, a
 formatted: "2026-03-14"
 ---
 
+← [Garden Patch Home](../README.html) · [Models](index.html)
+
+
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
@@ -16,7 +19,7 @@ The vault embodies a principal-agent relationship where the BCR-2026-xxx framewo
 
 | Self-Sovereign Identity Term | Vault Implementation |
 |----------|---------------------|
-| **Principal** | Vault owner ([\[\[Christopher Allen\]\]⊙](../UPSTREAM.html#:~:text=Christopher%20Allen)) — directs all work, reviews outputs, bears responsibility |
+| **Principal** | Vault owner ([\[\[Christopher Allen\]\]↑](../UPSTREAM.html#:~:text=Christopher%20Allen)) — directs all work, reviews outputs, bears responsibility |
 | **Agent** | Claude Code sessions — generate content, execute tasks, operate within conferral |
 | **Conferral** | Rules, skills, processes — what Claude may do, how, and within what boundaries |
 | **Authorship** | Claude generates content: notes, summaries, code, form extractions |

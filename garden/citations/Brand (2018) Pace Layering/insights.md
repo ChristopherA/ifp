@@ -5,6 +5,9 @@ brief_summary: "Insights from Brand's pace layering — a model mapping six laye
 tagline: "Fast learns, slow remembers — and forced synchronization across different rates of change destroys systems"
 ---
 
+← [Garden Patch Home](../../README.html) · [Citations](../index.html)
+
+
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 

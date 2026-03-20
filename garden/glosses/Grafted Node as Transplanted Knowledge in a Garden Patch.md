@@ -5,6 +5,9 @@ brief_summary: "A grafted node is a knowledge node present in a garden patch —
 tagline: "A node transplanted into a garden patch, whether from the source garden or grown new"
 ---
 
+← [Garden Patch Home](../README.html) · [Glosses](index.html)
+
+
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)

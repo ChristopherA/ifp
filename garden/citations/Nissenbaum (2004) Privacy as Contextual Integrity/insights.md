@@ -5,6 +5,9 @@ brief_summary: "Insights from Nissenbaum's contextual integrity framework — di
 tagline: "Disclosure tiers define normative contexts, not just access levels — and aggregation is context collapse"
 ---
 
+← [Garden Patch Home](../../README.html) · [Citations](../index.html)
+
+
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 

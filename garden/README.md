@@ -57,28 +57,28 @@ Each node belongs to a **form type** that determines its structural contract —
 
 | Form Type | Core Question | Example |
 |-----------|--------------|---------|
-| [**Model**](forms/Model%20Form.html) | "How do these elements relate?" | [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html) |
-| [**Conviction**](forms/Conviction%20Form.html) | "What do we believe is true?" | [\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) |
-| [**Decision**](forms/Decision%20Form.html) | "Why did we choose this over alternatives?" | [\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html) |
-| [**Pattern**](forms/Pattern%20Form.html) | "What resolves this recurring tension?" | [\[\[Errors as Negotiation Opportunities\]\]](patterns/Errors%20as%20Negotiation%20Opportunities.html) |
-| [**Principle**](forms/Principle%20Form.html) | "What must we always or never do?" | [\[\[Auditable Intermediaries Over Silent Proxies\]\]](principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html) |
-| [**Gloss**](forms/Gloss%20Form.html) | "What does this concept mean?" | [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) |
-| [**Inquiry**](forms/Inquiry%20Form.html) | "What should we think about X?" | [\[\[Group Deliberation Mechanism\]\]](inquiries/Group%20Deliberation%20Mechanism.html) |
-| [**Boundary**](forms/Boundary%20Form.html) | "Where does authority end?" | [\[\[Delegated Decision Authority Spectrum\]\]](boundaries/Delegated%20Decision%20Authority%20Spectrum.html) |
-| [**Domain**](forms/Domain%20Form.html) | "What knowledge area is this?" | [\[\[Synpraxis\]\]](domains/Synpraxis.html) |
+| [\[\[**Model**\]\]](forms/Model%20Form.html) | "How do these elements relate?" | [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html) |
+| [\[\[**Conviction**\]\]](forms/Conviction%20Form.html) | "What do we believe is true?" | [\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) |
+| [\[\[**Decision**\]\]](forms/Decision%20Form.html) | "Why did we choose this over alternatives?" | [\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]](decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html) |
+| [\[\[**Pattern**\]\]](forms/Pattern%20Form.html) | "What resolves this recurring tension?" | [\[\[Errors as Negotiation Opportunities\]\]](patterns/Errors%20as%20Negotiation%20Opportunities.html) |
+| [\[\[**Principle**\]\]](forms/Principle%20Form.html) | "What must we always or never do?" | [\[\[Auditable Intermediaries Over Silent Proxies\]\]](principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html) |
+| [\[\[**Gloss**\]\]](forms/Gloss%20Form.html) | "What does this concept mean?" | [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) |
+| [\[\[**Inquiry**\]\]](forms/Inquiry%20Form.html) | "What should we think about X?" | [\[\[Group Deliberation Mechanism\]\]](inquiries/Group%20Deliberation%20Mechanism.html) |
+| [\[\[**Boundary**\]\]](forms/Boundary%20Form.html) | "Where does authority end?" | [\[\[Delegated Decision Authority Spectrum\]\]](boundaries/Delegated%20Decision%20Authority%20Spectrum.html) |
+| [\[\[**Domain**\]\]](forms/Domain%20Form.html) | "What knowledge area is this?" | [\[\[Synpraxis\]\]](domains/Synpraxis.html) |
 
-All [form type definitions](forms/index.html), [models](models/index.html), [glosses](glosses/index.html), [inquiries](inquiries/index.html), [patterns](patterns/index.html), [principles](principles/index.html), [convictions](convictions/index.html), [citations](citations/index.html), and [values](values/index.html) are browsable by section.
+All [\[\[form type definitions\]\]](forms/index.html), [\[\[models\]\]](models/index.html), [\[\[glosses\]\]](glosses/index.html), [\[\[inquiries\]\]](inquiries/index.html), [\[\[patterns\]\]](patterns/index.html), [\[\[principles\]\]](principles/index.html), [\[\[convictions\]\]](convictions/index.html), [\[\[citations\]\]](citations/index.html), and [\[\[values\]\]](values/index.html) are browsable by section.
 
 The source garden has additional form types not represented in this patch — either because no IFP-relevant instances exist yet, or because the form type is still maturing:
 
 | Form Type | Core Question | Why Not Included |
 |---|---|---|
-| [**Case**↑](UPSTREAM.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
-| [**Reference**↑](UPSTREAM.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
-| [**Research**↑](UPSTREAM.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
-| [**Scenario**↑](UPSTREAM.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
-| [**Skill**↑](UPSTREAM.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
-| [**Opus**](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
+| [↑\[\[**Case**\]\]](UPSTREAM.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
+| [↑\[\[**Reference**\]\]](UPSTREAM.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
+| [↑\[\[**Research**\]\]](UPSTREAM.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
+| [↑\[\[**Scenario**\]\]](UPSTREAM.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
+| [↑\[\[**Skill**\]\]](UPSTREAM.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
+| [\[\[**Opus**\]\]](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
 
 ### Predicate Links
 

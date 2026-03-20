@@ -1,3 +1,5 @@
+← [Garden Patch Home](README.html)
+
 # AGENTS.md — Garden Patch for IFP
 
 Orientation for AI agents working with this garden patch.
@@ -110,10 +112,10 @@ When adding a node to this garden patch:
 
 | What You See | Term | Meaning |
 |---|---|---|
-| Clickable link with brackets | **Grafted node** | Present in this patch — click to navigate |
-| Clickable link with brackets + ⊙ | **Upstream node** | Exists in source garden, not grafted here — click for summary |
-| Clickable link with brackets + ↗ | **Cross-garden node** | In another published garden with navigable URL |
-| Plain text with brackets | **Ghost link** | Node does not exist yet — a stake marking where one could grow |
+| \[\[Node Name\]\] | **Grafted node** | Present in this patch — click to navigate |
+| ↑\[\[Node Name\]\] | **Upstream node** | Exists in source garden, not grafted here — click for summary |
+| ↗\[\[Node Name\]\] | **Cross-garden node** | In another published garden with navigable URL |
+| \[\[Node Name\]\] | **Ghost link** | Node does not exist yet — a stake marking where one could grow |
 
 See [UPSTREAM.md](UPSTREAM.html) for the index of upstream nodes.
 

@@ -103,6 +103,6 @@ For a complete listing of every node — grafted, patch-native⊙, and upstream�
 
 **Author**: Christopher Allen
 **Context**: Ongoing dialogue with Peter Kaminski about agency, AI, and structured knowledge
-**Source garden**: [\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html) (not yet published)
+**Source garden**: [\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html) — the full garden is a work in progress and will be published at [DeepContext.com](https://deepcontext.com)
 **Status**: This entire garden patch is at [\[\[Seed Stage\]\]](forms/Seed%20Stage.html) — initial creation with low confidence, intended to grow through dialogue and use.
 **License**: [CC-BY](https://creativecommons.org/licenses/by/4.0/)

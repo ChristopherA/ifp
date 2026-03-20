@@ -32,6 +32,8 @@ Interpretive definitions that frame concepts through a broader lens.
 
 **[\[\[Relay as Accountable Store-and-Forward Intermediary\]\]⊙](Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)** — Relays forward messages between agents while leaving an auditable trace
 
+**[\[\[Structural Contract as Form Type Agreement\]\]](Structural%20Contract%20as%20Form%20Type%20Agreement.html)** — The agreement that every instance of a form type follows the same internal structure
+
 **[\[\[Upstream Node as Source Garden Reference\]\]](Upstream%20Node%20as%20Source%20Garden%20Reference.html)** — A node that exists in the source garden but was not grafted into this patch
 
 **[\[\[Vault Precinct\]\]](Vault%20Precinct.html)** — Operational knowledge capture, organization, and retrieval for daily work

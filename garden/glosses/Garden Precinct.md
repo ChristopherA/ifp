@@ -28,7 +28,7 @@ The garden solves the problem of making knowledge retrievable, composable, and t
 
 ## Living Documents
 
-Garden nodes are [\[\[Living Documents Over Static Publications|living documents\]\]↑](../UPSTREAM.html#:~:text=Living%20Documents%20Over%20Static%20Publications%7Cliving%20documents). They grow through stages, absorb new connections, and are never "published" in the way an article or book is. Git preserves their history, but the current state is what readers and agents encounter. This distinguishes the garden from publication-oriented knowledge systems where value concentrates in a specific released version. Mutability varies by form type — most nodes are designed to evolve, while cases record immutable history and convictions change only through fundamental shifts.
+Garden nodes are [\[\[Living Documents Over Static Publications|living documents\]\]↑](../NODES.html#:~:text=Living%20Documents%20Over%20Static%20Publications%7Cliving%20documents). They grow through stages, absorb new connections, and are never "published" in the way an article or book is. Git preserves their history, but the current state is what readers and agents encounter. This distinguishes the garden from publication-oriented knowledge systems where value concentrates in a specific released version. Mutability varies by form type — most nodes are designed to evolve, while cases record immutable history and convictions change only through fundamental shifts.
 
 ## Relationship to Vault Precinct
 
@@ -36,11 +36,11 @@ The garden and vault precincts share infrastructure — predicates, graph script
 
 ## Sources
 
-Term adopted from urban planning via [\[\[Precinct as Organizational Unit\]\]↑](../UPSTREAM.html#:~:text=Precinct%20as%20Organizational%20Unit).
+Term adopted from urban planning via [\[\[Precinct as Organizational Unit\]\]↑](../NODES.html#:~:text=Precinct%20as%20Organizational%20Unit).
 
 ## Relations
 
-- defined_by::[\[\[Precinct as Organizational Unit\]\]↑](../UPSTREAM.html#:~:text=Precinct%20as%20Organizational%20Unit)
+- defined_by::[\[\[Precinct as Organizational Unit\]\]↑](../NODES.html#:~:text=Precinct%20as%20Organizational%20Unit)
   - The decision that established this term.
 
 - relates_to::[\[\[Vault Precinct\]\]](Vault%20Precinct.html)
@@ -49,5 +49,5 @@ Term adopted from urban planning via [\[\[Precinct as Organizational Unit\]\]↑
 - relates_to::[\[\[Form Type\]\]](../forms/Form%20Type.html)
   - All 16 form types carry structural contracts specific to this precinct.
 
-- relates_to::[\[\[Vault Content Graduation\]\]↑](../UPSTREAM.html#:~:text=Vault%20Content%20Graduation)
+- relates_to::[\[\[Vault Content Graduation\]\]↑](../NODES.html#:~:text=Vault%20Content%20Graduation)
   - The pattern by which vault content moves into garden nodes.

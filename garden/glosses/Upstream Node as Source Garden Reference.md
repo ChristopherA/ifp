@@ -20,7 +20,7 @@ The term borrows from version control: the source garden is "upstream" — the o
 
 ## How Upstream Nodes Appear
 
-Links to upstream nodes are marked with **↑** (circled dot) and are clickable — they navigate to the [Upstream References](../UPSTREAM.html) page, which documents each upstream node's name, form type, and brief summary from the source garden. This gives readers enough context to understand the reference without needing access to the source garden.
+Links to upstream nodes are marked with **↑** and are clickable — they navigate to the upstream section of the [Node Directory](../NODES.html), which documents each upstream node's name, form type, and brief summary from the source garden. This gives readers enough context to understand the reference without needing access to the source garden.
 
 The ↑ marker distinguishes upstream nodes from ghost links (plain text, not clickable — the node does not exist yet) and from grafted nodes (clickable without a marker — the node is present in the patch).
 

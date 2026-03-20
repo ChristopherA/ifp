@@ -51,7 +51,7 @@ Start anywhere that interests you. If you want a guided path:
 |---|---|
 | [\[\[Node Name\]\]](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) | [**Grafted node**](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) — copied from the source garden into this patch. Click to navigate. |
 | [\[\[Node Name\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) | **Patch-native node** — born in this garden patch, not grafted from upstream. This patch is its garden home. |
-| [\[\[Node Name\]\]↑](UPSTREAM.html) | [**Upstream node**](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html) — exists in the source garden but was not grafted into this patch. Click for its summary on the [Upstream References](UPSTREAM.html) page. |
+| [\[\[Node Name\]\]↑](NODES.html) | [**Upstream node**](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html) — exists in the source garden but was not grafted into this patch. Click for its summary on the [Node Directory](NODES.html) page. |
 | \[\[Node Name\]\] | [**Ghost link**](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html) — a reference to a node that does not exist yet. A stake in the ground marking where a node could grow. |
 | \[\[Node Name\]\]↗ *(planned)* | A reference to a node in **somebody else's published garden** — a different gardener's version of the same or related concept. |
 | [Link text](https://example.com) | **Regular link** — a standard web link to an external website, document, or resource. No brackets. |
@@ -78,11 +78,11 @@ The source garden has additional form types not represented in this patch — ei
 
 | Form Type | Core Question | Why Not Included |
 |---|---|---|
-| [\[\[**Case**\]\]↑](UPSTREAM.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
-| [\[\[**Reference**\]\]↑](UPSTREAM.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
-| [\[\[**Research**\]\]↑](UPSTREAM.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
-| [\[\[**Scenario**\]\]↑](UPSTREAM.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
-| [\[\[**Skill**\]\]↑](UPSTREAM.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
+| [\[\[**Case**\]\]↑](NODES.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
+| [\[\[**Reference**\]\]↑](NODES.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
+| [\[\[**Research**\]\]↑](NODES.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
+| [\[\[**Scenario**\]\]↑](NODES.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
+| [\[\[**Skill**\]\]↑](NODES.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
 | [\[\[**Opus**\]\]](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
 
 ### Predicate Links
@@ -97,10 +97,12 @@ Grafted nodes in a patch are **forks** of their source garden originals. As the 
 
 This is analogous to a git fork: the patch starts as a subset of the source garden, develops in its own context, and produces changes that can flow upstream when ready.
 
+For a complete listing of every node — grafted, patch-native⊙, and upstream↑ — see the **[Node Directory](NODES.html)**.
+
 ---
 
 **Author**: Christopher Allen
 **Context**: Ongoing dialogue with Peter Kaminski about agency, AI, and structured knowledge
 **Source garden**: [\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html) (not yet published)
 **Status**: This entire garden patch is at [\[\[Seed Stage\]\]](forms/Seed%20Stage.html) — initial creation with low confidence, intended to grow through dialogue and use.
-**License**: Same as the IFP repository
+**License**: [CC-BY](https://creativecommons.org/licenses/by/4.0/)

@@ -15,7 +15,7 @@ This is not part of the IFP specifications. It is an alternative lens that revea
 Read these files to orient yourself:
 
 - **[README.md](README.html)** — What the garden patch is, how it connects to IFP, reading order
-- **[UPSTREAM.md](UPSTREAM.html)** — Index of upstream nodes (source garden nodes not grafted into this patch)
+- **[NODES.md](NODES.html)** — Complete node directory: grafted, patch-native⊙, and upstream↑ nodes
 - **[\[\[Form Type\]\]](forms/Form%20Type.html)** — What form types are and how the type system works
 - **[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Definitions: node, edge, predicate, form type
 
@@ -119,7 +119,7 @@ When adding a node to this garden patch:
 | \[\[Node Name\]\]↗ | **Cross-garden node** | In another published garden with navigable URL |
 | [Link text](url) | **Regular link** | Standard web link to an external website or resource — no brackets |
 
-See [UPSTREAM.md](UPSTREAM.html) for the index of upstream nodes.
+See [NODES.md](NODES.html) for the complete node directory.
 
 ## Key Points for Agents
 

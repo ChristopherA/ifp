@@ -13,8 +13,8 @@ tagline: "Mutual understanding is built through two-phase contributions shaped b
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../../domains/Deep%20Context%20Architecture.html)
-- cites_work_by::[\[\[Herbert H. Clark\]\]↑](../../UPSTREAM.html#:~:text=Herbert%20H.%20Clark)
-- cites_work_by::[\[\[Susan E. Brennan\]\]↑](../../UPSTREAM.html#:~:text=Susan%20E.%20Brennan)
+- cites_work_by::[\[\[Herbert H. Clark\]\]↑](../../NODES.html#:~:text=Herbert%20H.%20Clark)
+- cites_work_by::[\[\[Susan E. Brennan\]\]↑](../../NODES.html#:~:text=Susan%20E.%20Brennan)
 
 # Clark (1991) Grounding in Communication
 
@@ -57,5 +57,5 @@ The grounding framework provides the theoretical foundation for understanding wh
 - relates_to::[\[\[Errors as Negotiation Opportunities\]\]](../../patterns/Errors%20as%20Negotiation%20Opportunities.html)
   The two-phase contribution model means errors are not failures but incomplete grounding sequences. An error description is a presentation; the recipient's corrective action is the acceptance. Natural-language error descriptions support grounding; error codes do not.
 
-- relates_to::[\[\[Communication Theory\]\]↑](../../UPSTREAM.html#:~:text=Communication%20Theory)
+- relates_to::[\[\[Communication Theory\]\]↑](../../NODES.html#:~:text=Communication%20Theory)
   Clark and Brennan's model extends speech act theory into collaborative territory. Communication is joint action, not speaker action plus listener reception.

@@ -13,7 +13,7 @@ tagline: "Privacy means appropriate information flow within context-specific nor
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 - in_domain::[\[\[Self-Sovereign Identity\]\]](../../domains/Self-Sovereign%20Identity.html)
-- cites_work_by::[\[\[Helen Nissenbaum\]\]↑](../../UPSTREAM.html#:~:text=Helen%20Nissenbaum)
+- cites_work_by::[\[\[Helen Nissenbaum\]\]↑](../../NODES.html#:~:text=Helen%20Nissenbaum)
 
 # Nissenbaum (2004) Privacy as Contextual Integrity
 
@@ -59,5 +59,5 @@ Contextual integrity became the dominant philosophical framework for information
 - relates_to::[\[\[Self-Sovereign Identity\]\]](../../domains/Self-Sovereign%20Identity.html)
   Contextual integrity provides the philosophical foundation for why identity systems must support selective disclosure — each context has its own norms governing appropriate information flow.
 
-- relates_to::[\[\[Progressive Trust\]\]↑](../../UPSTREAM.html#:~:text=Progressive%20Trust)
+- relates_to::[\[\[Progressive Trust\]\]↑](../../NODES.html#:~:text=Progressive%20Trust)
   Progressive trust builds disclosure tiers that map to social contexts. Contextual integrity explains why those tiers matter: crossing them without norm compliance is a privacy violation regardless of whether the information was "secret."

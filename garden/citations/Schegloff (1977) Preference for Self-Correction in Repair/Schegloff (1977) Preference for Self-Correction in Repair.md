@@ -13,9 +13,9 @@ tagline: "Conversation organizes repair to give the speaker first opportunity at
 - is_a::[\[\[Citation Form\]\]](../../forms/Citation%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../../domains/Deep%20Context%20Architecture.html)
-- cites_work_by::[\[\[Emanuel A. Schegloff\]\]↑](../../UPSTREAM.html#:~:text=Emanuel%20A.%20Schegloff)
-- cites_work_by::[\[\[Gail Jefferson\]\]↑](../../UPSTREAM.html#:~:text=Gail%20Jefferson)
-- cites_work_by::[\[\[Harvey Sacks\]\]↑](../../UPSTREAM.html#:~:text=Harvey%20Sacks)
+- cites_work_by::[\[\[Emanuel A. Schegloff\]\]↑](../../NODES.html#:~:text=Emanuel%20A.%20Schegloff)
+- cites_work_by::[\[\[Gail Jefferson\]\]↑](../../NODES.html#:~:text=Gail%20Jefferson)
+- cites_work_by::[\[\[Harvey Sacks\]\]↑](../../NODES.html#:~:text=Harvey%20Sacks)
 
 # Schegloff (1977) Preference for Self-Correction in Repair
 

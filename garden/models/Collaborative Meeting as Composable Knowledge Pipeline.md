@@ -129,10 +129,10 @@ The pipeline is a funnel at each stage and a cycle overall — garden outputs be
 - relates_to::[Neobooks as Composable Knowledge Objects](../glosses/Neobooks%20as%20Composable%20Knowledge%20Objects.html)
   - The compound meeting document is a vault-precinct parallel to garden-precinct patches — portable, self-contained, shareable.
 
-- relates_to::↑ [Structured Disagreement Through Persona Review](../UPSTREAM.html#structured-disagreement-through-persona-review)
+- relates_to::↑ [Structured Disagreement Through Persona Review](../NODES.html#structured-disagreement-through-persona-review)
   - Future meetings could use persona review on meeting notes before garden integration — multiple perspectives on which observations deserve garden nodes.
 
-- extends::↑ [Research as Workflow Not Precinct](../UPSTREAM.html#research-as-workflow-not-precinct)
+- extends::↑ [Research as Workflow Not Precinct](../NODES.html#research-as-workflow-not-precinct)
   - Meetings are another pipeline input type alongside web research. Same filtering principle (source → clip → cite → form), different source.
 
 - in_domain::[Deep Context Architecture](../domains/Deep%20Context%20Architecture.html)

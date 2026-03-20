@@ -61,7 +61,7 @@ Grounded in [\[\[Brand (2018) Pace Layering\]\]](../citations/Brand%20%282018%29
 - relates_to::[\[\[Living Documents Over Static Publications\]\]](../principles/Living%20Documents%20Over%20Static%20Publications.html)
   - Living documents work because garden nodes operate at pace layers where continuous revision is appropriate.
 
-- relates_to::[\[\[Systems Thinking\]\]↑](../UPSTREAM.html#:~:text=Systems%20Thinking)
+- relates_to::[\[\[Systems Thinking\]\]↑](../NODES.html#:~:text=Systems%20Thinking)
   - Pace layering is a systems thinking pattern — the health of the whole depends on the interaction dynamics between layers, not the behavior of any single layer.
 
 - relates_to::[\[\[Collaborative Meeting as Composable Knowledge Pipeline\]\]](Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)

@@ -39,10 +39,10 @@ Growing is the active tending stage. A node here is being shaped through use: ne
 
 ## Sources
 
-Growth stage definitions from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Growth Stages as Lifecycle Metadata" section. Originally `status/growing` tag; migrated to `has_status::[\[\[Growing Stage\]\]](Growing%20Stage.html)` predicate per [\[\[Classification via Predicates Not Tags\]\]↑](../UPSTREAM.html#:~:text=Classification%20via%20Predicates%20Not%20Tags).
+Growth stage definitions from [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](../decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html), "Growth Stages as Lifecycle Metadata" section. Originally `status/growing` tag; migrated to `has_status::[\[\[Growing Stage\]\]](Growing%20Stage.html)` predicate per [\[\[Classification via Predicates Not Tags\]\]↑](../NODES.html#:~:text=Classification%20via%20Predicates%20Not%20Tags).
 
 ## Relations
 
 - relates_to::[\[\[Seed Stage\]\]](Seed%20Stage.html) — the previous stage in the growth progression
 - relates_to::[\[\[Evergreen Stage\]\]](Evergreen%20Stage.html) — the next stage in the growth progression
-- relates_to::[\[\[Structural Retrieval Hierarchy\]\]↑](../UPSTREAM.html#:~:text=Structural%20Retrieval%20Hierarchy) — growing nodes rank in the first retrieval tier alongside evergreen
+- relates_to::[\[\[Structural Retrieval Hierarchy\]\]↑](../NODES.html#:~:text=Structural%20Retrieval%20Hierarchy) — growing nodes rank in the first retrieval tier alongside evergreen

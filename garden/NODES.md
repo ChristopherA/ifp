@@ -1,14 +1,100 @@
 ← [Garden Patch Home](README.html)
 
-# Upstream References
+# Node Directory
 
-**Upstream nodes** are nodes that exist in the source garden but were not grafted into this garden patch. Each entry below shows the node name, form type, and brief summary from the source garden.
+Complete listing of every node referenced in this garden patch — whether it lives here, in the source garden, or nowhere yet.
 
-When you see a link marked with **↑** in a garden node, it points here. The ↑ means the node is upstream — it exists in the source garden but is not present in this patch. Click to read a summary of what it covers.
+| Marker | Meaning |
+|---|---|
+| *(none)* | **Grafted** — copied from the source garden into this patch |
+| ⊙ | **Patch-native** — born in this patch; this is its garden home |
+| ↑ | **Upstream** — exists in the source garden but not grafted here |
 
-**136 upstream nodes documented.** 42 references could not be located (may be ghost links or informal references).
+**72 grafted nodes** · **27 patch-native⊙ nodes** · **136 upstream↑ nodes documented** · 42 unlocated references (ghost links or informal references)
 
-## Deep Context Architecture
+---
+
+## Patch-Native Nodes⊙
+
+These nodes were created specifically for this garden patch. This patch is their garden home.
+
+### Glosses⊙
+
+**[\[\[Agent as Human Proxy in Protocol Exchange\]\]⊙](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html)** — An agent acts on behalf of a person, never in place of one
+
+**[\[\[Capability as Advertised Agent Function\]\]⊙](glosses/Capability%20as%20Advertised%20Agent%20Function.html)** — Capabilities are what an agent can do, conditional on the trust context
+
+**[\[\[Disclosure Tier as Information Sharing Boundary\]\]⊙](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html)** — Six levels of information sharing from anonymous to intimate
+
+**[\[\[Gossip as Social Sensing Filter\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html)** — Gossip reframed as a social sensing mechanism
+
+**[\[\[Persona as Emergent Context Cluster\]\]⊙](glosses/Persona%20as%20Emergent%20Context%20Cluster.html)** — Personas emerge from patterns of interaction, not enumeration
+
+**[\[\[Recommendation as Surfaced Opportunity\]\]⊙](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)** — Recommendations surface opportunities without compelling action
+
+**[\[\[Relay as Accountable Store-and-Forward Intermediary\]\]⊙](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)** — Relays are accountable intermediaries, not invisible infrastructure
+
+### Models⊙
+
+**[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]⊙](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)** — How conversation intensity levels shape protocol behavior
+
+**[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]⊙](models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)** — How disclosure tiers, personas, and peer relationships govern information sharing
+
+**[\[\[Progressive Authentication as Trust Deepening\]\]⊙](models/Progressive%20Authentication%20as%20Trust%20Deepening.html)** — How authentication levels track the deepening of trust between agents
+
+**[\[\[Social Conversation Phases as Protocol Semantics\]\]⊙](models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)** — How trust-building conversation progresses through structured phases
+
+### Inquiries⊙
+
+**[\[\[Convergence and Divergence Across Agent Application Platforms\]\]⊙](inquiries/Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)** — Where agent platforms converge and where they diverge
+
+**[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]⊙](inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)** — Are disclosure levels discrete tiers or a continuous range?
+
+**[\[\[Granularity of Progressive Authentication Stages\]\]⊙](inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html)** — Are four authentication levels the right granularity?
+
+**[\[\[Living Knowledge vs Static Archive in Agent Library Design\]\]⊙](inquiries/Living%20Knowledge%20vs%20Static%20Archive%20in%20Agent%20Library%20Design.html)** — Should agent libraries be living or static?
+
+**[\[\[Organizing Principle for Agent Application Domains\]\]⊙](inquiries/Organizing%20Principle%20for%20Agent%20Application%20Domains.html)** — What principle organizes agent application domains?
+
+**[\[\[Social Phase Decomposition in Trust-Building Protocols\]\]⊙](inquiries/Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html)** — How to decompose social phases in trust-building protocols
+
+**[\[\[Structured Schema vs Natural Language for Agent Message Content\]\]⊙](inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)** — Schema or natural language for message bodies?
+
+**[\[\[When to Specify and When to Explore in Protocol Evolution\]\]⊙](inquiries/When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)** — When to nail down protocol details vs leave room for discovery
+
+### Patterns⊙
+
+**[\[\[Dual Representation for Human and Machine Readability\]\]⊙](patterns/Dual%20Representation%20for%20Human%20and%20Machine%20Readability.html)** — Supporting both human and machine readers in the same artifact
+
+**[\[\[Errors as Negotiation Opportunities\]\]⊙](patterns/Errors%20as%20Negotiation%20Opportunities.html)** — Errors as starting points for negotiation, not terminal failures
+
+### Convictions⊙
+
+**[\[\[Filtering Is More Valuable Than Connecting\]\]⊙](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)** — In information-rich environments, filtering matters more than connecting
+
+**[\[\[Personas Emerge from Observation Not Enumeration\]\]⊙](convictions/Personas%20Emerge%20from%20Observation%20Not%20Enumeration.html)** — Personas emerge from interaction patterns, not predefined categories
+
+### Decisions⊙
+
+**[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]⊙](decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)** — Why agent-age protocols need clarity over tolerance
+
+### Principles⊙
+
+**[\[\[Auditable Intermediaries Over Silent Proxies\]\]⊙](principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)** — Intermediaries must be auditable, not invisible
+
+### Citations⊙
+
+**[\[\[Allen (2023) Minimum Viable Architecture\]\]⊙](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html)** — Compound citation with analysis and insights
+
+**[\[\[Allen (2024) Progressive Trust\]\]⊙](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)** — Compound citation with analysis and insights
+
+---
+
+## Upstream Nodes↑
+
+These nodes exist in the source garden but were not grafted into this patch. When you see **↑** after a wikilink, it points to the entry below.
+
+### Deep Context Architecture
 
 ### Model Form
 

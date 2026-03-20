@@ -113,6 +113,6 @@ Grafted nodes in a patch are **forks** of their source garden originals. As the 
 
 This garden patch was hand-assembled with the help of scripts that convert Obsidian wikilinks to GitHub Pages-compatible markdown. The output is close to what we want as an exemplar, but the process is not yet automated.
 
-The goal is a tool — similar in spirit to [MassiveWiki](https://massivewiki.org) — where a gardener can point to a root node in their Obsidian vault, select which nodes to include, and generate a self-contained static website like this one. Changes made through GitHub's interface would auto-deploy, and the gardener could selectively merge edits back into their personal garden. Attribution and provenance would follow [Open Integrity](https://github.com/OpenIntegrityProject) conventions — signed commits, verifiable authorship, transparent history.
+The goal is a Claude Code skill — similar in spirit to [MassiveWiki](https://massivewiki.org) — where a gardener identifies a root node and the skill traverses the graph to determine which nodes to include, then generates a self-contained static website like this one. Changes made through GitHub's interface would auto-deploy, and the gardener could selectively merge edits back into their personal garden. Attribution and provenance would follow [Open Integrity](https://github.com/OpenIntegrityProject) conventions — signed commits, verifiable authorship, transparent history.
 
 That tool does not exist yet. This patch is a proof of concept for what it would produce.

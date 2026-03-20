@@ -84,6 +84,203 @@ These nodes were created specifically for this garden patch. This patch is their
 
 ---
 
+## Grafted Nodes
+
+These nodes were copied from the source garden into this patch.
+
+### Forms
+
+**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Where does this system's authority end? — the structural contract for boundary forms
+
+**[\[\[Citation Form\]\]](forms/Citation%20Form.html)** — What do I need to know about this source? — the structural contract for citation forms
+
+**[\[\[Conviction Form\]\]](forms/Conviction%20Form.html)** — What do we believe is true about the world? — the structural contract for conviction forms
+
+**[\[\[Decision Form\]\]](forms/Decision%20Form.html)** — Why did we choose this over the alternatives? — the structural contract for decision forms
+
+**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — What knowledge area does this cluster of forms belong to? — the structural contract for domain forms
+
+**[\[\[Evergreen Stage\]\]](forms/Evergreen%20Stage.html)** — Mature, well-linked, trustworthy — the highest confidence stage for retrieval
+
+**[\[\[Form Type\]\]](forms/Form%20Type.html)** — The structural contract that defines what shape a knowledge object takes
+
+**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — What does this specific source or concept mean? — the structural contract for gloss forms
+
+**[\[\[Growing Stage\]\]](forms/Growing%20Stage.html)** — Structured and linked but still developing — the active tending stage
+
+**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — What should we think about X, and how would we find out? — the structural contract for inquiry forms
+
+**[\[\[Model Form\]\]](forms/Model%20Form.html)** — How do these elements relate to each other? — the structural contract for model forms
+
+**[\[\[Opus Form\]\]](forms/Opus%20Form.html)** — What am I saying here, and how does it connect? -- the structural contract for authored works
+
+**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — What resolves this recurring tension? — the structural contract for pattern forms
+
+**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — What must we always or never do? — the structural contract for principle forms
+
+**[\[\[Protocol Form\]\]](forms/Protocol%20Form.html)** — How do independent parties coordinate reliably? — the structural contract for protocol forms
+
+**[\[\[Seed Stage\]\]](forms/Seed%20Stage.html)** — Raw capture, unprocessed, low confidence — where every garden node begins
+
+**[\[\[Value Form\]\]](forms/Value%20Form.html)** — What do we care about? — the structural contract for value forms
+
+
+### Domains
+
+**[\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html)** — The architecture that defines both precincts — typed nodes, predicates, and progressive disclosure
+
+**[\[\[Self-Sovereign Identity\]\]](domains/Self-Sovereign%20Identity.html)** — Identity owned by the individual — the first non-Deep Context Architecture domain in the garden
+
+**[\[\[Synpraxis\]\]](domains/Synpraxis.html)** — How independent agents achieve outcomes together — and how it breaks down
+
+
+### Models
+
+**[\[\[Authority Conferral Chain\]\]](models/Authority%20Conferral%20Chain.html)** — Seven predicates encoding authority chains from principal through agent with scope and constraints
+
+**[\[\[Choice Architecture and Exit Rights\]\]](models/Choice%20Architecture%20and%20Exit%20Rights.html)** — How voluntary digital choices accumulate into coercive dependencies with prohibitive exit costs
+
+**[\[\[Coercion Resistance as Meta-Lens\]\]](models/Coercion%20Resistance%20as%20Meta-Lens.html)** — Four dimensions of coercion in identity systems and the visibility-to-coercion escalation chain
+
+**[\[\[Collaborative Meeting as Composable Knowledge Pipeline\]\]](models/Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)** — Seven composable stages from meeting to garden — each stage filters, each output feeds the next
+
+**[\[\[Conversational Repair Organization\]\]](models/Conversational%20Repair%20Organization.html)** — Four repair types from conversation analysis map directly to agent error-correction protocol design
+
+**[\[\[Cross-Domain Document Lifecycle Parallels\]\]](models/Cross-Domain%20Document%20Lifecycle%20Parallels.html)** — Wiki, garden, and agent context — same lifecycle problems, different constraints
+
+**[\[\[Document Lifecycle Governance Heuristics\]\]](models/Document%20Lifecycle%20Governance%20Heuristics.html)** — Wiki split/merge/delete heuristics applied to garden tending and agent context maintenance
+
+**[\[\[Grounding Constraints Across Communication Media\]\]](models/Grounding%20Constraints%20Across%20Communication%20Media.html)** — Eight constraints on mutual understanding shift predictably from embodied conversation to structured data exchange
+
+**[\[\[Pace Layers for Knowledge and Agent Systems\]\]](models/Pace%20Layers%20for%20Knowledge%20and%20Agent%20Systems.html)** — Fast learns, slow remembers — forced synchronization across different rates of change destroys systems
+
+**[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)** — How principal authority maps to vault owner, Claude sessions, rules, and approval gates
+
+**[\[\[Status Lifecycle Tracks\]\]](models/Status%20Lifecycle%20Tracks.html)** — Three status tracks for three kinds of knowledge work — maturity, curation, and processing
+
+**[\[\[Vocabulary Lifecycle Through Tending\]\]](models/Vocabulary%20Lifecycle%20Through%20Tending.html)** — Growing vocabularies degrade without tending — weed, seed, and fertilize to maintain retrieval
+
+
+### Glosses
+
+**[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Graph vocabulary — seven structural terms, four classification predicates, and the full semantic predicate catalog
+
+**[\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html)** — A portable garden fork that reveals connections in external content through typed knowledge forms
+
+**[\[\[Garden Precinct\]\]](glosses/Garden%20Precinct.html)** — Curated knowledge nodes with structural contracts and growth stages
+
+**[\[\[Ghost Link as Unplanted Garden Stake\]\]](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html)** — A reference to a node that does not exist yet — a stake marking where one could grow
+
+**[\[\[Grafted Node as Transplanted Knowledge in a Garden Patch\]\]](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node copied from the source garden into a garden patch, where it grows in new context
+
+**[\[\[Neobooks as Composable Knowledge Objects\]\]](glosses/Neobooks%20as%20Composable%20Knowledge%20Objects.html)** — Books replaced by composable knowledge objects — assembled and reassembled for different purposes
+
+**[\[\[Patch-Native Node as Original Knowledge in a Garden Patch\]\]](glosses/Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node born in a garden patch — this patch is its garden home
+
+**[\[\[Principal Authority as Agency Law for Digital Identity\]\]](glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)** — Agency law applied to digital identity — five duties, five definitions, revocability as litmus test
+
+**[\[\[Upstream Node as Source Garden Reference\]\]](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html)** — A node that exists in the source garden but was not grafted into this patch
+
+**[\[\[Vault Precinct\]\]](glosses/Vault%20Precinct.html)** — Operational knowledge capture, organization, and retrieval for daily work
+
+
+### Patterns
+
+**[\[\[Knowledge Compounds Through Typed Edges Not Filing\]\]](patterns/Knowledge%20Compounds%20Through%20Typed%20Edges%20Not%20Filing.html)** — Typed edges create compounding knowledge — filing creates accumulation that feels like progress
+
+**[\[\[Precinct Boundaries Govern Sharing Not Quality\]\]](patterns/Precinct%20Boundaries%20Govern%20Sharing%20Not%20Quality.html)** — Garden nodes share freely because they strip context; vault notes stay protected because they carry it
+
+**[\[\[Technology Paternalism Masks Coercion\]\]](patterns/Technology%20Paternalism%20Masks%20Coercion.html)** — When benevolent intent in system design masks systematic coercion across four layers
+
+**[\[\[Three-Part Enforcement Stack\]\]](patterns/Three-Part%20Enforcement%20Stack.html)** — Legal duties plus technical enforcement plus exit rights — remove any layer and accountability collapses
+
+
+### Principles
+
+**[\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html)** — Identity is delegable, not alienable — authority originates with the person
+
+**[\[\[Content Over Container\]\]](principles/Content%20Over%20Container.html)** — The knowledge vault needs searchable content, not file formats — renditions replace binaries when canonical sources exist
+
+**[\[\[Human Authority Over Augmentation Systems\]\]](principles/Human%20Authority%20Over%20Augmentation%20Systems.html)** — The vault augments human capability — the human retains authority at every level
+
+**[\[\[Living Documents Over Static Publications\]\]](principles/Living%20Documents%20Over%20Static%20Publications.html)** — Garden nodes grow and evolve through tending — the current state matters, not the published version
+
+**[\[\[Progressive Disclosure Over Eager Loading\]\]](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)** — Start with the question, follow edges on demand, stop when context suffices
+
+**[\[\[Systems Should Listen More Than They Speak\]\]](principles/Systems%20Should%20Listen%20More%20Than%20They%20Speak.html)** — Well-designed subsystems compress information at every stage — measure attention saved, not data delivered
+
+**[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)** — Plain markdown, git, and shell one-liners — specialized tools add value but are never prerequisites
+
+
+### Convictions
+
+**[\[\[Authentic Collaboration Requires Agency\]\]](convictions/Authentic%20Collaboration%20Requires%20Agency.html)** — Without agency, collaboration is compliance — and the world's important problems demand real collaboration
+
+**[\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)** — The scarce resource is human attention, not human connection
+
+**[\[\[Values Precede Technical Decisions\]\]](convictions/Values%20Precede%20Technical%20Decisions.html)** — Ground technical decisions in human values — when values and convenience conflict, values win
+
+
+### Decisions
+
+**[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)** — Capture reasoning as typed forms with predicates — not fine-tuning, RAG, databases, or tags
+
+
+### Boundaries
+
+**[\[\[Delegated Decision Authority Spectrum\]\]](boundaries/Delegated%20Decision%20Authority%20Spectrum.html)** — Four authority zones that determine who may decide what within a garden
+
+
+### Inquiries
+
+**[\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html)** — Same prefix, different roots — opus (the product) vs labor (the sweat) — and the distinction persists everywhere
+
+**[\[\[Domains and Pattern Languages as Organizational Concepts\]\]](inquiries/Domains%20and%20Pattern%20Languages%20as%20Organizational%20Concepts.html)** — Pattern languages organize patterns by scale within a domain — are they a view, a subset, or something distinct?
+
+**[\[\[Gossip Duality Between Human Silence and Agent Noise\]\]](inquiries/Gossip%20Duality%20Between%20Human%20Silence%20and%20Agent%20Noise.html)** — Gossip filtering produces silence for humans and noise for agents — same mechanism, opposing metrics
+
+**[\[\[Group Deliberation Mechanism\]\]](inquiries/Group%20Deliberation%20Mechanism.html)** — When an agent hits a group-deliberative boundary, what happens next — practically?
+
+**[\[\[Living Document Scale Limits\]\]](inquiries/Living%20Document%20Scale%20Limits.html)** — Is there a 'Dunbar number' for living documents — a point where maintenance cost exceeds value?
+
+**[\[\[Trust Layer Activation Criteria\]\]](inquiries/Trust%20Layer%20Activation%20Criteria.html)** — When does a garden need signing, elision, and verified exchange — what triggers the trust layer?
+
+
+### Values
+
+**[\[\[Knowledge Durability\]\]](values/Knowledge%20Durability.html)** — Knowledge should outlast the tools used to capture it — plain text, open formats, zero dependencies
+
+**[\[\[Reasoning Fidelity\]\]](values/Reasoning%20Fidelity.html)** — Capture how someone reasons, not just what they know — so agents can decide as their owner would
+
+
+### Protocols
+
+**[\[\[Inter-Face Protocol\]\]](protocols/Inter-Face%20Protocol.html)** — Peer-to-peer agent communication that filters for conversations worth having
+
+
+### Citations
+
+**[\[\[Allen (2023) Minimum Viable Architecture\]\]](citations/Allen%20%282023%29%20Minimum%20Viable%20Architecture/Allen%20%282023%29%20Minimum%20Viable%20Architecture.html)** — Make the hard-to-reverse decisions early, defer everything else
+
+**[\[\[Allen (2024) Progressive Trust\]\]](citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html)** — Trust deepens through verifiable stages, not binary trusted/untrusted switches
+
+**[\[\[Brand (2018) Pace Layering\]\]](citations/Brand%20%282018%29%20Pace%20Layering/Brand%20%282018%29%20Pace%20Layering.html)** — Fast learns, slow remembers — six layers of civilization and why their different speeds matter
+
+**[\[\[Clark (1991) Grounding in Communication\]\]](citations/Clark%20%281991%29%20Grounding%20in%20Communication/Clark%20%281991%29%20Grounding%20in%20Communication.html)** — Mutual understanding is built through two-phase contributions shaped by medium-specific grounding constraints
+
+**[\[\[Ehmke (2023) Dimensions of Digital Coercion\]\]](citations/Ehmke%20%282023%29%20Dimensions%20of%20Digital%20Coercion/Ehmke%20%282023%29%20Dimensions%20of%20Digital%20Coercion.html)** — Four dimensions of digital coercion that persist across commercial and open-source platforms alike
+
+**[\[\[Kolpondinos (2026) Technology Paternalism\]\]](citations/Kolpondinos%20%282026%29%20Technology%20Paternalism/Kolpondinos%20%282026%29%20Technology%20Paternalism.html)** — Four forms of technology paternalism and four countermeasures to restore user agency
+
+**[\[\[Nissenbaum (2004) Privacy as Contextual Integrity\]\]](citations/Nissenbaum%20%282004%29%20Privacy%20as%20Contextual%20Integrity/Nissenbaum%20%282004%29%20Privacy%20as%20Contextual%20Integrity.html)** — Privacy means appropriate information flow within context-specific norms, not secrecy or control
+
+**[\[\[Schegloff (1977) Preference for Self-Correction in Repair\]\]](citations/Schegloff%20%281977%29%20Preference%20for%20Self-Correction%20in%20Repair/Schegloff%20%281977%29%20Preference%20for%20Self-Correction%20in%20Repair.html)** — Conversation organizes repair to give the speaker first opportunity at self-correction
+
+**[\[\[Simon (1971) Designing Organizations for an Information-Rich World\]\]](citations/Simon%20%281971%29%20Designing%20Organizations%20for%20an%20Information-Rich%20World/Simon%20%281971%29%20Designing%20Organizations%20for%20an%20Information-Rich%20World.html)** — A wealth of information creates a poverty of attention — design for filtering, not volume
+
+
+---
+
 ## Upstream Nodes↑
 
 These nodes exist in the source garden but were not grafted into this patch. When you see **↑** after a wikilink, it points to the entry below.

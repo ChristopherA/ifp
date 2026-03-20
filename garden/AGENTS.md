@@ -6,7 +6,7 @@ Orientation for AI agents working with this garden patch.
 
 ## What This Is
 
-A **garden patch** — a portable, self-contained subset of Christopher Allen's Deep Context Architecture garden, applied alongside the Inter-Face Protocol specifications. See [Garden Patch as Composable Knowledge Fragment](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html) for the concept.
+A **garden patch** — a portable, self-contained subset of Christopher Allen's Deep Context Architecture garden, applied alongside the Inter-Face Protocol specifications. See [\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html) for the concept.
 
 This is not part of the IFP specifications. It is an alternative lens that reveals connections between IFP's design decisions and broader patterns in identity, trust, collaboration, and protocol design.
 
@@ -16,8 +16,8 @@ Read these files to orient yourself:
 
 - **[README.md](README.html)** — What the garden patch is, how it connects to IFP, reading order
 - **[UPSTREAM.md](UPSTREAM.html)** — Index of upstream nodes (source garden nodes not grafted into this patch)
-- **[forms/Form Type.md](forms/Form%20Type.html)** — What form types are and how the type system works
-- **[glosses/Deep Context Graph Vocabulary.md](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Definitions: node, edge, predicate, form type
+- **[\[\[Form Type\]\]](forms/Form%20Type.html)** — What form types are and how the type system works
+- **[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Definitions: node, edge, predicate, form type
 
 ## How to Read a Garden Node
 
@@ -57,17 +57,17 @@ tagline: "10-20 word tagline, often phrased as the core question"
 
 | Form Type | Core Question | Node Count |
 |-----------|--------------|------------|
-| [Model](forms/Model%20Form.html) | "How do these elements relate?" | 8 |
-| [Gloss](forms/Gloss%20Form.html) | "What does this concept mean?" | 10 |
-| [Inquiry](forms/Inquiry%20Form.html) | "What should we think about X?" | 9 |
-| [Pattern](forms/Pattern%20Form.html) | "What resolves this tension?" | 5 |
-| [Principle](forms/Principle%20Form.html) | "What must we always/never do?" | 7 |
-| [Conviction](forms/Conviction%20Form.html) | "What do we believe is true?" | 4 |
-| [Decision](forms/Decision%20Form.html) | "Why did we choose this?" | 1 |
-| [Boundary](forms/Boundary%20Form.html) | "Where does authority end?" | 1 |
-| [Citation](forms/Citation%20Form.html) | "What do I need to know about this source?" | 4 (2 compound) |
-| [Domain](forms/Domain%20Form.html) | "What knowledge area is this?" | 3 |
-| [Value](forms/Value%20Form.html) | "What do we care about?" | 2 |
+| [\[\[Model\]\]](forms/Model%20Form.html) | "How do these elements relate?" | 8 |
+| [\[\[Gloss\]\]](forms/Gloss%20Form.html) | "What does this concept mean?" | 10 |
+| [\[\[Inquiry\]\]](forms/Inquiry%20Form.html) | "What should we think about X?" | 9 |
+| [\[\[Pattern\]\]](forms/Pattern%20Form.html) | "What resolves this tension?" | 5 |
+| [\[\[Principle\]\]](forms/Principle%20Form.html) | "What must we always/never do?" | 7 |
+| [\[\[Conviction\]\]](forms/Conviction%20Form.html) | "What do we believe is true?" | 4 |
+| [\[\[Decision\]\]](forms/Decision%20Form.html) | "Why did we choose this?" | 1 |
+| [\[\[Boundary\]\]](forms/Boundary%20Form.html) | "Where does authority end?" | 1 |
+| [\[\[Citation\]\]](forms/Citation%20Form.html) | "What do I need to know about this source?" | 4 (2 compound) |
+| [\[\[Domain\]\]](forms/Domain%20Form.html) | "What knowledge area is this?" | 3 |
+| [\[\[Value\]\]](forms/Value%20Form.html) | "What do we care about?" | 2 |
 
 ## How to Create New Nodes
 

@@ -20,67 +20,65 @@ These nodes were created specifically for this garden patch. This patch is their
 
 ### Glosses⊙
 
-**[\[\[Agent as Human Proxy in Protocol Exchange\]\]⊙](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html)** — An agent acts on behalf of a person, never in place of one
+**[\[\[Agent as Human Proxy in Protocol Exchange\]\]⊙](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html)** — In Inter-Face Protocol, an agent is autonomous software that acts on behalf of a human operator — not as an independent actor, but as a proxy whose authority derives from and returns to the person. The agent's autonomy is bounded: it may filter, exchange, and probe, but the human decides whether to act on what the agent surfaces.
 
-**[\[\[Capability as Advertised Agent Function\]\]⊙](glosses/Capability%20as%20Advertised%20Agent%20Function.html)** — Capabilities are what an agent can do, conditional on the trust context
+**[\[\[Capability as Advertised Agent Function\]\]⊙](glosses/Capability%20as%20Advertised%20Agent%20Function.html)** — In Inter-Face Protocol, a capability is a function an agent advertises it can perform — discovered through endpoint queries or greeting-phase exchange. Capabilities are conditional: what an agent can do depends on the disclosure tier, authentication level, and conversation temperature of the current exchange.
 
-**[\[\[Disclosure Tier as Information Sharing Boundary\]\]⊙](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html)** — Six levels of information sharing from anonymous to intimate
+**[\[\[Disclosure Tier as Information Sharing Boundary\]\]⊙](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html)** — A disclosure tier defines what information an agent may share with a specific peer in a specific persona context. IFP defines six tiers from public to close, each representing a boundary the agent respects when exchanging context. Tiers are self-declared, mutual but not necessarily symmetric, and deepen over time as trust builds.
 
-**[\[\[Gossip as Social Sensing Filter\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html)** — Gossip reframed as a social sensing mechanism
+**[\[\[Gossip as Social Sensing Filter\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html)** — In Inter-Face Protocol, 'gossip' is not chatter — it is a filtering mechanism. Agents exchange context pairwise to detect overlaps worth human attention. The value is in what gossip does not surface. Most exchanges produce silence; recommendations emerge only when the overlap is actionable, timely, and specific.
 
-**[\[\[Persona as Emergent Context Cluster\]\]⊙](glosses/Persona%20as%20Emergent%20Context%20Cluster.html)** — Personas emerge from patterns of interaction, not enumeration
+**[\[\[Persona as Emergent Context Cluster\]\]⊙](glosses/Persona%20as%20Emergent%20Context%20Cluster.html)** — In Inter-Face Protocol, a persona is a coherent subset of a person's full context — not a mask or role, but a genuine reflection of how interests naturally cluster around communities, projects, and relationships. Personas emerge from agent observation of communication patterns rather than requiring explicit enumeration by the human.
 
-**[\[\[Recommendation as Surfaced Opportunity\]\]⊙](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)** — Recommendations surface opportunities without compelling action
+**[\[\[Recommendation as Surfaced Opportunity\]\]⊙](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)** — In Inter-Face Protocol, a recommendation is what survives the gossip filter — a suggestion that two humans should talk, surfaced by agents only when an overlap is actionable, timely, and specific. Recommendations are the protocol's primary output to humans, and their quality measures the system's value.
 
-**[\[\[Relay as Accountable Store-and-Forward Intermediary\]\]⊙](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)** — Relays are accountable intermediaries, not invisible infrastructure
+**[\[\[Relay as Accountable Store-and-Forward Intermediary\]\]⊙](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html)** — In Inter-Face Protocol, a relay is a store-and-forward service that accepts, stores, and delivers messages between agents that cannot reach each other directly. Unlike opaque intermediaries, IFP relays must append trace entries to every message — making their involvement visible and auditable by humans.
 
 ### Models⊙
 
-**[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]⊙](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)** — How conversation intensity levels shape protocol behavior
+**[\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]⊙](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html)** — Temperature in Inter-Face Protocol describes conversation intensity as a spectrum — cool (weekly background gossip), warm (daily to hourly active interest), and hot (near-synchronous collaboration). Same protocols, same message formats, different cadences. Temperature shapes rate limiting, capability availability, and escalation thresholds.
 
-**[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]⊙](models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)** — How disclosure tiers, personas, and peer relationships govern information sharing
+**[\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]⊙](models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html)** — Inter-Face Protocol organizes information sharing through a six-tier hierarchy from public to close, applied per persona-peer pair. Each tier defines a boundary the agent respects. Tiers are self-declared, mutual but not symmetric, and deepen over time. The model maps how disclosure, persona, and peer identity intersect.
 
-**[\[\[Progressive Authentication as Trust Deepening\]\]⊙](models/Progressive%20Authentication%20as%20Trust%20Deepening.html)** — How authentication levels track the deepening of trust between agents
+**[\[\[Progressive Authentication as Trust Deepening\]\]⊙](models/Progressive%20Authentication%20as%20Trust%20Deepening.html)** — Inter-Face Protocol defines four authentication levels that deepen alongside trust rather than demanding maximum-strength verification upfront. Level 0 uses a shared introduction token; Level 1 adds public-key signatures; Level 2 verifies keys through identity documents; Level 3 binds identity to a DID or external verification. No downgrading within an exchange.
 
-**[\[\[Social Conversation Phases as Protocol Semantics\]\]⊙](models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)** — How trust-building conversation progresses through structured phases
+**[\[\[Social Conversation Phases as Protocol Semantics\]\]⊙](models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)** — Inter-Face Protocol defines six conversation phases — greeting, context, probe, recommend, close, error — that are social in nature, not mechanical. Phases are advisory, revisitable, and named in the message envelope. They model how trust-building conversations naturally progress rather than imposing request-response mechanics.
 
 ### Inquiries⊙
 
-**[\[\[Convergence and Divergence Across Agent Application Platforms\]\]⊙](inquiries/Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)** — Where agent platforms converge and where they diverge
+**[\[\[Convergence and Divergence Across Agent Application Platforms\]\]⊙](inquiries/Convergence%20and%20Divergence%20Across%20Agent%20Application%20Platforms.html)** — IFP-11 describes eleven application platforms as distinct categories, but several share characteristics: Friend Zone and Guild Hall both manage relationship maintenance, Bazaar and Guild Hall both involve reputation-dependent matching. This inquiry asks where platforms genuinely diverge in protocol requirements and where apparent boundaries are artificial.
 
-**[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]⊙](inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)** — Are disclosure levels discrete tiers or a continuous range?
+**[\[\[Disclosure Spectrum as Discrete Tiers or Continuous Range\]\]⊙](inquiries/Disclosure%20Spectrum%20as%20Discrete%20Tiers%20or%20Continuous%20Range.html)** — IFP-12 defines six named disclosure tiers (public through close) as a discrete hierarchy. This inquiry asks whether discrete tiers are the right model — whether a continuous range would better capture the nuance of information sharing, whether the specific tier names impose cultural assumptions, and whether six is the right number.
 
-**[\[\[Granularity of Progressive Authentication Stages\]\]⊙](inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html)** — Are four authentication levels the right granularity?
+**[\[\[Granularity of Progressive Authentication Stages\]\]⊙](inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html)** — IFP defines four authentication levels (shared secret, signed, verified, DID-bound) as discrete stages in a progressive trust model. This inquiry asks whether four stages capture the right boundaries — whether the jumps between levels are too large, whether intermediate stages are missing, and whether the Level 0 shared-secret starting point is appropriate for all contexts.
 
-**[\[\[Living Knowledge vs Static Archive in Agent Library Design\]\]⊙](inquiries/Living%20Knowledge%20vs%20Static%20Archive%20in%20Agent%20Library%20Design.html)** — Should agent libraries be living or static?
+**[\[\[Living Knowledge vs Static Archive in Agent Library Design\]\]⊙](inquiries/Living%20Knowledge%20vs%20Static%20Archive%20in%20Agent%20Library%20Design.html)** — IFP-11's Library platform spans personal knowledge management, group knowledge, and public encyclopedia under a single name. This inquiry asks whether the Library collapses distinct knowledge management paradigms — living documents that grow through tending vs static archives that are curated and preserved — and whether these require different protocol behaviors.
 
-**[\[\[Organizing Principle for Agent Application Domains\]\]⊙](inquiries/Organizing%20Principle%20for%20Agent%20Application%20Domains.html)** — What principle organizes agent application domains?
+**[\[\[Organizing Principle for Agent Application Domains\]\]⊙](inquiries/Organizing%20Principle%20for%20Agent%20Application%20Domains.html)** — IFP-11 describes eleven application platforms (Friend Zone, Bazaar, Guild Hall, etc.) but does not articulate a clear organizing principle for why these eleven and not others. This inquiry asks what principle should govern the taxonomy — by trust requirements, by temperature, by human need, or by protocol feature usage.
 
-**[\[\[Social Phase Decomposition in Trust-Building Protocols\]\]⊙](inquiries/Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html)** — How to decompose social phases in trust-building protocols
+**[\[\[Social Phase Decomposition in Trust-Building Protocols\]\]⊙](inquiries/Social%20Phase%20Decomposition%20in%20Trust-Building%20Protocols.html)** — IFP-3 defines six conversation phases — greeting, context, probe, recommend, close, error — modeled as social interactions rather than mechanical request-response. This inquiry asks whether this decomposition captures the right stages of trust-building conversation, whether phases are missing or redundant, and whether the social framing holds under adversarial conditions.
 
-**[\[\[Structured Schema vs Natural Language for Agent Message Content\]\]⊙](inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)** — Schema or natural language for message bodies?
+**[\[\[Structured Schema vs Natural Language for Agent Message Content\]\]⊙](inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)** — IFP-3 uses natural language for message bodies rather than structured schemas. This is one of IFP's most consequential architectural decisions, yet the justification is thin: 'agents are good at NLP.' This inquiry examines the trade-offs — what natural language enables, what it makes harder, and whether hybrid approaches might preserve the benefits of both.
 
-**[\[\[When to Specify and When to Explore in Protocol Evolution\]\]⊙](inquiries/When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)** — When to nail down protocol details vs leave room for discovery
+**[\[\[When to Specify and When to Explore in Protocol Evolution\]\]⊙](inquiries/When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)** — Protocol evolution involves a tension between specifying details (creating interoperability commitments) and leaving space for implementation discovery. IFP currently specifies both load-bearing architecture and tactical details at the same level. This inquiry asks how to distinguish what should be committed in specifications from what should remain open for exploration.
 
 ### Patterns⊙
 
-**[\[\[Dual Representation for Human and Machine Readability\]\]⊙](patterns/Dual%20Representation%20for%20Human%20and%20Machine%20Readability.html)** — Supporting both human and machine readers in the same artifact
+**[\[\[Dual Representation for Human and Machine Readability\]\]⊙](patterns/Dual%20Representation%20for%20Human%20and%20Machine%20Readability.html)** — Inter-Face Protocol maintains two equivalent representations of every message: IFP-3 (YAML envelope plus natural-language body, human-readable) and IFP-4 (JSON canonical form, machine-processable for signing and transport). Conversion between them is lossless. This resolves the tension between human legibility and cryptographic operations.
 
-**[\[\[Errors as Negotiation Opportunities\]\]⊙](patterns/Errors%20as%20Negotiation%20Opportunities.html)** — Errors as starting points for negotiation, not terminal failures
+**[\[\[Errors as Negotiation Opportunities\]\]⊙](patterns/Errors%20as%20Negotiation%20Opportunities.html)** — In agent-age protocols, errors are not failures to be coded and returned — they are opportunities for natural-language negotiation. When an agent receives a message it does not understand, it describes the problem conversationally, giving the sender an opportunity to rephrase. This resolves the tension between strict semantics and graceful communication.
 
 ### Convictions⊙
 
-**[\[\[Filtering Is More Valuable Than Connecting\]\]⊙](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)** — In information-rich environments, filtering matters more than connecting
-
-**[\[\[Personas Emerge from Observation Not Enumeration\]\]⊙](convictions/Personas%20Emerge%20from%20Observation%20Not%20Enumeration.html)** — Personas emerge from interaction patterns, not predefined categories
+**[\[\[Personas Emerge from Observation Not Enumeration\]\]⊙](convictions/Personas%20Emerge%20from%20Observation%20Not%20Enumeration.html)** — People do not experience their interests as cleanly separated categories. Systems that require explicit role enumeration force false boundaries. Inter-Face Protocol's conviction is that personas should emerge from agent observation of communication patterns — the agent notices clusters, not the human defining them.
 
 ### Decisions⊙
 
-**[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]⊙](decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)** — Why agent-age protocols need clarity over tolerance
+**[\[\[Clarity Over Tolerance in Agent-Age Protocols\]\]⊙](decisions/Clarity%20Over%20Tolerance%20in%20Agent-Age%20Protocols.html)** — Inter-Face Protocol explicitly replaces Postel's Law ('be liberal in what you accept') with a clarity-first principle for agent-age protocols. When agents can be updated in minutes, silent tolerance of deviations entrenches errors as workarounds. Strict error reporting with natural-language negotiation enables rapid correction.
 
 ### Principles⊙
 
-**[\[\[Auditable Intermediaries Over Silent Proxies\]\]⊙](principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)** — Intermediaries must be auditable, not invisible
+**[\[\[Auditable Intermediaries Over Silent Proxies\]\]⊙](principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)** — Any intermediary that handles messages between agents must leave an auditable trace — recording when it received the message, from whom, and any transformations applied. Silent proxies that forward or modify messages without visible traces violate the human legibility constraint. Trace is mandatory, not optional.
 
 ---
 
@@ -90,193 +88,181 @@ These nodes were copied from the source garden into this patch.
 
 ### Forms
 
-**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Where does this system's authority end? — the structural contract for boundary forms
+**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in Garden/boundaries/.
 
-**[\[\[Citation Form\]\]](forms/Citation%20Form.html)** — What do I need to know about this source? — the structural contract for citation forms
+**[\[\[Citation Form\]\]](forms/Citation%20Form.html)** — Defines the Citation form type: a structured dossier on a single work containing bibliographic entry, summary, key points, key quotes, influence, sources, and relations. Named as Author (Year) Abbreviated Title. Atomic at Seed stage, graduating to compound (analysis.md, insights.md, Renditions/, Archives/) as analysis deepens. Append-only.
 
-**[\[\[Conviction Form\]\]](forms/Conviction%20Form.html)** — What do we believe is true about the world? — the structural contract for conviction forms
+**[\[\[Conviction Form\]\]](forms/Conviction%20Form.html)** — Defines the Conviction form type: an assertion about reality that isn't self-evident, grounding values and principles. Near-immutable — a change represents a fundamental shift. Names are declarative claims, not topics.
 
-**[\[\[Decision Form\]\]](forms/Decision%20Form.html)** — Why did we choose this over the alternatives? — the structural contract for decision forms
+**[\[\[Decision Form\]\]](forms/Decision%20Form.html)** — Defines the Decision form type: a recorded choice with reasoning, alternatives considered, and consequences. Structural contract requires Context, Decision, Consequences, and Alternatives Considered sections in order. Distinguished from cases (which narrate what happened) by being forward-looking and from principles by being situation-specific.
 
-**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — What knowledge area does this cluster of forms belong to? — the structural contract for domain forms
+**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — Defines the Domain form type: a navigational and structural index for a field of knowledge — its scope, key nodes, open questions, and connections to other domains. A gardener's workbench for working within a knowledge area. 3 nodes in Garden/domains/.
 
-**[\[\[Evergreen Stage\]\]](forms/Evergreen%20Stage.html)** — Mature, well-linked, trustworthy — the highest confidence stage for retrieval
+**[\[\[Evergreen Stage\]\]](forms/Evergreen%20Stage.html)** — Defines the Evergreen Stage: a mature garden node that is well-linked, trustworthy, and stable across multiple editing sessions. Highest confidence for agent retrieval. Content has been validated through citation by other nodes, tested against sources, and requires no structural revision. Borrows from Matuschak's evergreen notes concept.
 
-**[\[\[Form Type\]\]](forms/Form%20Type.html)** — The structural contract that defines what shape a knowledge object takes
+**[\[\[Form Type\]\]](forms/Form%20Type.html)** — A form type is a knowledge object category with a known internal structure — a contract about what sections it contains and what question it answers. 17 form types are defined across five categories (Orientation, Structural, Action, Generative, Governance).
 
-**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — What does this specific source or concept mean? — the structural contract for gloss forms
+**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — Defines the Gloss form type: an interpretive annotation anchored to specific sources. Thesis-driven synthesis with organized citations. The atomic unit of interpretation. 12 nodes in Garden/glosses/.
 
-**[\[\[Growing Stage\]\]](forms/Growing%20Stage.html)** — Structured and linked but still developing — the active tending stage
+**[\[\[Growing Stage\]\]](forms/Growing%20Stage.html)** — Defines the Growing Stage, the active tending phase where nodes gain structure, links, and editorial attention. A growing node demonstrates its structural contract and has been revisited at least once, but remains incomplete or untested. Most nodes spend the majority of their lifecycle here. Mid-confidence for retrieval.
 
-**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — What should we think about X, and how would we find out? — the structural contract for inquiry forms
+**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — Defines the Inquiry form type: a thesis-driven investigation that marshals evidence, proposes hypotheses, and directs questions at specific people. The primary generative form — inquiries produce cases, patterns, and references. 11 nodes in Garden/inquiries/.
 
-**[\[\[Model Form\]\]](forms/Model%20Form.html)** — How do these elements relate to each other? — the structural contract for model forms
+**[\[\[Model Form\]\]](forms/Model%20Form.html)** — Defines the Model form type: a structural representation showing elements, relationships, boundaries, and feedback loops. How things relate to each other. Evolving as understanding grows. Models are explanatory (how things work), distinct from patterns (what to do) and scenarios (what might happen).
 
-**[\[\[Opus Form\]\]](forms/Opus%20Form.html)** — What am I saying here, and how does it connect? -- the structural contract for authored works
+**[\[\[Opus Form\]\]](forms/Opus%20Form.html)** — Defines the Opus form type: a compound garden node for the author's own substantial intellectual works. Lead file contains the work itself (living document), supported by analysis.md, insights.md, and sub-folders for Expressions (published venues), Renditions (drafts and derived versions), and Archives (binary artifacts). Opuses nest recursively. Attribution uses role-specific predicates grounded in the principal-agent framework.
 
-**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — What resolves this recurring tension? — the structural contract for pattern forms
+**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — Defines the Pattern form type: a problem-solution pair in Alexandrian form with context, forces in tension, solution, consequences, and connections. Validated or invalidated by cases. 16 nodes in Garden/patterns/.
 
-**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — What must we always or never do? — the structural contract for principle forms
+**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — Defines the Principle form type: a decision constraint derived from values that compresses patterns and experience into actionable heuristics. What must we always or never do. Stable; refined through cases but rarely overturned. 7 instances in Garden/principles/.
 
-**[\[\[Protocol Form\]\]](forms/Protocol%20Form.html)** — How do independent parties coordinate reliably? — the structural contract for protocol forms
+**[\[\[Protocol Form\]\]](forms/Protocol%20Form.html)** — Defines the Protocol form type: a specification for multi-party coordination across trust boundaries. Distinguished from a process by who must agree — a protocol works only if all parties follow it. Scope includes human coordination methods alongside technical protocols.
 
-**[\[\[Seed Stage\]\]](forms/Seed%20Stage.html)** — Raw capture, unprocessed, low confidence — where every garden node begins
+**[\[\[Seed Stage\]\]](forms/Seed%20Stage.html)** — Defines the Seed Stage, the entry point for all garden nodes: raw capture with low confidence, unprocessed structure, and minimal links. Seeds are extraction products that have enough content to stand alone but have not been tested against other nodes, verified, or refined through use.
 
-**[\[\[Value Form\]\]](forms/Value%20Form.html)** — What do we care about? — the structural contract for value forms
-
+**[\[\[Value Form\]\]](forms/Value%20Form.html)** — Defines the Value form type: an orientation toward what matters. Values don't prescribe action — they orient it. Slow-changing, evolving over decades. Names are abstract noun phrases — the value itself, not a claim about it.
 
 ### Domains
 
-**[\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html)** — The architecture that defines both precincts — typed nodes, predicates, and progressive disclosure
+**[\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html)** — Domain index for Deep Context Architecture — a system for capturing reasoning as typed markdown nodes connected by predicates, organized into precincts (garden and vault). Covers precincts, type system, lifecycle tracks, compound documents, naming, classification, meeting capture, personal knowledge management methods, and retrieval.
 
-**[\[\[Self-Sovereign Identity\]\]](domains/Self-Sovereign%20Identity.html)** — Identity owned by the individual — the first non-Deep Context Architecture domain in the garden
+**[\[\[Self-Sovereign Identity\]\]](domains/Self-Sovereign%20Identity.html)** — Domain index for Self-Sovereign Identity in the garden — 4 nodes covering the principal authority framework from agency law. Self-Sovereign Identity provides the first non-Deep Context Architecture domain content, bridging identity principles to the vault's augmented knowledge architecture.
 
-**[\[\[Synpraxis\]\]](domains/Synpraxis.html)** — How independent agents achieve outcomes together — and how it breaks down
-
+**[\[\[Synpraxis\]\]](domains/Synpraxis.html)** — Domain index for Synpraxis — the study of how independent agents achieve outcomes together across varying degrees of integration. From Greek syn (together) + praxis (purposeful action). Covers the full spectrum from loose coordination through cooperation to deep collaboration, including anti-patterns: defection, free-riding, parasitism, coercion, and capture. Spans biology, game theory, governance, organizational theory, computer science, and the arts.
 
 ### Models
 
-**[\[\[Authority Conferral Chain\]\]](models/Authority%20Conferral%20Chain.html)** — Seven predicates encoding authority chains from principal through agent with scope and constraints
+**[\[\[Authority Conferral Chain\]\]](models/Authority%20Conferral%20Chain.html)** — Model defining the formal predicate vocabulary for principal authority relationships in BCR-2026-xxx. Seven predicates encode who directed work, who asserts authority was conferred, what scope and constraints apply, and the full chain from principal to agent. Includes three conditions for meaningful authority and a Type A/B/C classification of delegation relationships.
 
-**[\[\[Choice Architecture and Exit Rights\]\]](models/Choice%20Architecture%20and%20Exit%20Rights.html)** — How voluntary digital choices accumulate into coercive dependencies with prohibitive exit costs
+**[\[\[Choice Architecture and Exit Rights\]\]](models/Choice%20Architecture%20and%20Exit%20Rights.html)** — Model of how initially voluntary digital choices accumulate into coercive dependencies through credential chains, platform lock-in, and exit penalties. When credentials, reputation, and relationships accumulate in one ecosystem, switching means losing recognized standing. Maps to the Exit → Erasure inversion in The Architecture of Autonomy.
 
-**[\[\[Coercion Resistance as Meta-Lens\]\]](models/Coercion%20Resistance%20as%20Meta-Lens.html)** — Four dimensions of coercion in identity systems and the visibility-to-coercion escalation chain
+**[\[\[Coercion Resistance as Meta-Lens\]\]](models/Coercion%20Resistance%20as%20Meta-Lens.html)** — Meta-lens framework showing how coercion operates across four dimensions in digital identity systems: interface (dark patterns), inference (behavioral profiling), structural (lock-in), and psychological (self-censorship). Each dimension has a specialized sub-lens. The chain Visibility → Legibility → Control → Coercion describes how identity systems escalate from observation to coercion.
 
-**[\[\[Collaborative Meeting as Composable Knowledge Pipeline\]\]](models/Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)** — Seven composable stages from meeting to garden — each stage filters, each output feeds the next
+**[\[\[Collaborative Meeting as Composable Knowledge Pipeline\]\]](models/Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)** — Seven-stage pipeline for turning collaborative meetings into garden nodes, tool notes, person notes, and patch updates. Stages: pre-work (agenda from prior session output), meeting, compound capture (audio+transcript+folder), post-processing (cleanup+notes+triage), garden integration (seed+graft+repatriate), report-out (cover letter+zip+PR merge), and close. Each stage filters — a 90-minute call produced 120+ patch files, 9 tool notes, 4 person notes, 8 garden nodes, and 8 garden-foundation tasks. First exercised on the 2026-03-19 Peter Kaminski garden patch review.
 
-**[\[\[Conversational Repair Organization\]\]](models/Conversational%20Repair%20Organization.html)** — Four repair types from conversation analysis map directly to agent error-correction protocol design
+**[\[\[Conversational Repair Organization\]\]](models/Conversational%20Repair%20Organization.html)** — Schegloff's four repair types mapped to agent protocol behaviors: self-initiated self-repair, self-initiated other-repair, other-initiated self-repair, and other-initiated other-repair. Protocols giving the error-producing agent first opportunity to self-correct produce better outcomes. Continuous self-monitoring beats error-state handling.
 
-**[\[\[Cross-Domain Document Lifecycle Parallels\]\]](models/Cross-Domain%20Document%20Lifecycle%20Parallels.html)** — Wiki, garden, and agent context — same lifecycle problems, different constraints
+**[\[\[Cross-Domain Document Lifecycle Parallels\]\]](models/Cross-Domain%20Document%20Lifecycle%20Parallels.html)** — Three domains — wiki communities, digital gardens, and AI agent context systems — face the same document lifecycle problems (splitting, staleness, ownership, deletion) under different constraints. Maps the parallels and identifies where the analogy breaks down: statelessness, read frequency, token economics, and automated maintenance.
 
-**[\[\[Document Lifecycle Governance Heuristics\]\]](models/Document%20Lifecycle%20Governance%20Heuristics.html)** — Wiki split/merge/delete heuristics applied to garden tending and agent context maintenance
+**[\[\[Document Lifecycle Governance Heuristics\]\]](models/Document%20Lifecycle%20Governance%20Heuristics.html)** — Maps wiki governance heuristics for document lifecycle (split, merge, redirect, delete, draftify) to garden and agent context operations. Includes failure modes: the append-only trap (growth by accretion without consolidation) and structure ossification (resistance to reorganization over time).
 
-**[\[\[Grounding Constraints Across Communication Media\]\]](models/Grounding%20Constraints%20Across%20Communication%20Media.html)** — Eight constraints on mutual understanding shift predictably from embodied conversation to structured data exchange
+**[\[\[Grounding Constraints Across Communication Media\]\]](models/Grounding%20Constraints%20Across%20Communication%20Media.html)** — Clark and Brennan's eight grounding constraints — copresence, visibility, audibility, contemporality, simultaneity, sequentiality, reviewability, revisability — mapped across communication channels from face-to-face to structured data APIs. As channels shift from synchronous to asynchronous, they trade repair speed for message permanence.
 
-**[\[\[Pace Layers for Knowledge and Agent Systems\]\]](models/Pace%20Layers%20for%20Knowledge%20and%20Agent%20Systems.html)** — Fast learns, slow remembers — forced synchronization across different rates of change destroys systems
+**[\[\[Pace Layers for Knowledge and Agent Systems\]\]](models/Pace%20Layers%20for%20Knowledge%20and%20Agent%20Systems.html)** — Stewart Brand's six pace layers — fashion, commerce, infrastructure, governance, culture, nature — mapped to both garden form types and agent platform components. Fast layers experiment, slow layers remember. Forced synchronization between layers at different rates destroys the system. Each component has a characteristic rate of change.
 
-**[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)** — How principal authority maps to vault owner, Claude sessions, rules, and approval gates
+**[\[\[Principal-Agent Relationship in Augmented Knowledge Work\]\]](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html)** — Model mapping BCR-2026-xxx principal authority terminology to the vault's augmented knowledge system. The vault owner is the principal, Claude Code sessions are agents, rules and skills are conferrals, and the three conditions for meaningful authority (legibility, boundaries, override) are satisfied through session logs, process constraints, and human approval gates.
 
-**[\[\[Status Lifecycle Tracks\]\]](models/Status%20Lifecycle%20Tracks.html)** — Three status tracks for three kinds of knowledge work — maturity, curation, and processing
+**[\[\[Status Lifecycle Tracks\]\]](models/Status%20Lifecycle%20Tracks.html)** — Three status tracks for three kinds of knowledge work. Maturity (Seed→Growing→Evergreen→Pruned) for living documents, curation (uncurated→curated→annotated) for static captures, processing (Captured→Transcribed→Cleaned→Summarized→Published) for meetings. The has_status:: predicate is universal; the vocabulary varies by node type.
 
-**[\[\[Vocabulary Lifecycle Through Tending\]\]](models/Vocabulary%20Lifecycle%20Through%20Tending.html)** — Growing vocabularies degrade without tending — weed, seed, and fertilize to maintain retrieval
-
+**[\[\[Vocabulary Lifecycle Through Tending\]\]](models/Vocabulary%20Lifecycle%20Through%20Tending.html)** — Model unifying the degradation mechanism common to growing vocabularies, configuration systems, and knowledge graphs. Any accumulating terminology — predicates, tags, rules, skills — degrades retrieval effectiveness without continuous tending. Three gardening activities maintain health: weeding (removing malformed entries), seeding (introducing needed specificity), and fertilizing (enriching with semantic structure).
 
 ### Glosses
 
-**[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Graph vocabulary — seven structural terms, four classification predicates, and the full semantic predicate catalog
+**[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Deep context is a typed graph in plain markdown — documents are nodes, predicate wikilinks are edges. Defines seven structural terms (context node, typed edge, compound node, lead file, rendition, archive, sidecar), four classification predicates, and the full semantic predicate catalog in four categories (provenance, structural, lifecycle, generative).
 
-**[\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html)** — A portable garden fork that reveals connections in external content through typed knowledge forms
+**[\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html)** — A garden patch is a portable, self-contained subset of a garden placed alongside external content to reveal connections through typed knowledge forms. It carries grafted nodes (copied from the source garden), patch-native nodes⊙ (born in the patch), form definitions, and a node directory. Patches function as forks — they diverge from the source garden as they grow, and changes can merge back upstream.
 
-**[\[\[Garden Precinct\]\]](glosses/Garden%20Precinct.html)** — Curated knowledge nodes with structural contracts and growth stages
+**[\[\[Garden Precinct\]\]](glosses/Garden%20Precinct.html)** — The garden precinct is the zone within Deep Context Architecture where knowledge is curated into typed nodes with structural contracts, tended through growth stages (Seed to Evergreen), and interconnected by typed predicates. It solves the problem of making knowledge retrievable, composable, and trustworthy over time.
 
-**[\[\[Ghost Link as Unplanted Garden Stake\]\]](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html)** — A reference to a node that does not exist yet — a stake marking where one could grow
+**[\[\[Ghost Link as Unplanted Garden Stake\]\]](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html)** — A ghost link is a wikilink reference to a node that does not exist yet — neither in this garden patch nor in the source garden. Like a stake marking where to plant, it signals that a concept has been identified as worth developing but has not yet been written. Ghost links appear as plain, non-clickable text.
 
-**[\[\[Grafted Node as Transplanted Knowledge in a Garden Patch\]\]](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node copied from the source garden into a garden patch, where it grows in new context
+**[\[\[Grafted Node as Transplanted Knowledge in a Garden Patch\]\]](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html)** — A grafted node is a knowledge node copied from a source garden into a garden patch. Like a horticultural graft, the node is taken from one context and attached to another where it can grow alongside new content. Grafted nodes diverge from their upstream originals as the patch adds connections and context.
 
-**[\[\[Neobooks as Composable Knowledge Objects\]\]](glosses/Neobooks%20as%20Composable%20Knowledge%20Objects.html)** — Books replaced by composable knowledge objects — assembled and reassembled for different purposes
+**[\[\[Neobooks as Composable Knowledge Objects\]\]](glosses/Neobooks%20as%20Composable%20Knowledge%20Objects.html)** — Jerry Michalski's concept of neobooks — composable knowledge objects that can be assembled, disassembled, and reassembled by different people for different purposes. A successor to the book as knowledge transmission unit. Garden opuses and garden patches are partial implementations of this vision: opuses handle authored composition with renditions, patches handle portable knowledge fragments applied alongside external content.
 
-**[\[\[Patch-Native Node as Original Knowledge in a Garden Patch\]\]](glosses/Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node born in a garden patch — this patch is its garden home
+**[\[\[Patch-Native Node as Original Knowledge in a Garden Patch\]\]](glosses/Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html)** — A patch-native node is a knowledge node born in a garden patch rather than grafted from the source garden. Marked with ⊙, it indicates that this patch is the node's garden home — the place where the concept was first expressed as a garden form. Patch-native nodes may later be adopted upstream into the source garden.
 
-**[\[\[Principal Authority as Agency Law for Digital Identity\]\]](glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)** — Agency law applied to digital identity — five duties, five definitions, revocability as litmus test
+**[\[\[Principal Authority as Agency Law for Digital Identity\]\]](glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)** — Gloss interpreting principal authority as the application of centuries-old agency law to digital identity. Defines five key terms (principal, agent, conferral, authorship, responsibility), five agency duties, and revocability as the diagnostic test for voluntariness. Rooted in Wyoming SF0039's shift from property to agency law for digital identity.
 
-**[\[\[Upstream Node as Source Garden Reference\]\]](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html)** — A node that exists in the source garden but was not grafted into this patch
+**[\[\[Upstream Node as Source Garden Reference\]\]](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html)** — An upstream node is a knowledge node that exists in the source garden but was not grafted into a garden patch. It is referenced by grafted nodes through predicate links marked with ↑, and its summary is documented on the Upstream References page. The source garden is 'upstream' — the origin from which knowledge flows into the patch.
 
-**[\[\[Vault Precinct\]\]](glosses/Vault%20Precinct.html)** — Operational knowledge capture, organization, and retrieval for daily work
-
+**[\[\[Vault Precinct\]\]](glosses/Vault%20Precinct.html)** — The vault precinct is the zone within Deep Context Architecture for operational knowledge work — capturing meetings, managing contacts, daily journaling, research intake, and organizing clippings. Uses the same predicate infrastructure as the garden precinct but with lighter conventions suited to capture-first workflows.
 
 ### Patterns
 
-**[\[\[Knowledge Compounds Through Typed Edges Not Filing\]\]](patterns/Knowledge%20Compounds%20Through%20Typed%20Edges%20Not%20Filing.html)** — Typed edges create compounding knowledge — filing creates accumulation that feels like progress
+**[\[\[Knowledge Compounds Through Typed Edges Not Filing\]\]](patterns/Knowledge%20Compounds%20Through%20Typed%20Edges%20Not%20Filing.html)** — Knowledge compounds when each new insight is wired into the existing graph through typed edges — not merely stored adjacent to prior notes. Researchers spend 75% of publication time on reading, compiling, and filing rather than writing because filing systems create false completeness. Typed edges (supports, contradicts, extends, extracted_from) make traversal meaningful, turning the writing phase into a query against existing structure.
 
-**[\[\[Precinct Boundaries Govern Sharing Not Quality\]\]](patterns/Precinct%20Boundaries%20Govern%20Sharing%20Not%20Quality.html)** — Garden nodes share freely because they strip context; vault notes stay protected because they carry it
+**[\[\[Precinct Boundaries Govern Sharing Not Quality\]\]](patterns/Precinct%20Boundaries%20Govern%20Sharing%20Not%20Quality.html)** — Garden-precinct nodes are context-independent and designed for sharing — they extract the transferable insight from a conversation, strip the attribution, and stand alone. Vault-precinct documents (meeting notes, transcripts, person notes) are context-dependent and carry sensitivity — who said what, with what hedging, in what relationship. This distinction governs what gets added to a garden patch (shared openly) versus what gets zipped as a compound meeting document (shared under Chatham House). The precinct boundary is a sharing boundary, not a quality boundary.
 
-**[\[\[Technology Paternalism Masks Coercion\]\]](patterns/Technology%20Paternalism%20Masks%20Coercion.html)** — When benevolent intent in system design masks systematic coercion across four layers
+**[\[\[Technology Paternalism Masks Coercion\]\]](patterns/Technology%20Paternalism%20Masks%20Coercion.html)** — Anti-pattern where digital systems shape, restrict, or pre-decide user choices under justifications of safety, efficiency, or protection. Four forms — Design (dark patterns), Algorithmic (filter bubbles), Infrastructural (lock-in), Protective (safety framing) — each embed coercion at a different system layer while appearing benevolent.
 
-**[\[\[Three-Part Enforcement Stack\]\]](patterns/Three-Part%20Enforcement%20Stack.html)** — Legal duties plus technical enforcement plus exit rights — remove any layer and accountability collapses
-
+**[\[\[Three-Part Enforcement Stack\]\]](patterns/Three-Part%20Enforcement%20Stack.html)** — Pattern identifying three interdependent layers required for accountable authority in digital identity systems: legal duties (agency law), technical delegation (cryptographic enforcement), and anti-lock-in design (real alternatives and proportionate exit costs). Removing any single layer collapses accountability — legal without enforcement is nominal, technical without legal is unaccountable, both without exit is lock-in.
 
 ### Principles
 
-**[\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html)** — Identity is delegable, not alienable — authority originates with the person
+**[\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html)** — Principle establishing that identity and authority originate with the person, not institutions or platforms. Identity is delegable but not alienable — it can be conferred to agents but never transferred as property. Grounded in Wyoming SF0039's statutory shift from property law to agency law for digital identity.
 
-**[\[\[Content Over Container\]\]](principles/Content%20Over%20Container.html)** — The knowledge vault needs searchable content, not file formats — renditions replace binaries when canonical sources exist
+**[\[\[Content Over Container\]\]](principles/Content%20Over%20Container.html)** — Principle that a knowledge vault needs searchable content, not file formats. When information can be extracted into a searchable rendition, the original binary's value drops to provenance evidence. Store binaries locally only when no canonical source exists AND the binary provides value beyond its rendition.
 
-**[\[\[Human Authority Over Augmentation Systems\]\]](principles/Human%20Authority%20Over%20Augmentation%20Systems.html)** — The vault augments human capability — the human retains authority at every level
+**[\[\[Human Authority Over Augmentation Systems\]\]](principles/Human%20Authority%20Over%20Augmentation%20Systems.html)** — Principle committing the vault's design to augmentation over autonomy, expressed through principal authority. The vault owner retains legibility (can see what the agent does), boundary-setting (defines what the agent may do), and override capability (can intervene at any point). Extends Content Over Container by treating the human's reasoning as the content that must not be subordinated to its container.
 
-**[\[\[Living Documents Over Static Publications\]\]](principles/Living%20Documents%20Over%20Static%20Publications.html)** — Garden nodes grow and evolve through tending — the current state matters, not the published version
+**[\[\[Living Documents Over Static Publications\]\]](principles/Living%20Documents%20Over%20Static%20Publications.html)** — Garden nodes are living documents that grow, split, merge, and evolve through tending. The current state matters, not a published version. Mutability varies: most nodes evolve freely, cases are immutable records with living interpretation, convictions change rarely. Provenance links to archived sources should upgrade to living targets.
 
-**[\[\[Progressive Disclosure Over Eager Loading\]\]](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)** — Start with the question, follow edges on demand, stop when context suffices
+**[\[\[Progressive Disclosure Over Eager Loading\]\]](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html)** — Operating principle for the deep context graph: start with the question, load the most relevant nodes, follow edges on demand, stop when context is sufficient. Nothing requires loading the full graph. Mirrors the quad model in Claude Code (rules always, references on demand) and extends it across all form types.
 
-**[\[\[Systems Should Listen More Than They Speak\]\]](principles/Systems%20Should%20Listen%20More%20Than%20They%20Speak.html)** — Well-designed subsystems compress information at every stage — measure attention saved, not data delivered
+**[\[\[Systems Should Listen More Than They Speak\]\]](principles/Systems%20Should%20Listen%20More%20Than%20They%20Speak.html)** — Herbert Simon's design principle applied to information systems: subsystems should absorb more information than they produce. The input/output ratio of a component is measurable. Effective designs compress and filter at each stage; naive designs amplify volume. Protocol success is measured by attention saved, not information delivered.
 
-**[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)** — Plain markdown, git, and shell one-liners — specialized tools add value but are never prerequisites
-
+**[\[\[Zero-Tooling Floor for Knowledge Architecture\]\]](principles/Zero-Tooling%20Floor%20for%20Knowledge%20Architecture.html)** — The deep context architecture preserves a zero-tooling floor: plain markdown, YAML frontmatter, predicate wikilinks, and git. No database, plugin, or schema enforcement required at the authoring or semantic layers. Shell one-liners serve as the query layer. Specialized tools add value but are never prerequisites.
 
 ### Convictions
 
-**[\[\[Authentic Collaboration Requires Agency\]\]](convictions/Authentic%20Collaboration%20Requires%20Agency.html)** — Without agency, collaboration is compliance — and the world's important problems demand real collaboration
+**[\[\[Authentic Collaboration Requires Agency\]\]](convictions/Authentic%20Collaboration%20Requires%20Agency.html)** — The conviction that authentic collaboration — shared intentional creation where participants entrust part of their identity to a joint endeavor — is impossible without agency. Cooperation can be coerced; collaboration cannot. Combined with a second conviction: the world's truly important problems require collaboration to solve. Together these form the argument that agency infrastructure is prerequisite to addressing intractable global challenges.
 
-**[\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)** — The scarce resource is human attention, not human connection
+**[\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html)** — The core conviction behind Inter-Face Protocol: the scarce resource is human attention, not human connection. The value of an agent system is measured by what it filters out — the overlaps it does not surface — rather than the connections it enables. Most gossip exchanges should produce silence.
 
-**[\[\[Values Precede Technical Decisions\]\]](convictions/Values%20Precede%20Technical%20Decisions.html)** — Ground technical decisions in human values — when values and convenience conflict, values win
-
+**[\[\[Values Precede Technical Decisions\]\]](convictions/Values%20Precede%20Technical%20Decisions.html)** — The conviction that technical architecture must be grounded in human values — not derived from technical capability, market pressure, or implementation convenience. Every design choice in the deep context architecture traces to a value: augmentation over autonomy, portability over power, simplicity over sophistication, human reasoning over system output. When values and technical convenience conflict, values win.
 
 ### Decisions
 
-**[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)** — Capture reasoning as typed forms with predicates — not fine-tuning, RAG, databases, or tags
-
+**[\[\[Deep Context as an Architecture for Captured Reasoning\]\]](decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html)** — The decision to capture personal reasoning as typed markdown forms connected by predicates — not as fine-tuned models, retrieval-augmented documents, or tagged notes. Typed forms with structural contracts make reasoning traversable by agents; predicates make it navigable; progressive disclosure makes it fit in context windows.
 
 ### Boundaries
 
-**[\[\[Delegated Decision Authority Spectrum\]\]](boundaries/Delegated%20Decision%20Authority%20Spectrum.html)** — Four authority zones that determine who may decide what within a garden
-
+**[\[\[Delegated Decision Authority Spectrum\]\]](boundaries/Delegated%20Decision%20Authority%20Spectrum.html)** — Boundary form defining four zones of decision authority — autonomous, propose-and-approve, human-only, and group-deliberative — applicable to any agent (LLM, delegate, automated system) operating within a deep context garden.
 
 ### Inquiries
 
-**[\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html)** — Same prefix, different roots — opus (the product) vs labor (the sweat) — and the distinction persists everywhere
+**[\[\[Cooperation vs Collaboration as Distinct Concepts\]\]](inquiries/Cooperation%20vs%20Collaboration%20as%20Distinct%20Concepts.html)** — Cooperation and collaboration share a Latin prefix (com- = together) but diverge at the root: operari (to produce, from opus = work product) vs laborare (to toil, from labor = exertion). This etymological split persists across modern usage — cooperation implies independent agents aligning toward compatible goals, collaboration implies shared struggle producing something none could alone. The distinction is formal in education, game theory, and biology; informal but consistent in law, diplomacy, and the arts.
 
-**[\[\[Domains and Pattern Languages as Organizational Concepts\]\]](inquiries/Domains%20and%20Pattern%20Languages%20as%20Organizational%20Concepts.html)** — Pattern languages organize patterns by scale within a domain — are they a view, a subset, or something distinct?
+**[\[\[Domains and Pattern Languages as Organizational Concepts\]\]](inquiries/Domains%20and%20Pattern%20Languages%20as%20Organizational%20Concepts.html)** — Investigates the relationship between domains (knowledge area indexes across all form types) and pattern languages (collections of patterns organized by scale within a domain). Meeples Together, Group Works, and Rust coding patterns are all pattern languages in different domains — are pattern languages a specialized view of a domain, or a distinct organizational concept?
 
-**[\[\[Gossip Duality Between Human Silence and Agent Noise\]\]](inquiries/Gossip%20Duality%20Between%20Human%20Silence%20and%20Agent%20Noise.html)** — Gossip filtering produces silence for humans and noise for agents — same mechanism, opposing metrics
+**[\[\[Gossip Duality Between Human Silence and Agent Noise\]\]](inquiries/Gossip%20Duality%20Between%20Human%20Silence%20and%20Agent%20Noise.html)** — The gossip-as-filter concept produces two opposing outputs: silence for humans (high-value filtering) and noise for agents (high-volume exchange). These serve different stakeholders with different success metrics. Human silence measures filter quality — fewer recommendations that are worth acting on. Agent noise measures coverage — more exchanges that detect more potential overlaps. The duality raises design questions about where to draw boundaries between the two modes.
 
-**[\[\[Group Deliberation Mechanism\]\]](inquiries/Group%20Deliberation%20Mechanism.html)** — When an agent hits a group-deliberative boundary, what happens next — practically?
+**[\[\[Group Deliberation Mechanism\]\]](inquiries/Group%20Deliberation%20Mechanism.html)** — Inquiry into how the deep context architecture handles decisions requiring group input — what practical mechanism does an agent use when it reaches a group-deliberative boundary? Explores structured proposals, agenda generation, and the gap between Polis Play philosophy and operational implementation.
 
-**[\[\[Living Document Scale Limits\]\]](inquiries/Living%20Document%20Scale%20Limits.html)** — Is there a 'Dunbar number' for living documents — a point where maintenance cost exceeds value?
+**[\[\[Living Document Scale Limits\]\]](inquiries/Living%20Document%20Scale%20Limits.html)** — Open question: is there a scale threshold beyond which the maintenance cost of living documents exceeds their accumulated value? Jerry Michalski's TheBrain (620,000+ nodes, 28 years) is evidence that single-author knowledge graphs can scale, but at what cost to gardening labor and structural coherence?
 
-**[\[\[Trust Layer Activation Criteria\]\]](inquiries/Trust%20Layer%20Activation%20Criteria.html)** — When does a garden need signing, elision, and verified exchange — what triggers the trust layer?
-
+**[\[\[Trust Layer Activation Criteria\]\]](inquiries/Trust%20Layer%20Activation%20Criteria.html)** — Inquiry into when a garden needs the trust layer — Gordian Envelope's signing, elision, and verified exchange capabilities. The architecture defines the trust layer as a future phase but leaves activation criteria undefined. Explores what triggers the transition from markdown-only to cryptographically-verified exchange.
 
 ### Values
 
-**[\[\[Knowledge Durability\]\]](values/Knowledge%20Durability.html)** — Knowledge should outlast the tools used to capture it — plain text, open formats, zero dependencies
+**[\[\[Knowledge Durability\]\]](values/Knowledge%20Durability.html)** — The value that knowledge should survive changes in tools, platforms, and formats. A garden's reasoning substrate must outlast the software used to tend it — plain markdown over proprietary formats, git over cloud sync, zero-tooling floors over feature-rich dependencies.
 
-**[\[\[Reasoning Fidelity\]\]](values/Reasoning%20Fidelity.html)** — Capture how someone reasons, not just what they know — so agents can decide as their owner would
-
+**[\[\[Reasoning Fidelity\]\]](values/Reasoning%20Fidelity.html)** — The value that a knowledge system should capture how its owner actually reasons — the web of values, principles, patterns, and cases that inform decisions — not merely store facts and documents. Fidelity means an agent working from the garden can make decisions consistent with how the owner actually thinks.
 
 ### Protocols
 
-**[\[\[Inter-Face Protocol\]\]](protocols/Inter-Face%20Protocol.html)** — Peer-to-peer agent communication that filters for conversations worth having
-
+**[\[\[Inter-Face Protocol\]\]](protocols/Inter-Face%20Protocol.html)** — Peer-to-peer protocol for AI agents to communicate on behalf of their human operators. Agents talk pairwise to surface moments warranting human conversation. Decentralized with progressive trust through disclosure tiers. Twelve draft specifications cover message format, identity, transport, and capabilities.
 
 ### Citations
 
-**[\[\[Allen (2023) Minimum Viable Architecture\]\]](citations/Allen%20%282023%29%20Minimum%20Viable%20Architecture/Allen%20%282023%29%20Minimum%20Viable%20Architecture.html)** — Make the hard-to-reverse decisions early, defer everything else
+**[\[\[Allen (2023) Minimum Viable Architecture\]\]](citations/Allen%20%282023%29%20Minimum%20Viable%20Architecture/Allen%20%282023%29%20Minimum%20Viable%20Architecture.html)** — Christopher Allen's minimum viable architecture principle: make a few hard-to-reverse decisions early, defer everything else. Commit to the decisions that would be expensive to change later — the 80/20 choices that shape everything downstream — and leave tactical decisions for when you have more information.
 
-**[\[\[Allen (2024) Progressive Trust\]\]](citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html)** — Trust deepens through verifiable stages, not binary trusted/untrusted switches
+**[\[\[Allen (2024) Progressive Trust\]\]](citations/Allen%20%282024%29%20Progressive%20Trust/Allen%20%282024%29%20Progressive%20Trust.html)** — Christopher Allen's progressive trust framework: trust deepens through stages from initial contact to full collaboration, with each stage requiring verification before advancing. Not binary (trusted/untrusted) but a progression where disclosure, authentication, and commitment deepen together. Provides the conceptual foundation for IFP's progressive authentication and disclosure tier models.
 
-**[\[\[Brand (2018) Pace Layering\]\]](citations/Brand%20%282018%29%20Pace%20Layering/Brand%20%282018%29%20Pace%20Layering.html)** — Fast learns, slow remembers — six layers of civilization and why their different speeds matter
+**[\[\[Brand (2018) Pace Layering\]\]](citations/Brand%20%282018%29%20Pace%20Layering/Brand%20%282018%29%20Pace%20Layering.html)** — Brand's pace layering framework describes how complex systems maintain resilience through layers operating at different rates of change. Six civilization layers from fashion to nature interact through slippage — fast layers innovate and absorb shocks, slow layers stabilize and remember. Health comes from the apparent contradictions between layers.
 
-**[\[\[Clark (1991) Grounding in Communication\]\]](citations/Clark%20%281991%29%20Grounding%20in%20Communication/Clark%20%281991%29%20Grounding%20in%20Communication.html)** — Mutual understanding is built through two-phase contributions shaped by medium-specific grounding constraints
+**[\[\[Clark (1991) Grounding in Communication\]\]](citations/Clark%20%281991%29%20Grounding%20in%20Communication/Clark%20%281991%29%20Grounding%20in%20Communication.html)** — Clark and Brennan define grounding as the collaborative process of establishing mutual understanding through continuous evidence exchange. Contributions have two phases — presentation and acceptance. Eight medium-specific constraints (copresence, visibility, audibility, contemporality, simultaneity, sequentiality, reviewability, revisability) determine available grounding strategies.
 
-**[\[\[Ehmke (2023) Dimensions of Digital Coercion\]\]](citations/Ehmke%20%282023%29%20Dimensions%20of%20Digital%20Coercion/Ehmke%20%282023%29%20Dimensions%20of%20Digital%20Coercion.html)** — Four dimensions of digital coercion that persist across commercial and open-source platforms alike
+**[\[\[Ehmke (2023) Dimensions of Digital Coercion\]\]](citations/Ehmke%20%282023%29%20Dimensions%20of%20Digital%20Coercion/Ehmke%20%282023%29%20Dimensions%20of%20Digital%20Coercion.html)** — Four-dimensional framework for digital coercion: attention (excessive cognitive demands), ergonomic (autonomy/usability tradeoffs), trust (unaccountable benign intent assumptions), and cultural (Western norm imposition). Applies the same analytical lens to both commercial and open-source platforms, challenging the assumption that openness alone produces equity.
 
-**[\[\[Kolpondinos (2026) Technology Paternalism\]\]](citations/Kolpondinos%20%282026%29%20Technology%20Paternalism/Kolpondinos%20%282026%29%20Technology%20Paternalism.html)** — Four forms of technology paternalism and four countermeasures to restore user agency
+**[\[\[Kolpondinos (2026) Technology Paternalism\]\]](citations/Kolpondinos%20%282026%29%20Technology%20Paternalism/Kolpondinos%20%282026%29%20Technology%20Paternalism.html)** — Names Technology Paternalism as an anti-pattern with four forms: Design (dark patterns, defaults), Algorithmic (filter bubbles), Infrastructural (lock-in), and Protective (safety-justified restrictions). Extends to agentic AI and digital identity. Proposes four countermeasures: override, contest, inspect, and exit.
 
-**[\[\[Nissenbaum (2004) Privacy as Contextual Integrity\]\]](citations/Nissenbaum%20%282004%29%20Privacy%20as%20Contextual%20Integrity/Nissenbaum%20%282004%29%20Privacy%20as%20Contextual%20Integrity.html)** — Privacy means appropriate information flow within context-specific norms, not secrecy or control
+**[\[\[Nissenbaum (2004) Privacy as Contextual Integrity\]\]](citations/Nissenbaum%20%282004%29%20Privacy%20as%20Contextual%20Integrity/Nissenbaum%20%282004%29%20Privacy%20as%20Contextual%20Integrity.html)** — Nissenbaum reframes privacy as contextual integrity — appropriate information flows governed by context-specific norms rather than secrecy or individual control. Five parameters define any flow: data subject, sender, recipient, information type, and transmission principle. Privacy violations occur when flows breach the norms governing a particular social context, not when information becomes visible.
 
-**[\[\[Schegloff (1977) Preference for Self-Correction in Repair\]\]](citations/Schegloff%20%281977%29%20Preference%20for%20Self-Correction%20in%20Repair/Schegloff%20%281977%29%20Preference%20for%20Self-Correction%20in%20Repair.html)** — Conversation organizes repair to give the speaker first opportunity at self-correction
+**[\[\[Schegloff (1977) Preference for Self-Correction in Repair\]\]](citations/Schegloff%20%281977%29%20Preference%20for%20Self-Correction%20in%20Repair/Schegloff%20%281977%29%20Preference%20for%20Self-Correction%20in%20Repair.html)** — Schegloff, Jefferson, and Sacks map the systematic organization of conversational repair, showing that self-initiated self-correction is structurally preferred over other-correction. The paper classifies repair by who initiates and who completes, revealing a positional hierarchy that gives trouble-source speakers maximum opportunity to fix their own errors.
 
-**[\[\[Simon (1971) Designing Organizations for an Information-Rich World\]\]](citations/Simon%20%281971%29%20Designing%20Organizations%20for%20an%20Information-Rich%20World/Simon%20%281971%29%20Designing%20Organizations%20for%20an%20Information-Rich%20World.html)** — A wealth of information creates a poverty of attention — design for filtering, not volume
+**[\[\[Simon (1971) Designing Organizations for an Information-Rich World\]\]](citations/Simon%20%281971%29%20Designing%20Organizations%20for%20an%20Information-Rich%20World/Simon%20%281971%29%20Designing%20Organizations%20for%20an%20Information-Rich%20World.html)** — Simon's 1971 essay argues that information abundance creates attention scarcity. Well-designed information systems should allocate attention efficiently by filtering and compressing — 'listening and thinking more than they speak' — rather than amplifying volume at each stage.
 
 
 ---

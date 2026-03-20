@@ -10,7 +10,7 @@ Complete listing of every node referenced in this garden patch — whether it li
 | ⊙ | **Patch-native** — born in this patch; this is its garden home |
 | ↑ | **Upstream** — exists in the source garden but not grafted here |
 
-**74 grafted nodes** · **25 patch-native⊙ nodes** · **136 upstream↑ nodes documented** · 42 unlocated references (ghost links or informal references)
+**79 grafted nodes** · **24 patch-native⊙ nodes** · **136 upstream↑ nodes documented** · 42 unlocated references (ghost links or informal references)
 
 ---
 
@@ -88,7 +88,7 @@ These nodes were copied from the source garden into this patch.
 
 ### Forms
 
-**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in [Garden/boundaries/](boundaries/index.html).
+**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in Garden/boundaries/.
 
 **[\[\[Citation Form\]\]](forms/Citation%20Form.html)** — Defines the Citation form type: a structured dossier on a single work containing bibliographic entry, summary, key points, key quotes, influence, sources, and relations. Named as Author (Year) Abbreviated Title. Atomic at Seed stage, graduating to compound (analysis.md, insights.md, Renditions/, Archives/) as analysis deepens. Append-only.
 
@@ -96,27 +96,29 @@ These nodes were copied from the source garden into this patch.
 
 **[\[\[Decision Form\]\]](forms/Decision%20Form.html)** — Defines the Decision form type: a recorded choice with reasoning, alternatives considered, and consequences. Structural contract requires Context, Decision, Consequences, and Alternatives Considered sections in order. Distinguished from cases (which narrate what happened) by being forward-looking and from principles by being situation-specific.
 
-**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — Defines the Domain form type: a navigational and structural index for a field of knowledge — its scope, key nodes, open questions, and connections to other domains. A gardener's workbench for working within a knowledge area. 3 nodes in [Garden/domains/](domains/index.html).
+**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — Defines the Domain form type: a navigational and structural index for a field of knowledge — its scope, key nodes, open questions, and connections to other domains. A gardener's workbench for working within a knowledge area. 3 nodes in Garden/domains/.
 
 **[\[\[Evergreen Stage\]\]](forms/Evergreen%20Stage.html)** — Defines the Evergreen Stage: a mature garden node that is well-linked, trustworthy, and stable across multiple editing sessions. Highest confidence for agent retrieval. Content has been validated through citation by other nodes, tested against sources, and requires no structural revision. Borrows from Matuschak's evergreen notes concept.
 
 **[\[\[Form Type\]\]](forms/Form%20Type.html)** — A form type is a knowledge object category with a known internal structure — a contract about what sections it contains and what question it answers. 17 form types are defined across five categories (Orientation, Structural, Action, Generative, Governance).
 
-**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — Defines the Gloss form type: an interpretive annotation anchored to specific sources. Thesis-driven synthesis with organized citations. The atomic unit of interpretation. 12 nodes in [Garden/glosses/](glosses/index.html).
+**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — Defines the Gloss form type: an interpretive annotation anchored to specific sources. Thesis-driven synthesis with organized citations. The atomic unit of interpretation. 12 nodes in Garden/glosses/.
 
 **[\[\[Growing Stage\]\]](forms/Growing%20Stage.html)** — Defines the Growing Stage, the active tending phase where nodes gain structure, links, and editorial attention. A growing node demonstrates its structural contract and has been revisited at least once, but remains incomplete or untested. Most nodes spend the majority of their lifecycle here. Mid-confidence for retrieval.
 
-**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — Defines the Inquiry form type: a thesis-driven investigation that marshals evidence, proposes hypotheses, and directs questions at specific people. The primary generative form — inquiries produce cases, patterns, and references. 11 nodes in [Garden/inquiries/](inquiries/index.html).
+**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — Defines the Inquiry form type: a thesis-driven investigation that marshals evidence, proposes hypotheses, and directs questions at specific people. The primary generative form — inquiries produce cases, patterns, and references. 11 nodes in Garden/inquiries/.
 
 **[\[\[Model Form\]\]](forms/Model%20Form.html)** — Defines the Model form type: a structural representation showing elements, relationships, boundaries, and feedback loops. How things relate to each other. Evolving as understanding grows. Models are explanatory (how things work), distinct from patterns (what to do) and scenarios (what might happen).
 
 **[\[\[Opus Form\]\]](forms/Opus%20Form.html)** — Defines the Opus form type: a compound garden node for the author's own substantial intellectual works. Lead file contains the work itself (living document), supported by analysis.md, insights.md, and sub-folders for Expressions (published venues), Renditions (drafts and derived versions), and Archives (binary artifacts). Opuses nest recursively. Attribution uses role-specific predicates grounded in the principal-agent framework.
 
-**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — Defines the Pattern form type: a problem-solution pair in Alexandrian form with context, forces in tension, solution, consequences, and connections. Validated or invalidated by cases. 16 nodes in [Garden/patterns/](patterns/index.html).
+**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — Defines the Pattern form type: a problem-solution pair in Alexandrian form with context, forces in tension, solution, consequences, and connections. Validated or invalidated by cases. 16 nodes in Garden/patterns/.
 
-**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — Defines the Principle form type: a decision constraint derived from values that compresses patterns and experience into actionable heuristics. What must we always or never do. Stable; refined through cases but rarely overturned. 7 instances in [Garden/principles/](principles/index.html).
+**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — Defines the Principle form type: a decision constraint derived from values that compresses patterns and experience into actionable heuristics. What must we always or never do. Stable; refined through cases but rarely overturned. 7 instances in Garden/principles/.
 
 **[\[\[Protocol Form\]\]](forms/Protocol%20Form.html)** — Defines the Protocol form type: a specification for multi-party coordination across trust boundaries. Distinguished from a process by who must agree — a protocol works only if all parties follow it. Scope includes human coordination methods alongside technical protocols.
+
+**[\[\[Scenario Form\]\]](forms/Scenario%20Form.html)** — Defines the Scenario form type: a plausible narrative of how the future could unfold given specific drivers and conditions. Scenarios don't predict — they prepare. Value lies in spanning the possibility space. Names state the hypothetical trajectory, not the driving forces.
 
 **[\[\[Seed Stage\]\]](forms/Seed%20Stage.html)** — Defines the Seed Stage, the entry point for all garden nodes: raw capture with low confidence, unprocessed structure, and minimal links. Seeds are extraction products that have enough content to stand alone but have not been tested against other nodes, verified, or refined through use.
 
@@ -173,6 +175,8 @@ These nodes were copied from the source garden into this patch.
 **[\[\[Patch-Native Node as Original Knowledge in a Garden Patch\]\]](glosses/Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html)** — A patch-native node is a knowledge node born in a garden patch rather than grafted from the source garden. Marked with ⊙, it indicates that this patch is the node's garden home — the place where the concept was first expressed as a garden form. Patch-native nodes may later be adopted upstream into the source garden.
 
 **[\[\[Principal Authority as Agency Law for Digital Identity\]\]](glosses/Principal%20Authority%20as%20Agency%20Law%20for%20Digital%20Identity.html)** — Gloss interpreting principal authority as the application of centuries-old agency law to digital identity. Defines five key terms (principal, agent, conferral, authorship, responsibility), five agency duties, and revocability as the diagnostic test for voluntariness. Rooted in Wyoming SF0039's shift from property to agency law for digital identity.
+
+**[\[\[Structural Contract as Form Type Agreement\]\]](glosses/Structural%20Contract%20as%20Form%20Type%20Agreement.html)** — A structural contract is the agreement that every instance of a form type follows the same internal structure — required sections, naming heuristics, predicate patterns, and the core question the form answers. The contract is what makes forms interoperable: a reader who knows the Model Form contract can navigate any model, and an agent can traverse any form without per-instance instruction.
 
 **[\[\[Upstream Node as Source Garden Reference\]\]](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html)** — An upstream node is a knowledge node that exists in the source garden but was not grafted into a garden patch. It is referenced by grafted nodes through predicate links marked with ↑, and its summary is documented on the Upstream References page. The source garden is 'upstream' — the origin from which knowledge flows into the patch.
 

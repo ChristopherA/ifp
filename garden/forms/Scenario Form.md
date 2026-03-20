@@ -46,7 +46,7 @@ Naming heuristic: state the hypothetical trajectory or end state. Name what migh
 
 ## Exemplars
 
-- [\[\[Thousand Gardens with Autonomous Trust\]\]⊙](../scenarios/Thousand%20Gardens%20with%20Autonomous%20Trust.html) — what happens when gardens become autonomous cryptographic objects that trust each other progressively
+- [\[\[Thousand Gardens with Autonomous Trust\]\]](../scenarios/Thousand%20Gardens%20with%20Autonomous%20Trust.html) — what happens when gardens become autonomous cryptographic objects that trust each other progressively
 - [\[\[Knowledge Graph as Digital Twin of Principal Reasoning\]\]↑](../NODES.html#:~:text=Knowledge%20Graph%20as%20Digital%20Twin) — what happens when gardens grow dense enough that agents shift from augmentation toward delegation
 
 ## Category

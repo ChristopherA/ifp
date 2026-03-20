@@ -6,7 +6,7 @@ tagline: "The vault augments human capability — the human retains authority at
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Principles](index.html)
+← [Garden Patch Home](../) · [Principles](index.html)
 
 
 - is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)

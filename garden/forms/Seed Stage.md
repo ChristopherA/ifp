@@ -6,7 +6,7 @@ tagline: "Raw capture, unprocessed, low confidence — where every garden node b
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

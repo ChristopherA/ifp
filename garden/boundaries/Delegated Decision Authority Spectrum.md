@@ -6,7 +6,7 @@ tagline: "Four authority zones that determine who may decide what within a garde
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Boundaries](index.html)
+← [Garden Patch Home](../) · [Boundaries](index.html)
 
 
 - is_a::[\[\[Boundary Form\]\]](../forms/Boundary%20Form.html)

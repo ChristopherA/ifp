@@ -6,7 +6,7 @@ tagline: "When does a garden need signing, elision, and verified exchange — wh
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

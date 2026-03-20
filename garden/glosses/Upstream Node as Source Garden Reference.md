@@ -5,7 +5,7 @@ brief_summary: "An upstream node is a knowledge node that exists in the source g
 tagline: "A node that exists in the source garden but was not grafted into this patch"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

@@ -5,7 +5,7 @@ brief_summary: "Seven-stage pipeline for turning collaborative meetings into gar
 tagline: "Seven composable stages from meeting to garden — each stage filters, each output feeds the next"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 - is_a::[Model Form](../forms/Model%20Form.html)
 - has_status::[Seed Stage](../forms/Seed%20Stage.html)

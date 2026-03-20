@@ -6,7 +6,7 @@ tagline: "The architecture that defines both precincts — typed nodes, predicat
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Domains](index.html)
+← [Garden Patch Home](../) · [Domains](index.html)
 
 
 - is_a::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)

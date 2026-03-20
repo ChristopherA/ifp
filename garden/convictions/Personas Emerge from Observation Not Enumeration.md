@@ -5,7 +5,7 @@ brief_summary: "People do not experience their interests as cleanly separated ca
 tagline: "People experience context fluidly — systems should observe patterns, not force categories"
 ---
 
-← [Garden Patch Home](../README.html) · [Convictions](index.html)
+← [Garden Patch Home](../) · [Convictions](index.html)
 
 
 - is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)

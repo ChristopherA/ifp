@@ -5,7 +5,7 @@ brief_summary: "Inter-Face Protocol defines six conversation phases — greeting
 tagline: "How does a trust-building conversation progress through structured phases?"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

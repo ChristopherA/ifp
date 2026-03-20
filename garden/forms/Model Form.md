@@ -5,7 +5,7 @@ brief_summary: "Defines the Model form type: a structural representation showing
 tagline: "How do these elements relate to each other? — the structural contract for model forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

@@ -5,7 +5,7 @@ brief_summary: "Defines the Principle form type: a decision constraint derived f
 tagline: "What must we always or never do? — the structural contract for principle forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

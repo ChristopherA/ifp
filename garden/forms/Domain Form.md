@@ -5,7 +5,7 @@ brief_summary: "Defines the Domain form type: a navigational and structural inde
 tagline: "What knowledge area does this cluster of forms belong to? — the structural contract for domain forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

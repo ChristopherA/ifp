@@ -6,7 +6,7 @@ tagline: "Knowledge should outlast the tools used to capture it — plain text, 
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Values](index.html)
+← [Garden Patch Home](../) · [Values](index.html)
 
 
 - is_a::[\[\[Value Form\]\]](../forms/Value%20Form.html)

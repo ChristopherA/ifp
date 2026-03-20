@@ -5,7 +5,7 @@ brief_summary: "Inter-Face Protocol organizes information sharing through a six-
 tagline: "How do disclosure tiers, personas, and peer relationships intersect to govern information sharing?"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

@@ -5,7 +5,7 @@ brief_summary: "Defines the Conviction form type: an assertion about reality tha
 tagline: "What do we believe is true about the world? — the structural contract for conviction forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

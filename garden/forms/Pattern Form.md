@@ -5,7 +5,7 @@ brief_summary: "Defines the Pattern form type: a problem-solution pair in Alexan
 tagline: "What resolves this recurring tension? — the structural contract for pattern forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

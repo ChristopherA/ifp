@@ -5,7 +5,7 @@ brief_summary: "Peer-to-peer protocol for AI agents to communicate on behalf of 
 tagline: "Peer-to-peer agent communication that filters for conversations worth having"
 ---
 
-← [Garden Patch Home](../README.html) · [Protocols](index.html)
+← [Garden Patch Home](../) · [Protocols](index.html)
 
 
 - is_a::[\[\[Protocol Form\]\]↑](../NODES.html#:~:text=Protocol%20Form)

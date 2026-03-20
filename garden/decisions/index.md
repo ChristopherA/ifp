@@ -1,4 +1,4 @@
-← [Garden Patch Home](../README.html)
+← [Garden Patch Home](../)
 
 # Decisions
 

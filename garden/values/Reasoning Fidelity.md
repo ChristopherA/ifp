@@ -6,7 +6,7 @@ tagline: "Capture how someone reasons, not just what they know — so agents can
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Values](index.html)
+← [Garden Patch Home](../) · [Values](index.html)
 
 
 - is_a::[\[\[Value Form\]\]](../forms/Value%20Form.html)

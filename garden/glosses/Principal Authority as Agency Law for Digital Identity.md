@@ -6,7 +6,7 @@ tagline: "Agency law applied to digital identity — five duties, five definitio
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

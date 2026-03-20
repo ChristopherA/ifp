@@ -5,7 +5,7 @@ brief_summary: "A form type is a knowledge object category with a known internal
 tagline: "The structural contract that defines what shape a knowledge object takes"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

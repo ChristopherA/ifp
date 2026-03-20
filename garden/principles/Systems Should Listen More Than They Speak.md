@@ -5,7 +5,7 @@ brief_summary: "Herbert Simon's design principle applied to information systems:
 tagline: "Well-designed subsystems compress information at every stage — measure attention saved, not data delivered"
 ---
 
-← [Garden Patch Home](../README.html) · [Principles](index.html)
+← [Garden Patch Home](../) · [Principles](index.html)
 
 
 - is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)

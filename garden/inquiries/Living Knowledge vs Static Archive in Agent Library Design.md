@@ -5,7 +5,7 @@ brief_summary: "IFP-11's Library platform spans personal knowledge management, g
 tagline: "Does the Library platform collapse living knowledge and static archives into a single paradigm?"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

@@ -5,7 +5,7 @@ brief_summary: "Anti-pattern where digital systems shape, restrict, or pre-decid
 tagline: "When benevolent intent in system design masks systematic coercion across four layers"
 ---
 
-← [Garden Patch Home](../README.html) · [Patterns](index.html)
+← [Garden Patch Home](../) · [Patterns](index.html)
 
 
 - is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)

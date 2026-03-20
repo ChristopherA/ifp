@@ -6,7 +6,7 @@ tagline: "Seven predicates encoding authority chains from principal through agen
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

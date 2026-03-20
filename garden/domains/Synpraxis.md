@@ -5,7 +5,7 @@ brief_summary: "Domain index for Synpraxis — the study of how independent agen
 tagline: "How independent agents achieve outcomes together — and how it breaks down"
 ---
 
-← [Garden Patch Home](../README.html) · [Domains](index.html)
+← [Garden Patch Home](../) · [Domains](index.html)
 
 
 - is_a::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)

@@ -5,7 +5,7 @@ brief_summary: "A garden patch is a portable, self-contained subset of a Deep Co
 tagline: "A portable garden subset that reveals connections in external content without modifying it"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

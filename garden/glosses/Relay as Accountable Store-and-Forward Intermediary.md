@@ -5,7 +5,7 @@ brief_summary: "In Inter-Face Protocol, a relay is a store-and-forward service t
 tagline: "Relays forward messages between agents while leaving an auditable trace"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

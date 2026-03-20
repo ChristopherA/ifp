@@ -6,7 +6,7 @@ tagline: "Pattern languages organize patterns by scale within a domain — are t
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

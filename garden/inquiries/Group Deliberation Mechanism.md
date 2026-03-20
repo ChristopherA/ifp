@@ -5,7 +5,7 @@ brief_summary: "Inquiry into how the deep context architecture handles decisions
 tagline: "When an agent hits a group-deliberative boundary, what happens next — practically?"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

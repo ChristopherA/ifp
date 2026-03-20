@@ -5,7 +5,7 @@ brief_summary: "The decision to capture personal reasoning as typed markdown for
 tagline: "Capture reasoning as typed forms with predicates — not fine-tuning, RAG, databases, or tags"
 ---
 
-← [Garden Patch Home](../README.html) · [Decisions](index.html)
+← [Garden Patch Home](../) · [Decisions](index.html)
 
 
 - is_a::[\[\[Decision Form\]\]](../forms/Decision%20Form.html)

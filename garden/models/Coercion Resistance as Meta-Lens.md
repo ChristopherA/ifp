@@ -5,7 +5,7 @@ brief_summary: "Meta-lens framework showing how coercion operates across four di
 tagline: "Four dimensions of coercion in identity systems and the visibility-to-coercion escalation chain"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

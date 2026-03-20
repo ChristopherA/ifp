@@ -5,7 +5,7 @@ brief_summary: "A ghost link is a wikilink reference to a node that does not exi
 tagline: "A reference to a node that does not exist yet — a stake marking where one could grow"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

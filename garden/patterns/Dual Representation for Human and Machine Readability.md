@@ -5,7 +5,7 @@ brief_summary: "Inter-Face Protocol maintains two equivalent representations of 
 tagline: "What resolves the tension between human-readable messages and machine-processable signing?"
 ---
 
-← [Garden Patch Home](../README.html) · [Patterns](index.html)
+← [Garden Patch Home](../) · [Patterns](index.html)
 
 
 - is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)

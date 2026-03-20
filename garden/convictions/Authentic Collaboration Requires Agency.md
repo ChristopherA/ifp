@@ -5,7 +5,7 @@ brief_summary: "The conviction that authentic collaboration — shared intention
 tagline: "Without agency, collaboration is compliance — and the world's important problems demand real collaboration"
 ---
 
-← [Garden Patch Home](../README.html) · [Convictions](index.html)
+← [Garden Patch Home](../) · [Convictions](index.html)
 
 
 - is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)

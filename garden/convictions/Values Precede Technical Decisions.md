@@ -6,7 +6,7 @@ tagline: "Ground technical decisions in human values — when values and conveni
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Convictions](index.html)
+← [Garden Patch Home](../) · [Convictions](index.html)
 
 
 - is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)

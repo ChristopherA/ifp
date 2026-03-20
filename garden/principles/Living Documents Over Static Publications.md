@@ -6,7 +6,7 @@ tagline: "Garden nodes grow and evolve through tending — the current state mat
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Principles](index.html)
+← [Garden Patch Home](../) · [Principles](index.html)
 
 
 - is_a::[\[\[Principle Form\]\]](../forms/Principle%20Form.html)

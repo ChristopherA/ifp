@@ -5,7 +5,7 @@ brief_summary: "Defines the Value form type: an orientation toward what matters.
 tagline: "What do we care about? — the structural contract for value forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

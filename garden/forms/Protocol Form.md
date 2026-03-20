@@ -5,7 +5,7 @@ brief_summary: "Defines the Protocol form type: a specification for multi-party 
 tagline: "How do independent parties coordinate reliably? — the structural contract for protocol forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

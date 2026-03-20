@@ -5,7 +5,7 @@ brief_summary: "Temperature in Inter-Face Protocol describes conversation intens
 tagline: "How do conversation intensity levels shape protocol behavior across the same message format?"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

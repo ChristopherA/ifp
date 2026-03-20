@@ -5,7 +5,7 @@ brief_summary: "Jerry Michalski's concept of neobooks — composable knowledge o
 tagline: "Books replaced by composable knowledge objects — assembled and reassembled for different purposes"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[[\[Gloss Form\]]](../forms/Gloss%20Form.html)

@@ -5,7 +5,7 @@ brief_summary: "Defines the Opus form type: a compound garden node for the autho
 tagline: "What am I saying here, and how does it connect? -- the structural contract for authored works"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 is_a::[\[\[Form Type\]\]](Form%20Type.html)

@@ -5,7 +5,7 @@ brief_summary: "Defines the Citation form type: a structured dossier on a single
 tagline: "What do I need to know about this source? — the structural contract for citation forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

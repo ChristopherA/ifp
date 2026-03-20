@@ -1,25 +1,25 @@
 # A Garden Patch for Inter-Face Protocol
 
-This is a **garden patch** — a portable, self-contained collection of typed knowledge nodes placed alongside the [Inter-Face Protocol](../README.md) specifications. It expresses IFP concepts through [\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html) garden forms, revealing connections to broader patterns in identity, trust, collaboration, and protocol design.
+This is a **garden patch** — a portable, self-contained collection of typed knowledge nodes placed alongside the [Inter-Face Protocol](../) specifications. It expresses [IFP](../) concepts through [\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html) garden forms, revealing connections to broader patterns in identity, trust, collaboration, and protocol design.
 
 A garden patch carries everything needed to read it: form type definitions, domain pages, nodes from the source garden, new nodes seeded from the target content, and citations pointing to canonical source URLs. It does not modify the content it sits alongside — Peter's specs remain untouched.
 
-This is not a critique. It is a **dialogue** — showing how the same ideas look through a different lens, and where IFP's design decisions connect to decades of work on human agency, progressive trust, and decentralized systems.
+This is not a critique. It is a **dialogue** — showing how the same ideas look through a different lens, and where [IFP](../)'s design decisions connect to decades of work on human agency, progressive trust, and decentralized systems.
 
 ## What's In This Patch
 
 This patch contains **27 patch-native nodes⊙** (born here) and **72 grafted nodes** (copied from the source garden), plus form definitions, domain pages, and citations.
 
-**Patch-native nodes⊙** — Created specifically for this garden patch from IFP content:
+**Patch-native nodes⊙** — Created specifically for this garden patch from [IFP](../) content:
 
-- **Glosses⊙** — Interpretive definitions of IFP's key concepts: [\[\[gossip\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html), [\[\[agent\]\]⊙](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html), [\[\[persona\]\]⊙](glosses/Persona%20as%20Emergent%20Context%20Cluster.html), [\[\[disclosure tier\]\]⊙](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html), [\[\[capability\]\]⊙](glosses/Capability%20as%20Advertised%20Agent%20Function.html), [\[\[relay\]\]⊙](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html), [\[\[recommendation\]\]⊙](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)
+- **Glosses⊙** — Interpretive definitions of [IFP](../)'s key concepts: [\[\[gossip\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html), [\[\[agent\]\]⊙](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html), [\[\[persona\]\]⊙](glosses/Persona%20as%20Emergent%20Context%20Cluster.html), [\[\[disclosure tier\]\]⊙](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html), [\[\[capability\]\]⊙](glosses/Capability%20as%20Advertised%20Agent%20Function.html), [\[\[relay\]\]⊙](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html), [\[\[recommendation\]\]⊙](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)
 - **Models⊙** — [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]⊙](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html), [\[\[Disclosure Tier Hierarchy\]\]⊙](models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html), [\[\[Progressive Authentication as Trust Deepening\]\]⊙](models/Progressive%20Authentication%20as%20Trust%20Deepening.html), [\[\[Social Conversation Phases\]\]⊙](models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
-- **Inquiries⊙** — 8 open questions that surface hidden assumptions in IFP's design, from [\[\[authentication granularity\]\]⊙](inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html) to [\[\[schema vs natural language\]\]⊙](inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)
+- **Inquiries⊙** — 8 open questions that surface hidden assumptions in [IFP](../)'s design, from [\[\[authentication granularity\]\]⊙](inquiries/Granularity%20of%20Progressive%20Authentication%20Stages.html) to [\[\[schema vs natural language\]\]⊙](inquiries/Structured%20Schema%20vs%20Natural%20Language%20for%20Agent%20Message%20Content.html)
 - **Patterns⊙, convictions⊙, decisions⊙, principles⊙** — Design choices and recurring tensions expressed as garden forms
 
-**Grafted nodes** — Copies from the source garden covering [\[\[progressive trust\]\]](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html), [\[\[principal-agent relationships\]\]](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html), [\[\[coercion resistance\]\]](models/Coercion%20Resistance%20as%20Meta-Lens.html), [\[\[collaboration mechanics\]\]](convictions/Authentic%20Collaboration%20Requires%20Agency.html), and more. These show that IFP's concepts connect to a network of related ideas across identity, governance, and protocol design.
+**Grafted nodes** — Copies from the source garden covering [\[\[progressive trust\]\]](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html), [\[\[principal-agent relationships\]\]](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html), [\[\[coercion resistance\]\]](models/Coercion%20Resistance%20as%20Meta-Lens.html), [\[\[collaboration mechanics\]\]](convictions/Authentic%20Collaboration%20Requires%20Agency.html), and more. These show that [IFP](../)'s concepts connect to a network of related ideas across identity, governance, and protocol design.
 
-**Citations⊙** — Compound citations of Christopher Allen's published works ([\[\[Minimum Viable Architecture\]\]⊙](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [\[\[Progressive Trust\]\]⊙](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to IFP's architectural decisions.
+**Citations⊙** — Compound citations of Christopher Allen's published works ([\[\[Minimum Viable Architecture\]\]⊙](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [\[\[Progressive Trust\]\]⊙](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to [IFP](../)'s architectural decisions.
 
 ## Three Knowledge Domains
 
@@ -33,13 +33,13 @@ This patch contains **27 patch-native nodes⊙** (born here) and **72 grafted no
 
 Start anywhere that interests you. If you want a guided path:
 
-1. **Glosses** — Read [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) and [\[\[Agent as Human Proxy in Protocol Exchange\]\]](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html) to see how garden glosses reframe familiar IFP concepts.
+1. **Glosses** — Read [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) and [\[\[Agent as Human Proxy in Protocol Exchange\]\]](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html) to see how garden glosses reframe familiar [IFP](../) concepts.
 
 2. **Models** — Read [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html) to see how a model form captures structural relationships.
 
-3. **Convictions** — Read [\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) to see how IFP's core insight maps to a conviction form.
+3. **Convictions** — Read [\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) to see how [IFP](../)'s core insight maps to a conviction form.
 
-4. **Connections** — Read [\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html) to see how IFP's identity model connects to Self-Sovereign Identity principles that predate IFP.
+4. **Connections** — Read [\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html) to see how [IFP](../)'s identity model connects to Self-Sovereign Identity principles that predate [IFP](../).
 
 ---
 
@@ -50,7 +50,7 @@ Start anywhere that interests you. If you want a guided path:
 | What You See | What It Means |
 |---|---|
 | [\[\[Node Name\]\]](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) | [**Grafted node**](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) — copied from the source garden into this patch. Click to navigate. |
-| [\[\[Node Name\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) | **Patch-native node** — born in this garden patch, not grafted from upstream. This patch is its garden home. |
+| [\[\[Node Name\]\]⊙](glosses/Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html) | [**Patch-native node**](glosses/Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html) — born in this garden patch, not grafted from upstream. This patch is its garden home. |
 | [\[\[Node Name\]\]↑](NODES.html) | [**Upstream node**](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html) — exists in the source garden but was not grafted into this patch. Click for its summary on the [Node Directory](NODES.html) page. |
 | \[\[Node Name\]\] | [**Ghost link**](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html) — a reference to a node that does not exist yet. A stake in the ground marking where a node could grow. |
 | \[\[Node Name\]\]↗ *(planned)* | A reference to a node in **somebody else's published garden** — a different gardener's version of the same or related concept. |
@@ -74,14 +74,14 @@ Each node belongs to a **form type** that determines its structural contract —
 
 All [\[\[form type definitions\]\]](forms/index.html), [\[\[models\]\]](models/index.html), [\[\[glosses\]\]](glosses/index.html), [\[\[inquiries\]\]](inquiries/index.html), [\[\[patterns\]\]](patterns/index.html), [\[\[principles\]\]](principles/index.html), [\[\[convictions\]\]](convictions/index.html), [\[\[citations\]\]](citations/index.html), and [\[\[values\]\]](values/index.html) are browsable by section.
 
-The source garden has additional form types not represented in this patch — either because no IFP-relevant instances exist yet, or because the form type is still maturing:
+The source garden has additional form types not represented in this patch — either because no [IFP](../)-relevant instances exist yet, or because the form type is still maturing:
 
 | Form Type | Core Question | Why Not Included |
 |---|---|---|
-| [\[\[**Case**\]\]↑](NODES.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
+| [\[\[**Case**\]\]↑](NODES.html#:~:text=Case%20Form) | "What happened when we tried X?" | No [IFP](../) implementations to document yet |
 | [\[\[**Reference**\]\]↑](NODES.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
 | [\[\[**Research**\]\]↑](NODES.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
-| [\[\[**Scenario**\]\]↑](NODES.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
+| [\[\[**Scenario**\]\]↑](NODES.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | [IFP](../) deployment scenarios could be valuable future additions |
 | [\[\[**Skill**\]\]↑](NODES.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
 | [\[\[**Opus**\]\]](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
 
@@ -93,7 +93,7 @@ For the full concept, see [\[\[Garden Patch as Composable Knowledge Fragment\]\]
 
 ### Patches as Forks
 
-Grafted nodes in a patch are **forks** of their source garden originals. As the patch grows — new connections to IFP content, refined explanations, additional context — the forked nodes diverge from their upstream versions. These changes can be **merged back** to the source garden, carrying insights discovered through the patch context. The patch is not a static copy; it is a living branch of the knowledge graph.
+Grafted nodes in a patch are **forks** of their source garden originals. As the patch grows — new connections to [IFP](../) content, refined explanations, additional context — the forked nodes diverge from their upstream versions. These changes can be **merged back** to the source garden, carrying insights discovered through the patch context. The patch is not a static copy; it is a living branch of the knowledge graph.
 
 This is analogous to a git fork: the patch starts as a subset of the source garden, develops in its own context, and produces changes that can flow upstream when ready.
 

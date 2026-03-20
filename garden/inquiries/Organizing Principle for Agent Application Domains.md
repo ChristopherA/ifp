@@ -5,7 +5,7 @@ brief_summary: "IFP-11 describes eleven application platforms (Friend Zone, Baza
 tagline: "What principle should organize the taxonomy of agent application domains?"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

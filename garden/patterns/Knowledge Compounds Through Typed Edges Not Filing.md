@@ -6,7 +6,7 @@ tagline: "Typed edges create compounding knowledge — filing creates accumulati
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Patterns](index.html)
+← [Garden Patch Home](../) · [Patterns](index.html)
 
 
 - is_a::[\[\[Pattern Form\]\]](../forms/Pattern%20Form.html)

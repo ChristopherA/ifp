@@ -1,4 +1,4 @@
-← [Garden Patch Home](README.html)
+← [Garden Patch Home](./)
 
 # AGENTS.md — Garden Patch for IFP
 
@@ -14,7 +14,7 @@ This is not part of the IFP specifications. It is an alternative lens that revea
 
 Read these files to orient yourself:
 
-- **[README.md](README.html)** — What the garden patch is, how it connects to IFP, reading order
+- **[README.md](./)** — What the garden patch is, how it connects to IFP, reading order
 - **[NODES.md](NODES.html)** — Complete node directory: grafted, patch-native⊙, and upstream↑ nodes
 - **[\[\[Form Type\]\]](forms/Form%20Type.html)** — What form types are and how the type system works
 - **[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Definitions: node, edge, predicate, form type

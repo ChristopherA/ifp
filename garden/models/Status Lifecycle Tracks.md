@@ -5,7 +5,7 @@ brief_summary: "Three status tracks for three kinds of knowledge work. Maturity 
 tagline: "Three status tracks for three kinds of knowledge work — maturity, curation, and processing"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

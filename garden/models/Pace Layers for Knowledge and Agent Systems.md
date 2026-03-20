@@ -5,7 +5,7 @@ brief_summary: "Stewart Brand's six pace layers — fashion, commerce, infrastru
 tagline: "Fast learns, slow remembers — forced synchronization across different rates of change destroys systems"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

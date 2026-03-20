@@ -6,7 +6,7 @@ tagline: "Identity owned by the individual — the first non-Deep Context Archit
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Domains](index.html)
+← [Garden Patch Home](../) · [Domains](index.html)
 
 
 - is_a::[\[\[Domain Form\]\]](../forms/Domain%20Form.html)

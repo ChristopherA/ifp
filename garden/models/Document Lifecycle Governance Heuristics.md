@@ -6,7 +6,7 @@ tagline: "Wiki split/merge/delete heuristics applied to garden tending and agent
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

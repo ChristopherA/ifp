@@ -5,7 +5,7 @@ brief_summary: "Model of how initially voluntary digital choices accumulate into
 tagline: "How voluntary digital choices accumulate into coercive dependencies with prohibitive exit costs"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

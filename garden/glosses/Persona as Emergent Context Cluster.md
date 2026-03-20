@@ -5,7 +5,7 @@ brief_summary: "In Inter-Face Protocol, a persona is a coherent subset of a pers
 tagline: "Personas reflect how human interests naturally cluster, not how systems categorize people"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

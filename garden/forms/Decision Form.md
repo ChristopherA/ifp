@@ -5,7 +5,7 @@ brief_summary: "Defines the Decision form type: a recorded choice with reasoning
 tagline: "Why did we choose this over the alternatives? — the structural contract for decision forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

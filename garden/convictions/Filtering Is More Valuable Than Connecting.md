@@ -5,7 +5,7 @@ brief_summary: "The core conviction behind Inter-Face Protocol: the scarce resou
 tagline: "The scarce resource is human attention, not human connection"
 ---
 
-← [Garden Patch Home](../README.html) · [Convictions](index.html)
+← [Garden Patch Home](../) · [Convictions](index.html)
 
 
 - is_a::[\[\[Conviction Form\]\]](../forms/Conviction%20Form.html)

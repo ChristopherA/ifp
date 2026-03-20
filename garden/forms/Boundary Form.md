@@ -5,7 +5,7 @@ brief_summary: "Defines the Boundary form type: a declaration of what an agent m
 tagline: "Where does this system's authority end? — the structural contract for boundary forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

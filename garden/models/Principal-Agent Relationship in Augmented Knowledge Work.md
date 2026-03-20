@@ -6,7 +6,7 @@ tagline: "How principal authority maps to vault owner, Claude sessions, rules, a
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

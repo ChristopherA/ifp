@@ -5,7 +5,7 @@ brief_summary: "The gossip-as-filter concept produces two opposing outputs: sile
 tagline: "Gossip filtering produces silence for humans and noise for agents — same mechanism, opposing metrics"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[[\[Inquiry Form\]]](../forms/Inquiry%20Form.html)

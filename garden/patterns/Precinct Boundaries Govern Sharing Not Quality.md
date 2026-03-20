@@ -5,7 +5,7 @@ brief_summary: "Garden-precinct nodes are context-independent and designed for s
 tagline: "Garden nodes share freely because they strip context; vault notes stay protected because they carry it"
 ---
 
-← [Garden Patch Home](../README.html) · [Patterns](index.html)
+← [Garden Patch Home](../) · [Patterns](index.html)
 
 - is_a::[Pattern Form](../forms/Pattern%20Form.html)
 - has_status::[Seed Stage](../forms/Seed%20Stage.html)

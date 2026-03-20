@@ -5,7 +5,7 @@ brief_summary: "In Inter-Face Protocol, 'gossip' is not chatter — it is a filt
 tagline: "Gossip filters attention rather than broadcasting information"
 ---
 
-← [Garden Patch Home](../README.html) · [Glosses](index.html)
+← [Garden Patch Home](../) · [Glosses](index.html)
 
 
 - is_a::[\[\[Gloss Form\]\]](../forms/Gloss%20Form.html)

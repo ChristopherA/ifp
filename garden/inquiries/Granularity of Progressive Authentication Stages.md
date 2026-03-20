@@ -5,7 +5,7 @@ brief_summary: "IFP defines four authentication levels (shared secret, signed, v
 tagline: "Do four discrete authentication levels capture the right trust boundaries for agent protocols?"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

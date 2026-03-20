@@ -6,7 +6,7 @@ tagline: "Is there a 'Dunbar number' for living documents — a point where main
 formatted: "2026-03-14"
 ---
 
-← [Garden Patch Home](../README.html) · [Inquiries](index.html)
+← [Garden Patch Home](../) · [Inquiries](index.html)
 
 
 - is_a::[\[\[Inquiry Form\]\]](../forms/Inquiry%20Form.html)

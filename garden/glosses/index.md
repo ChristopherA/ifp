@@ -1,4 +1,4 @@
-← [Garden Patch Home](../README.html)
+← [Garden Patch Home](../)
 
 # Glosses
 
@@ -20,7 +20,9 @@ Interpretive definitions that frame concepts through a broader lens.
 
 **[\[\[Gossip as Social Sensing Filter\]\]⊙](Gossip%20as%20Social%20Sensing%20Filter.html)** — Gossip filters attention rather than broadcasting information
 
-**[\[\[Grafted Node as Transplanted Knowledge in a Garden Patch\]\]](Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node transplanted into a garden patch, whether from the source garden or grown new
+**[\[\[Grafted Node as Transplanted Knowledge in a Garden Patch\]\]](Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node copied from the source garden into a garden patch, where it grows in new context
+
+**[\[\[Patch-Native Node as Original Knowledge in a Garden Patch\]\]](Patch-Native%20Node%20as%20Original%20Knowledge%20in%20a%20Garden%20Patch.html)** — A node born in a garden patch — this patch is its garden home
 
 **[\[\[Persona as Emergent Context Cluster\]\]⊙](Persona%20as%20Emergent%20Context%20Cluster.html)** — Personas reflect how human interests naturally cluster, not how systems categorize people
 

@@ -5,7 +5,7 @@ brief_summary: "Schegloff's four repair types mapped to agent protocol behaviors
 tagline: "Four repair types from conversation analysis map directly to agent error-correction protocol design"
 ---
 
-← [Garden Patch Home](../README.html) · [Models](index.html)
+← [Garden Patch Home](../) · [Models](index.html)
 
 
 - is_a::[\[\[Model Form\]\]](../forms/Model%20Form.html)

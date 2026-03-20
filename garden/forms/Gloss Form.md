@@ -5,7 +5,7 @@ brief_summary: "Defines the Gloss form type: an interpretive annotation anchored
 tagline: "What does this specific source or concept mean? — the structural contract for gloss forms"
 ---
 
-← [Garden Patch Home](../README.html) · [Form Definitions](index.html)
+← [Garden Patch Home](../) · [Form Definitions](index.html)
 
 
 - is_a::[\[\[Form Type\]\]](Form%20Type.html)

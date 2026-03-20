@@ -21,6 +21,8 @@ This patch contains **25 patch-native nodes⊙** (born here) and **74 grafted no
 
 **Citations** — Compound citations of Christopher Allen's published works ([\[\[Minimum Viable Architecture\]\]](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [\[\[Progressive Trust\]\]](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to [IFP](../)'s architectural decisions.
 
+Browse the complete **[Node Directory](NODES.html)** for every node in this patch — grafted, patch-native⊙, and upstream↑.
+
 ## Three Knowledge Domains
 
 - **[\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html)** — Architecture for personal knowledge systems that preserve captured reasoning through typed forms, predicate edges, and progressive disclosure.

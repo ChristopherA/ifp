@@ -10,7 +10,7 @@ A conventional review would produce a document: "here are my thoughts on IFP." I
 
 This approach is grounded in [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — the decision to capture reasoning as typed forms connected by predicates rather than as prose, tags, or databases. Typed forms make reasoning traversable; predicates make it navigable; progressive disclosure makes it fit in context windows. An AI agent can follow the graph to understand not just what someone knows, but *how they think* — which patterns they trust, which principles they hold non-negotiable, which questions remain open.
 
-For the full concept, see [\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html).
+For the full concept, see [\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html). For where this leads — thousands of independent gardens sharing nodes peer-to-peer with cryptographic trust and full attribution — see [\[\[Thousand Gardens with Autonomous Trust\]\]⊙](scenarios/Thousand%20Gardens%20with%20Autonomous%20Trust.html).
 
 ## Where to Start
 

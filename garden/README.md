@@ -8,7 +8,7 @@ This is not a critique. It is a **dialogue** — showing how the same ideas look
 
 ## What's In This Patch
 
-This patch contains **27 patch-native nodes⊙** (born here) and **72 grafted nodes** (copied from the source garden), plus form definitions, domain pages, and citations.
+This patch contains **25 patch-native nodes⊙** (born here) and **74 grafted nodes** (copied from the source garden), plus form definitions, domain pages, and citations.
 
 **Patch-native nodes⊙** — Created specifically for this garden patch from [IFP](../) content:
 
@@ -19,7 +19,7 @@ This patch contains **27 patch-native nodes⊙** (born here) and **72 grafted no
 
 **Grafted nodes** — Copies from the source garden covering [\[\[progressive trust\]\]](principles/Progressive%20Disclosure%20Over%20Eager%20Loading.html), [\[\[principal-agent relationships\]\]](models/Principal-Agent%20Relationship%20in%20Augmented%20Knowledge%20Work.html), [\[\[coercion resistance\]\]](models/Coercion%20Resistance%20as%20Meta-Lens.html), [\[\[collaboration mechanics\]\]](convictions/Authentic%20Collaboration%20Requires%20Agency.html), and more. These show that [IFP](../)'s concepts connect to a network of related ideas across identity, governance, and protocol design.
 
-**Citations⊙** — Compound citations of Christopher Allen's published works ([\[\[Minimum Viable Architecture\]\]⊙](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [\[\[Progressive Trust\]\]⊙](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to [IFP](../)'s architectural decisions.
+**Citations** — Compound citations of Christopher Allen's published works ([\[\[Minimum Viable Architecture\]\]](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html) and [\[\[Progressive Trust\]\]](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)) with analysis and insights showing how these frameworks apply to [IFP](../)'s architectural decisions.
 
 ## Three Knowledge Domains
 

@@ -10,7 +10,7 @@ Complete listing of every node referenced in this garden patch — whether it li
 | ⊙ | **Patch-native** — born in this patch; this is its garden home |
 | ↑ | **Upstream** — exists in the source garden but not grafted here |
 
-**72 grafted nodes** · **27 patch-native⊙ nodes** · **136 upstream↑ nodes documented** · 42 unlocated references (ghost links or informal references)
+**74 grafted nodes** · **25 patch-native⊙ nodes** · **136 upstream↑ nodes documented** · 42 unlocated references (ghost links or informal references)
 
 ---
 
@@ -81,12 +81,6 @@ These nodes were created specifically for this garden patch. This patch is their
 ### Principles⊙
 
 **[\[\[Auditable Intermediaries Over Silent Proxies\]\]⊙](principles/Auditable%20Intermediaries%20Over%20Silent%20Proxies.html)** — Intermediaries must be auditable, not invisible
-
-### Citations⊙
-
-**[\[\[Allen (2023) Minimum Viable Architecture\]\]⊙](citations/Allen%20(2023)%20Minimum%20Viable%20Architecture/Allen%20(2023)%20Minimum%20Viable%20Architecture.html)** — Compound citation with analysis and insights
-
-**[\[\[Allen (2024) Progressive Trust\]\]⊙](citations/Allen%20(2024)%20Progressive%20Trust/Allen%20(2024)%20Progressive%20Trust.html)** — Compound citation with analysis and insights
 
 ---
 

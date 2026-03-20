@@ -42,14 +42,15 @@ Start anywhere that interests you. If you want a guided path:
 
 ## How to Read Garden Nodes
 
-### Four Kinds of Links
+### Five Kinds of Links
 
 | What You See | What It Means |
 |---|---|
 | [\[\[Node Name\]\]](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) | [**Grafted node**](glosses/Grafted%20Node%20as%20Transplanted%20Knowledge%20in%20a%20Garden%20Patch.html) — this node is present in this garden patch. Click to navigate to it. |
-| ↑[\[\[Node Name\]\]](UPSTREAM.html) | [**Upstream node**](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html) — this node exists in the source garden but was not grafted into this patch. Click to see its summary on the [Upstream References](UPSTREAM.html) page. |
+| [\[\[Node Name\]\]↑](UPSTREAM.html) | [**Upstream node**](glosses/Upstream%20Node%20as%20Source%20Garden%20Reference.html) — this node exists in the source garden but was not grafted into this patch. Click to see its summary on the [Upstream References](UPSTREAM.html) page. |
 | \[\[Node Name\]\] | [**Ghost link**](glosses/Ghost%20Link%20as%20Unplanted%20Garden%20Stake.html) — a reference to a node that does not exist yet. A stake in the ground marking where a node could grow. |
-| ↗\[\[Node Name\]\] *(planned)* | A reference to a node in **somebody else's published garden** — not the source garden, but a different gardener's version of the same or related concept. Marker symbol under review. |
+| \[\[Node Name\]\]↗ *(planned)* | A reference to a node in **somebody else's published garden** — not the source garden, but a different gardener's version of the same or related concept. Marker symbol under review. |
+| [Link text](https://example.com) | **Regular link** — a standard web link to an external website, document, or resource. No brackets. |
 
 ### Form Types
 
@@ -73,11 +74,11 @@ The source garden has additional form types not represented in this patch — ei
 
 | Form Type | Core Question | Why Not Included |
 |---|---|---|
-| [↑\[\[**Case**\]\]](UPSTREAM.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
-| [↑\[\[**Reference**\]\]](UPSTREAM.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
-| [↑\[\[**Research**\]\]](UPSTREAM.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
-| [↑\[\[**Scenario**\]\]](UPSTREAM.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
-| [↑\[\[**Skill**\]\]](UPSTREAM.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
+| [\[\[**Case**\]\]↑](UPSTREAM.html#:~:text=Case%20Form) | "What happened when we tried X?" | No IFP implementations to document yet |
+| [\[\[**Reference**\]\]↑](UPSTREAM.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
+| [\[\[**Research**\]\]↑](UPSTREAM.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
+| [\[\[**Scenario**\]\]↑](UPSTREAM.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | IFP deployment scenarios could be valuable future additions |
+| [\[\[**Skill**\]\]↑](UPSTREAM.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
 | [\[\[**Opus**\]\]](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
 
 ### Predicate Links

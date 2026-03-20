@@ -1,10 +1,12 @@
+← [Garden Patch Home](README.html)
+
 # Upstream References
 
 **Upstream nodes** are nodes that exist in the source garden but were not grafted into this garden patch. Each entry below shows the node name, form type, and brief summary from the source garden.
 
-When you see a link marked with **⊙** in a garden node, it points here. The ⊙ means the node is upstream — it exists in the source garden but is not present in this patch. Click to read a summary of what it covers.
+When you see a link marked with **↑** in a garden node, it points here. The ↑ means the node is upstream — it exists in the source garden but is not present in this patch. Click to read a summary of what it covers.
 
-**134 upstream nodes documented.** 42 references could not be located (may be ghost links or informal references).
+**136 upstream nodes documented.** 42 references could not be located (may be ghost links or informal references).
 
 ## Deep Context Architecture
 
@@ -63,6 +65,8 @@ When you see a link marked with **⊙** in a garden node, it points here. The �
 **Progressive Summary Before Substance**: Pattern for navigating large knowledge graphs within small context windows — check summary fields first to assess relevance, then load full nodes on demand, following edges only as needed. Validated by the first garden: summary-based matching produced 151 accurate matches versus 287 false positives from keyword search.
 
 **Source Adapter for Heterogeneous Imports**: Each content source (X API, email threading, web scraping) gets its own extraction adapter, then a common vault normalization step maps the result to garden conventions. Source-specific complexity stays in the adapter; the garden receives consistent notes. Three adapter responsibilities: field mapping, artifact cleanup, and content-type classification.
+
+**Structured Disagreement Through Persona Review**: Single-perspective AI outputs hide blind spots that multiple persona reviewers expose. Three independent implementations validate the pattern: polarity-paired historical thinkers with deliberation protocols, culturally diverse reflection personas for perspective-taking, and professional role personas with domain expertise. The mechanism is not 'more opinions' but structured opposition — each reviewer has declared strengths and blind spots, and the protocol forces engagement with disagreement before allowing consensus.
 
 **Still Knowledge, Moving Action**: Pattern resolving the restlessness problem in actionability-based personal knowledge management systems — separate the dynamic action layer (workstreams, projects) from the stable knowledge layer (notes, research, garden nodes). Knowledge stays put; action reorganizes freely.
 
@@ -128,6 +132,8 @@ When you see a link marked with **⊙** in a garden node, it points here. The �
 
 **Note Titles as APIs**: Glosses Andy Matuschak's claim that note titles function as APIs — stable abstractions usable as reference handles. The garden extends this by observing that different form types answer structurally different questions, so the shape of a good title API varies by form. Three naming traditions (wiki, pattern language, evergreen notes) converge on this insight.
 
+**Research as Workflow Not Precinct**: Research is a workflow that moves information from vault precinct (capture, citation) through analysis into garden precinct (typed nodes with structural contracts), not a third knowledge zone requiring its own precinct. A Research Precinct would fragment the graph by separating methodology claims from domain claims despite shared evidence infrastructure.
+
 **PARA as Actionability-First Design**: Interprets PARA (Projects, Areas, Resources, Archives) as an actionability-first organizational method — four categories sorting information by urgency rather than topic. Maps PARA to our vault, identifies the gap: no connection fabric, no epistemic differentiation, and constant reorganization undermines long-term knowledge stability.
 
 ### Citation Form
@@ -160,11 +166,11 @@ When you see a link marked with **⊙** in a garden node, it points here. The �
 
 **Deep Context Garden Conventions**: Practical conventions for the first deep context garden in this Obsidian vault. Hard line between tags (flat classification, no graph edges) and links (graph edges). Two-namespace tag system: type/ for document category, status/ for maturity. Topic tags explicitly rejected — wikilinks produce graph edges instead.
 
-**Deep Context Implementation Roadmap**: Iteration-by-iteration plan for building a Deep Context garden inside an Obsidian vault. Defines four phases — Foundation, Seed Graph, Content Migration, Publishing — each independently valuable. Uses predicate::[\[\[target\]\]⊙](EXTERNAL.html#:~:text=target) typed relations and targets an hour-a-day tending rhythm with agent assistance between sessions.
+**Deep Context Implementation Roadmap**: Iteration-by-iteration plan for building a Deep Context garden inside an Obsidian vault. Defines four phases — Foundation, Seed Graph, Content Migration, Publishing — each independently valuable. Uses predicate::[\[\[target\]\]↑](EXTERNAL.html#:~:text=target) typed relations and targets an hour-a-day tending rhythm with agent assistance between sessions.
 
 **Structural Elements Within Forms**: Reference for knowledge types that don't warrant their own form type — ADR, Narrative, Warrant, Signal, Commitment, Lexicon entry, Tension/Paradox. Each has a home inside existing forms. Answers 'where does X go?' for the seven types that failed the standalone document test.
 
-**Typed Relations as Simple Graphs in Plain Markdown**: predicate::[\[\[Target\]\]⊙](EXTERNAL.html#:~:text=Target) typed relations turn markdown files into a directed labeled graph with no database or schema. Plain wikilinks answer \
+**Typed Relations as Simple Graphs in Plain Markdown**: predicate::[\[\[Target\]\]↑](EXTERNAL.html#:~:text=Target) typed relations turn markdown files into a directed labeled graph with no database or schema. Plain wikilinks answer \
 
 ### Research Form
 
@@ -208,11 +214,11 @@ When you see a link marked with **⊙** in a garden node, it points here. The �
 
 **Artifact Predicate for Binary Metadata**: The artifact:: predicate links a sidecar metadata file to the binary it describes, making the relationship explicit and graph-traversable. Agents find metadata for any binary by checking for a sidecar with artifact:: pointing to it.
 
-**Body Predicates for Meeting Attendees**: Meeting attendees are recorded as body predicates (attendee::[\[\[Person Name\]\]⊙](EXTERNAL.html#:~:text=Person%20Name)) instead of YAML frontmatter lists. More verbose for large meetings but graph-traversable, enabling queries like 'which meetings did [\[\[Person\]\]⊙](EXTERNAL.html#:~:text=Person) attend?' Person names as wikilinks create connections to Person Notes.
+**Body Predicates for Meeting Attendees**: Meeting attendees are recorded as body predicates (attendee::[\[\[Person Name\]\]↑](EXTERNAL.html#:~:text=Person%20Name)) instead of YAML frontmatter lists. More verbose for large meetings but graph-traversable, enabling queries like 'which meetings did [\[\[Person\]\]↑](EXTERNAL.html#:~:text=Person) attend?' Person names as wikilinks create connections to Person Notes.
 
 **Classification via Predicates Not Tags**: Classification uses body-level typed relations (is_a::, has_status::) instead of YAML tags. The general litmus test: is the value a fixed scalar or a connection to a defined concept? Scalars go in frontmatter fields, connections go in typed relations, subject matter goes in wikilinks. Tags produce sets; links produce graphs.
 
-**Custom Python Generator for Typed Relations**: Chose a custom Python static site generator (~150 lines, four-stage pipeline) over Quartz, Jekyll, Eleventy, and Pandoc for publishing a garden with predicate::[\[\[target\]\]⊙](EXTERNAL.html#:~:text=target) typed relations. Standard markdown parsers ignore wikilinks, typed inline relations, and typed block-level relations — the three syntax patterns the garden depends on. A single-file generator with no external parser dependencies handles exactly what's needed.
+**Custom Python Generator for Typed Relations**: Chose a custom Python static site generator (~150 lines, four-stage pipeline) over Quartz, Jekyll, Eleventy, and Pandoc for publishing a garden with predicate::[\[\[target\]\]↑](EXTERNAL.html#:~:text=target) typed relations. Standard markdown parsers ignore wikilinks, typed inline relations, and typed block-level relations — the three syntax patterns the garden depends on. A single-file generator with no external parser dependencies handles exactly what's needed.
 
 **Deep Context as an Architecture for Captured Reasoning**: The decision to capture personal reasoning as typed markdown forms connected by predicates — not as fine-tuned models, retrieval-augmented documents, or tagged notes. Typed forms with structural contracts make reasoning traversable by agents; predicates make it navigable; progressive disclosure makes it fit in context windows.
 

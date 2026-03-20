@@ -29,7 +29,7 @@ An Opus is reserved for substantial intellectual works that merit compound treat
 
 **Is not an Opus**: A quick social post. An email reply. A meeting note. A clipping of someone else's work (use Citation Form). A single pattern within a pattern language (use Pattern Form).
 
-**Graduating to Opus**: Authored content in Authored/ can graduate to Garden/opuses/ when it warrants compound treatment (analysis, insights, expression tracking). Lighter authored content stays in Authored/.
+**Graduating to Opus**: Authored content in Authored/ can graduate to [Garden/opuses/](../) when it warrants compound treatment (analysis, insights, expression tracking). Lighter authored content stays in Authored/.
 
 ## Recursive Nesting
 

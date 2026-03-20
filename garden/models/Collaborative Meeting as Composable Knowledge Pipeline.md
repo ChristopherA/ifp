@@ -64,12 +64,12 @@ Four sub-stages, each with its own skill:
 
 The stage where meeting content feeds the garden. Five sub-stages:
 - **Consequence triage**: Walk through each call outcome, route to destination (this workstream, garden-foundation, future workstream, meeting notes only). One item at a time with AskUserQuestion.
-- **Resource capture**: Resources mentioned → Tools/ (software), Clippings/ (articles), Garden/ (concepts with 3+ independent validations). Resources Shared section becomes a table with vault wikilinks.
+- **Resource capture**: Resources mentioned → Tools/ (software), Clippings/ (articles), [Garden/](../) (concepts with 3+ independent validations). Resources Shared section becomes a table with vault wikilinks.
 - **Garden node seeding**: Call observations that map to form types → seed in source garden. Peter's gossip duality observation became an inquiry. Jerry's neobooks concept became a gloss. Three-source validation (Nyk's council + Peter's personas + agency-agents) became a pattern.
 - **Patch grafting**: New source garden nodes → convert links, graft to patch, update index pages.
 - **Repatriation**: General-purpose nodes created in the patch → copy back to source garden. Forked improvements → merge back where they add value without creating ghost links.
 
-**Composable parts**: Consequence triage protocol, resource routing rules (Tools/ vs Clippings/ vs Garden/), three-source validation signal, link conversion scripts, repatriation checklist
+**Composable parts**: Consequence triage protocol, resource routing rules (Tools/ vs Clippings/ vs [Garden/](../)), three-source validation signal, link conversion scripts, repatriation checklist
 
 ### 6. Report-Out
 

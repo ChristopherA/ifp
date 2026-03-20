@@ -88,7 +88,7 @@ These nodes were copied from the source garden into this patch.
 
 ### Forms
 
-**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in Garden/boundaries/.
+**[\[\[Boundary Form\]\]](forms/Boundary%20Form.html)** — Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in [Garden/boundaries/](boundaries/index.html).
 
 **[\[\[Citation Form\]\]](forms/Citation%20Form.html)** — Defines the Citation form type: a structured dossier on a single work containing bibliographic entry, summary, key points, key quotes, influence, sources, and relations. Named as Author (Year) Abbreviated Title. Atomic at Seed stage, graduating to compound (analysis.md, insights.md, Renditions/, Archives/) as analysis deepens. Append-only.
 
@@ -96,25 +96,25 @@ These nodes were copied from the source garden into this patch.
 
 **[\[\[Decision Form\]\]](forms/Decision%20Form.html)** — Defines the Decision form type: a recorded choice with reasoning, alternatives considered, and consequences. Structural contract requires Context, Decision, Consequences, and Alternatives Considered sections in order. Distinguished from cases (which narrate what happened) by being forward-looking and from principles by being situation-specific.
 
-**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — Defines the Domain form type: a navigational and structural index for a field of knowledge — its scope, key nodes, open questions, and connections to other domains. A gardener's workbench for working within a knowledge area. 3 nodes in Garden/domains/.
+**[\[\[Domain Form\]\]](forms/Domain%20Form.html)** — Defines the Domain form type: a navigational and structural index for a field of knowledge — its scope, key nodes, open questions, and connections to other domains. A gardener's workbench for working within a knowledge area. 3 nodes in [Garden/domains/](domains/index.html).
 
 **[\[\[Evergreen Stage\]\]](forms/Evergreen%20Stage.html)** — Defines the Evergreen Stage: a mature garden node that is well-linked, trustworthy, and stable across multiple editing sessions. Highest confidence for agent retrieval. Content has been validated through citation by other nodes, tested against sources, and requires no structural revision. Borrows from Matuschak's evergreen notes concept.
 
 **[\[\[Form Type\]\]](forms/Form%20Type.html)** — A form type is a knowledge object category with a known internal structure — a contract about what sections it contains and what question it answers. 17 form types are defined across five categories (Orientation, Structural, Action, Generative, Governance).
 
-**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — Defines the Gloss form type: an interpretive annotation anchored to specific sources. Thesis-driven synthesis with organized citations. The atomic unit of interpretation. 12 nodes in Garden/glosses/.
+**[\[\[Gloss Form\]\]](forms/Gloss%20Form.html)** — Defines the Gloss form type: an interpretive annotation anchored to specific sources. Thesis-driven synthesis with organized citations. The atomic unit of interpretation. 12 nodes in [Garden/glosses/](glosses/index.html).
 
 **[\[\[Growing Stage\]\]](forms/Growing%20Stage.html)** — Defines the Growing Stage, the active tending phase where nodes gain structure, links, and editorial attention. A growing node demonstrates its structural contract and has been revisited at least once, but remains incomplete or untested. Most nodes spend the majority of their lifecycle here. Mid-confidence for retrieval.
 
-**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — Defines the Inquiry form type: a thesis-driven investigation that marshals evidence, proposes hypotheses, and directs questions at specific people. The primary generative form — inquiries produce cases, patterns, and references. 11 nodes in Garden/inquiries/.
+**[\[\[Inquiry Form\]\]](forms/Inquiry%20Form.html)** — Defines the Inquiry form type: a thesis-driven investigation that marshals evidence, proposes hypotheses, and directs questions at specific people. The primary generative form — inquiries produce cases, patterns, and references. 11 nodes in [Garden/inquiries/](inquiries/index.html).
 
 **[\[\[Model Form\]\]](forms/Model%20Form.html)** — Defines the Model form type: a structural representation showing elements, relationships, boundaries, and feedback loops. How things relate to each other. Evolving as understanding grows. Models are explanatory (how things work), distinct from patterns (what to do) and scenarios (what might happen).
 
 **[\[\[Opus Form\]\]](forms/Opus%20Form.html)** — Defines the Opus form type: a compound garden node for the author's own substantial intellectual works. Lead file contains the work itself (living document), supported by analysis.md, insights.md, and sub-folders for Expressions (published venues), Renditions (drafts and derived versions), and Archives (binary artifacts). Opuses nest recursively. Attribution uses role-specific predicates grounded in the principal-agent framework.
 
-**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — Defines the Pattern form type: a problem-solution pair in Alexandrian form with context, forces in tension, solution, consequences, and connections. Validated or invalidated by cases. 16 nodes in Garden/patterns/.
+**[\[\[Pattern Form\]\]](forms/Pattern%20Form.html)** — Defines the Pattern form type: a problem-solution pair in Alexandrian form with context, forces in tension, solution, consequences, and connections. Validated or invalidated by cases. 16 nodes in [Garden/patterns/](patterns/index.html).
 
-**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — Defines the Principle form type: a decision constraint derived from values that compresses patterns and experience into actionable heuristics. What must we always or never do. Stable; refined through cases but rarely overturned. 7 instances in Garden/principles/.
+**[\[\[Principle Form\]\]](forms/Principle%20Form.html)** — Defines the Principle form type: a decision constraint derived from values that compresses patterns and experience into actionable heuristics. What must we always or never do. Stable; refined through cases but rarely overturned. 7 instances in [Garden/principles/](principles/index.html).
 
 **[\[\[Protocol Form\]\]](forms/Protocol%20Form.html)** — Defines the Protocol form type: a specification for multi-party coordination across trust boundaries. Distinguished from a process by who must agree — a protocol works only if all parties follow it. Scope includes human coordination methods alongside technical protocols.
 
@@ -447,7 +447,7 @@ These nodes exist in the source garden but were not grafted into this patch. Whe
 
 ### Form Type
 
-**Boundary Form**: Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in Garden/boundaries/.
+**Boundary Form**: Defines the Boundary form type: a declaration of what an agent may and may not decide. Not what the right choice is, not how to make it, but who holds authority. Amendable through deliberative process, never unilaterally. 1 instance in [Garden/boundaries/](boundaries/index.html).
 
 **Case Form**: Defines the Case form type: a specific narrative with outcome recording what was attempted, what resulted, and what was learned. Immutable — history doesn't change, though interpretation may.
 

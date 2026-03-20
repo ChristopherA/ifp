@@ -33,7 +33,7 @@ The vault satisfies all three conditions for meaningful authority:
 
 **Legibility** — The vault owner can observe what Claude does and comprehend why. Session logs record actions. Learning loops capture process insights. WORKSTATE.md tracks current task and progress. The `AskUserQuestion` tool surfaces decisions that require human judgment. Nothing happens invisibly.
 
-**Boundaries** — Claude operates within constraints the vault owner established. Rules define imperatives (what must and must not happen). Skills define capabilities (what Claude can do). Processes define workflows (how multi-step operations proceed). The `paths:` trigger system loads constraints contextually — Garden/ files get garden rules, meeting files get meeting rules.
+**Boundaries** — Claude operates within constraints the vault owner established. Rules define imperatives (what must and must not happen). Skills define capabilities (what Claude can do). Processes define workflows (how multi-step operations proceed). The `paths:` trigger system loads constraints contextually — [Garden/](../) files get garden rules, meeting files get meeting rules.
 
 **Override** — The vault owner can intervene at any time. The `AskUserQuestion` tool creates approval gates. The commit protocol requires human sign-off. The `directed_at::` predicate on inquiry forms flags questions requiring human judgment. Session exit checkpoints verify state before closing. The vault owner can revoke any conferral by editing rules.
 

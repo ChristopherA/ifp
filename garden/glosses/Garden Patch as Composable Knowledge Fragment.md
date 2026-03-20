@@ -54,7 +54,7 @@ Patches are composable fragments. Two patches from different source gardens can 
 
 ## This Garden Patch
 
-The `garden/` folder in this repository is a garden patch from Christopher Allen's [\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html) garden, placed alongside Peter Kaminski's [Inter-Face Protocol](../../) specifications. It contains 74 grafted nodes and 25 patch-native⊙ nodes across glosses, models, inquiries, patterns, principles, convictions, decisions, boundaries, citations, and values.
+The [garden/](../) folder in this repository is a garden patch from Christopher Allen's [\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html) garden, placed alongside Peter Kaminski's [Inter-Face Protocol](../../) specifications. It contains 74 grafted nodes and 25 patch-native⊙ nodes across glosses, models, inquiries, patterns, principles, convictions, decisions, boundaries, citations, and values.
 
 ## Sources
 

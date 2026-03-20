@@ -1,6 +1,6 @@
 ← [Garden Patch Home](./)
 
-# AGENTS.md — Garden Patch for IFP
+# AGENTS.md — Garden Patch for [IFP](../)
 
 Orientation for AI agents working with this garden patch.
 
@@ -8,13 +8,13 @@ Orientation for AI agents working with this garden patch.
 
 A **garden patch** — a portable, self-contained subset of Christopher Allen's Deep Context Architecture garden, applied alongside the Inter-Face Protocol specifications. See [\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html) for the concept.
 
-This is not part of the IFP specifications. It is an alternative lens that reveals connections between IFP's design decisions and broader patterns in identity, trust, collaboration, and protocol design.
+This is not part of the [IFP](../) specifications. It is an alternative lens that reveals connections between [IFP](../)'s design decisions and broader patterns in identity, trust, collaboration, and protocol design.
 
 ## Before Working With This Garden
 
 Read these files to orient yourself:
 
-- **[README.md](./)** — What the garden patch is, how it connects to IFP, reading order
+- **[README.md](./)** — What the garden patch is, how it connects to [IFP](../), reading order
 - **[NODES.md](NODES.html)** — Complete node directory: grafted, patch-native⊙, and upstream↑ nodes
 - **[\[\[Form Type\]\]](forms/Form%20Type.html)** — What form types are and how the type system works
 - **[\[\[Deep Context Graph Vocabulary\]\]](glosses/Deep%20Context%20Graph%20Vocabulary.html)** — Definitions: node, edge, predicate, form type
@@ -85,7 +85,7 @@ When adding a node to this garden patch:
    - **Inquiries**: Descriptive noun phrases about the question ("Trust Layer Activation Criteria")
    - All names: two-word minimum, no articles, no verbs, spell out terms fully
 
-3. **Place the file** in the form-type subfolder (e.g., `garden/models/`, `garden/glosses/`)
+3. **Place the file** in the form-type subfolder (e.g., [garden/models/](models/), [garden/glosses/](glosses/))
 
 4. **Include required metadata**:
    - Frontmatter: `created`, `author`, `brief_summary` (250-350 chars), `tagline` (10-20 words)
@@ -123,8 +123,8 @@ See [NODES.md](NODES.html) for the complete node directory.
 
 ## Key Points for Agents
 
-- Garden files live in `garden/` with form-type subfolders. IFP specs live at the repository root. Do not mix them.
-- Reference IFP specs by relative path (`../../ifp-1-philosophy.md`), not wikilink.
+- Garden files live in [garden/](./) with form-type subfolders. [IFP](../) specs live at the [repository root](../). Do not mix them.
+- Reference [IFP](../) specs by relative path (`../../ifp-1-philosophy.md`), not wikilink.
 - Preserve the voice and intent of existing nodes. If something seems wrong, create an Inquiry node rather than silently correcting.
 - Attribution matters. Use `cites_work_by::` for others' works, note the origin of ideas.
 - This patch belongs to Christopher Allen. Changes should be discussed before committing.

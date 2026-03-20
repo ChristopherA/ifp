@@ -8,7 +8,7 @@ This is not a critique. It is a **dialogue** — showing how the same ideas look
 
 ## What's In This Patch
 
-This patch contains **25 patch-native nodes⊙** (born here) and **74 grafted nodes** (copied from the source garden), plus form definitions, domain pages, and citations.
+This patch contains **[25 patch-native nodes⊙](NODES.html#patch-native-nodes)** (born here) and **[74 grafted nodes](NODES.html)** (copied from the source garden), plus form definitions, domain pages, and citations.
 
 **Patch-native nodes⊙** — Created specifically for this garden patch from [IFP](../) content:
 

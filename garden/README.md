@@ -1,16 +1,34 @@
 # A Garden Patch for Inter-Face Protocol
 
-This is a **garden patch** — a portable, self-contained collection of typed knowledge nodes placed alongside the [Inter-Face Protocol](../) specifications. It expresses [IFP](../) concepts through [\[\[Deep Context Architecture\]\]](domains/Deep%20Context%20Architecture.html) garden forms, revealing connections to broader patterns in identity, trust, collaboration, and protocol design.
+This is a **garden patch** — a portable collection of typed knowledge nodes placed alongside the [Inter-Face Protocol](../) specifications. It does not modify Peter's specs. It is a **dialogue** — showing how [IFP](../)'s design decisions connect to broader patterns in identity, trust, collaboration, and protocol design.
 
-A garden patch carries everything needed to read it: form type definitions, domain pages, nodes from the source garden, new nodes seeded from the target content, and citations pointing to canonical source URLs. It does not modify the content it sits alongside — Peter's specs remain untouched.
+## Why a Garden?
 
-This is not a critique. It is a **dialogue** — showing how the same ideas look through a different lens, and where [IFP](../)'s design decisions connect to decades of work on human agency, progressive trust, and decentralized systems.
+The [IFP](../) specifications describe *what* the protocol does. This garden captures the *reasoning* behind it — and reveals connections the specs alone cannot show.
+
+A conventional review would produce a document: "here are my thoughts on IFP." Instead, this garden expresses those thoughts as **typed knowledge forms** — models, principles, patterns, convictions, glosses, inquiries — each with a defined structural contract and explicit connections to other forms. The result is not a document but a **navigable graph** where every concept declares what kind of thing it is, how it relates to other concepts, and where its reasoning comes from.
+
+This approach is grounded in [\[\[Deep Context as an Architecture for Captured Reasoning\]\]](decisions/Deep%20Context%20as%20an%20Architecture%20for%20Captured%20Reasoning.html) — the decision to capture reasoning as typed forms connected by predicates rather than as prose, tags, or databases. Typed forms make reasoning traversable; predicates make it navigable; progressive disclosure makes it fit in context windows. An AI agent can follow the graph to understand not just what someone knows, but *how they think* — which patterns they trust, which principles they hold non-negotiable, which questions remain open.
+
+For the full concept, see [\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html).
+
+## Where to Start
+
+Start anywhere that interests you. If you want a guided path:
+
+1. **Glosses** — Read [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) and [\[\[Agent as Human Proxy in Protocol Exchange\]\]](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html) to see how garden glosses reframe familiar [IFP](../) concepts.
+
+2. **Models** — Read [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html) to see how a model form captures structural relationships.
+
+3. **Convictions** — Read [\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) to see how [IFP](../)'s core insight maps to a conviction form.
+
+4. **Connections** — Read [\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html) to see how [IFP](../)'s identity model connects to Self-Sovereign Identity principles that predate [IFP](../).
 
 ## What's In This Patch
 
-This patch contains **[25 patch-native nodes⊙](NODES.html#patch-native-nodes)** (born here) and **[74 grafted nodes](NODES.html#grafted-nodes)** (copied from the source garden), plus form definitions, domain pages, and citations.
+This patch contains **[25 patch-native nodes⊙](NODES.html#patch-native-nodes)** (born here from [IFP](../) content) and **[74 grafted nodes](NODES.html#grafted-nodes)** (copied from the source garden), plus form definitions, domain pages, and citations.
 
-**Patch-native nodes⊙** — Created specifically for this garden patch from [IFP](../) content:
+**Patch-native nodes⊙** — Created specifically for this garden patch:
 
 - **Glosses⊙** — Interpretive definitions of [IFP](../)'s key concepts: [\[\[Gossip as Social Sensing Filter\]\]⊙](glosses/Gossip%20as%20Social%20Sensing%20Filter.html), [\[\[Agent as Human Proxy in Protocol Exchange\]\]⊙](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html), [\[\[Persona as Emergent Context Cluster\]\]⊙](glosses/Persona%20as%20Emergent%20Context%20Cluster.html), [\[\[Disclosure Tier as Information Sharing Boundary\]\]⊙](glosses/Disclosure%20Tier%20as%20Information%20Sharing%20Boundary.html), [\[\[Capability as Advertised Agent Function\]\]⊙](glosses/Capability%20as%20Advertised%20Agent%20Function.html), [\[\[Relay as Accountable Store-and-Forward Intermediary\]\]⊙](glosses/Relay%20as%20Accountable%20Store-and-Forward%20Intermediary.html), [\[\[Recommendation as Surfaced Opportunity\]\]⊙](glosses/Recommendation%20as%20Surfaced%20Opportunity.html)
 - **Models⊙** — [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]⊙](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html), [\[\[Disclosure Tier Hierarchy for Persona-Peer Relationships\]\]⊙](models/Disclosure%20Tier%20Hierarchy%20for%20Persona-Peer%20Relationships.html), [\[\[Progressive Authentication as Trust Deepening\]\]⊙](models/Progressive%20Authentication%20as%20Trust%20Deepening.html), [\[\[Social Conversation Phases as Protocol Semantics\]\]⊙](models/Social%20Conversation%20Phases%20as%20Protocol%20Semantics.html)
@@ -30,18 +48,6 @@ Browse the complete **[Node Directory](NODES.html)** for every node in this patc
 - **[\[\[Self-Sovereign Identity\]\]](domains/Self-Sovereign%20Identity.html)** — Individual control of digital identity through principal authority, agency law, and coercion resistance.
 
 - **[\[\[Synpraxis\]\]](domains/Synpraxis.html)** — How independent agents achieve outcomes together across varying degrees of integration — from coordination through cooperation to collaboration.
-
-## Where to Start
-
-Start anywhere that interests you. If you want a guided path:
-
-1. **Glosses** — Read [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) and [\[\[Agent as Human Proxy in Protocol Exchange\]\]](glosses/Agent%20as%20Human%20Proxy%20in%20Protocol%20Exchange.html) to see how garden glosses reframe familiar [IFP](../) concepts.
-
-2. **Models** — Read [\[\[Conversation Temperature as Protocol Cadence Spectrum\]\]](models/Conversation%20Temperature%20as%20Protocol%20Cadence%20Spectrum.html) to see how a model form captures structural relationships.
-
-3. **Convictions** — Read [\[\[Filtering Is More Valuable Than Connecting\]\]](convictions/Filtering%20Is%20More%20Valuable%20Than%20Connecting.html) to see how [IFP](../)'s core insight maps to a conviction form.
-
-4. **Connections** — Read [\[\[Authority Flows from the Person\]\]](principles/Authority%20Flows%20from%20the%20Person.html) to see how [IFP](../)'s identity model connects to Self-Sovereign Identity principles that predate [IFP](../).
 
 ---
 
@@ -81,7 +87,7 @@ The source garden has additional form types not represented in this patch — ei
 | Form Type | Core Question | Why Not Included |
 |---|---|---|
 | [\[\[**Case**\]\]↑](NODES.html#:~:text=Case%20Form) | "What happened when we tried X?" | No [IFP](../) implementations to document yet |
-| [\[\[**Reference**\]\]↑](NODES.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The IFP specs themselves serve this role |
+| [\[\[**Reference**\]\]↑](NODES.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The [IFP](../) specs themselves serve this role |
 | [\[\[**Research**\]\]↑](NODES.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
 | [\[\[**Scenario**\]\]↑](NODES.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | [IFP](../) deployment scenarios could be valuable future additions |
 | [\[\[**Skill**\]\]↑](NODES.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
@@ -91,15 +97,9 @@ The source garden has additional form types not represented in this patch — ei
 
 Lines like `relates_to::[[Target]]` are **labeled directed edges** in the knowledge graph. The predicate name (before `::`) says *how* two nodes relate; the wikilink (after `::`) identifies the target node. These typed edges are the structure that makes a garden more than a folder of documents.
 
-For the full concept, see [\[\[Garden Patch as Composable Knowledge Fragment\]\]](glosses/Garden%20Patch%20as%20Composable%20Knowledge%20Fragment.html).
-
 ### Patches as Forks
 
 Grafted nodes in a patch are **forks** of their source garden originals. As the patch grows — new connections to [IFP](../) content, refined explanations, additional context — the forked nodes diverge from their upstream versions. These changes can be **merged back** to the source garden, carrying insights discovered through the patch context. The patch is not a static copy; it is a living branch of the knowledge graph.
-
-This is analogous to a git fork: the patch starts as a subset of the source garden, develops in its own context, and produces changes that can flow upstream when ready.
-
-For a complete listing of every node — grafted, patch-native⊙, and upstream↑ — see the **[Node Directory](NODES.html)**.
 
 ---
 

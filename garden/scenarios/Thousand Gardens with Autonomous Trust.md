@@ -8,7 +8,7 @@ tagline: "What happens when gardens become autonomous cryptographic objects that
 ← [Garden Patch Home](../) · [Scenarios](index.html)
 
 
-- is_a::[\[\[Scenario Form\]\]↑](../NODES.html#:~:text=Scenario%20Form)
+- is_a::[\[\[Scenario Form\]\]](../forms/Scenario%20Form.html)
 - has_status::[\[\[Seed Stage\]\]](../forms/Seed%20Stage.html)
 - in_domain::[\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html)
 

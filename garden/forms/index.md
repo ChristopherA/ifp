@@ -34,8 +34,10 @@ Structural contracts defining what each form type answers and how it is organize
 
 **[\[\[Protocol Form\]\]](Protocol%20Form.html)** — How do independent parties coordinate reliably? — the structural contract for protocol forms
 
+**[\[\[Scenario Form\]\]](Scenario%20Form.html)** — What might happen if these forces play out? — the structural contract for scenario forms
+
 **[\[\[Seed Stage\]\]](Seed%20Stage.html)** — Raw capture, unprocessed, low confidence — where every garden node begins
 
 **[\[\[Value Form\]\]](Value%20Form.html)** — What do we care about? — the structural contract for value forms
 
-*17 nodes in this section.*
+*18 nodes in this section.*

@@ -78,9 +78,10 @@ Each node belongs to a **form type** that determines its structural contract —
 | [\[\[**Gloss**\]\]](forms/Gloss%20Form.html) | "What does this concept mean?" | [\[\[Gossip as Social Sensing Filter\]\]](glosses/Gossip%20as%20Social%20Sensing%20Filter.html) |
 | [\[\[**Inquiry**\]\]](forms/Inquiry%20Form.html) | "What should we think about X?" | [\[\[Group Deliberation Mechanism\]\]](inquiries/Group%20Deliberation%20Mechanism.html) |
 | [\[\[**Boundary**\]\]](forms/Boundary%20Form.html) | "Where does authority end?" | [\[\[Delegated Decision Authority Spectrum\]\]](boundaries/Delegated%20Decision%20Authority%20Spectrum.html) |
+| [\[\[**Scenario**\]\]](forms/Scenario%20Form.html) | "What might happen if these forces play out?" | [\[\[Thousand Gardens with Autonomous Trust\]\]⊙](scenarios/Thousand%20Gardens%20with%20Autonomous%20Trust.html) |
 | [\[\[**Domain**\]\]](forms/Domain%20Form.html) | "What knowledge area is this?" | [\[\[Synpraxis\]\]](domains/Synpraxis.html) |
 
-All [\[\[form type definitions\]\]](forms/index.html), [\[\[models\]\]](models/index.html), [\[\[glosses\]\]](glosses/index.html), [\[\[inquiries\]\]](inquiries/index.html), [\[\[patterns\]\]](patterns/index.html), [\[\[principles\]\]](principles/index.html), [\[\[convictions\]\]](convictions/index.html), [\[\[citations\]\]](citations/index.html), and [\[\[values\]\]](values/index.html) are browsable by section.
+All [\[\[form type definitions\]\]](forms/index.html), [\[\[models\]\]](models/index.html), [\[\[glosses\]\]](glosses/index.html), [\[\[inquiries\]\]](inquiries/index.html), [\[\[patterns\]\]](patterns/index.html), [\[\[principles\]\]](principles/index.html), [\[\[convictions\]\]](convictions/index.html), [\[\[citations\]\]](citations/index.html), [\[\[scenarios\]\]](scenarios/index.html), and [\[\[values\]\]](values/index.html) are browsable by section.
 
 The source garden has additional form types not represented in this patch — either because no [IFP](../)-relevant instances exist yet, or because the form type is still maturing:
 
@@ -89,7 +90,6 @@ The source garden has additional form types not represented in this patch — ei
 | [\[\[**Case**\]\]↑](NODES.html#:~:text=Case%20Form) | "What happened when we tried X?" | No [IFP](../) implementations to document yet |
 | [\[\[**Reference**\]\]↑](NODES.html#:~:text=Reference%20Form) | "What do I need to know about this domain?" | The [IFP](../) specs themselves serve this role |
 | [\[\[**Research**\]\]↑](NODES.html#:~:text=Research%20Form) | "What are we investigating?" | Inquiries serve the exploratory role here |
-| [\[\[**Scenario**\]\]↑](NODES.html#:~:text=Scenario%20Form) | "What might happen if these forces play out?" | [IFP](../) deployment scenarios could be valuable future additions |
 | [\[\[**Skill**\]\]↑](NODES.html#:~:text=Skill%20Form) | "How does an agent execute this reliably?" | Zero instances in the source garden — form type still maturing |
 | [\[\[**Opus**\]\]](forms/Opus%20Form.html) | "What am I saying here?" | Definition included; no instances in this context |
 

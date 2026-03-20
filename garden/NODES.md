@@ -611,50 +611,32 @@ These nodes exist in the source garden but were not grafted into this patch. Whe
 
 **Dimensions of Digital Coercion**: Four dimensions of coercive control online: attention (manufactured outrage), ergonomic (privacy trade-offs dressed as consent), trust (assumed benign intent without accountability), cultural (dominant norms as participation prerequisites). Coercion is structural — present in open-source ecosystems as much as commercial platforms.
 
-## Not Located
+## Ghost Links
 
-These references appear in the patch but could not be found in the source garden. They may be ghost links, informal references, or person/concept names.
+These wikilinks appear in the patch but reference nodes that do not exist yet — either in this patch or in the source garden. They mark where a node could grow.
+
+### Upstream Ghost Links (referenced in Synpraxis domain page)
 
 - Agency Before Collaboration
-- Annotated Citation
-- Autonomy
-- Choice Architecture
-- Coercion Resistance
-- Conviction
-- Coraline Ada Ehmke
-- Curated
-- Descriptive Slugs for Archive Binaries|descriptive slugs
-- Domain Name
-- Follow-Up Decision
-- Foundational Concept
-- Garden Node
-- Gordian Envelope as Agent Memory Layer|Gordian Envelope
 - Is Collaboration Always Superior to Cooperation
 - Is Consensus One Mechanism or Three
 - Is the Synpraxis Spectrum a True Continuum
-- Living Documents Over Static Publications|living documents
-- Name
-- Node
-- Node Name
-- Other Citation
-- Other Domain
-- Other Opus
-- Parent Note
-- Person
-- Person Name
 - Precondition Dependencies in Joint Action
 - Precondition Stack for Joint Action
-- Previous Decision
+
+### Other Ghost Links
+
+- Autonomy
+- Choice Architecture
+- Coercion Resistance
+- Curated
+- Descriptive Slugs for Archive Binaries
+- Gordian Envelope as Agent Memory Layer
 - Progressive Trust
-- Related Form
-- Related Pattern
-- Related Principle
-- Roy (2026) Words Without Consequence, from The Atlantic|Words Without Consequence
-- Series Title
-- Source
-- Source Document
-- Target
 - The Gardening Problem Returns
-- Value
-- target
+
+### People
+
+- Coraline Ada Ehmke
+- Roy (2026) Words Without Consequence, from The Atlantic
 

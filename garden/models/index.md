@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Models
 
 Structural representations showing how elements relate to each other.
@@ -30,6 +32,8 @@ Structural representations showing how elements relate to each other.
 
 **[Grounding Constraints Across Communication Media](Grounding%20Constraints%20Across%20Communication%20Media.html)** — Eight grounding constraints mapped across channels from face-to-face through structured APIs
 
+**[Collaborative Meeting as Composable Knowledge Pipeline](Collaborative%20Meeting%20as%20Composable%20Knowledge%20Pipeline.html)** — Seven composable stages from meeting to garden — each stage filters, each output feeds the next
+
 **[Pace Layers for Knowledge and Agent Systems](Pace%20Layers%20for%20Knowledge%20and%20Agent%20Systems.html)** — Brand's six civilization layers mapped to garden form types and agent platform components
 
-*15 nodes in this section.*
+*16 nodes in this section.*

@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Convictions
 
 Claims about how the world works, grounded in experience.

@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Citations
 
 Structured dossiers on published works with analysis and insights.

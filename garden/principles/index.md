@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Principles
 
 Standing constraints on what we must always or never do.

@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Patterns
 
 Recurring solutions that resolve specific tensions.
@@ -10,6 +12,8 @@ Recurring solutions that resolve specific tensions.
 
 **[Technology Paternalism Masks Coercion](Technology%20Paternalism%20Masks%20Coercion.html)** — When benevolent intent in system design masks systematic coercion across four layers
 
+**[Precinct Boundaries Govern Sharing Not Quality](Precinct%20Boundaries%20Govern%20Sharing%20Not%20Quality.html)** — Garden nodes share freely because they strip context; vault notes stay protected because they carry it
+
 **[Three-Part Enforcement Stack](Three-Part%20Enforcement%20Stack.html)** — Legal duties plus technical enforcement plus exit rights — remove any layer and accountability collapses
 
-*5 nodes in this section.*
+*6 nodes in this section.*

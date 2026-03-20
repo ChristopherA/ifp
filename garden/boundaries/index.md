@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Boundaries
 
 Declarations of where authority ends and who may decide what.

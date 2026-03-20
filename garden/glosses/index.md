@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Glosses
 
 Interpretive definitions that frame concepts through a broader lens.
@@ -32,4 +34,6 @@ Interpretive definitions that frame concepts through a broader lens.
 
 **[Vault Precinct](Vault%20Precinct.html)** — Operational knowledge capture, organization, and retrieval for daily work
 
-*15 nodes in this section.*
+**[Neobooks as Composable Knowledge Objects](Neobooks%20as%20Composable%20Knowledge%20Objects.html)** — Books replaced by composable knowledge objects — assembled and reassembled for different purposes
+
+*16 nodes in this section.*

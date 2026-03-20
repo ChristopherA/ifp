@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Values
 
 Orientations toward what matters — abstract commitments that shape principles.

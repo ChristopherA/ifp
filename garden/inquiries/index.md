@@ -1,3 +1,5 @@
+← [Garden Patch Home](../README.html)
+
 # Inquiries
 
 Open questions worth investigating, with possible directions.
@@ -28,4 +30,6 @@ Open questions worth investigating, with possible directions.
 
 **[When to Specify and When to Explore in Protocol Evolution](When%20to%20Specify%20and%20When%20to%20Explore%20in%20Protocol%20Evolution.html)** — When should a protocol commit to specification details vs leave space for implementation discovery?
 
-*13 nodes in this section.*
+**[Gossip Duality Between Human Silence and Agent Noise](Gossip%20Duality%20Between%20Human%20Silence%20and%20Agent%20Noise.html)** — Gossip filtering produces silence for humans and noise for agents — same mechanism, opposing metrics
+
+*14 nodes in this section.*

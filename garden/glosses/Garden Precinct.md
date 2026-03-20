@@ -24,7 +24,7 @@ The garden solves the problem of making knowledge retrievable, composable, and t
 - **16 form types** with structural contracts (Pattern, Model, Decision, Gloss, Inquiry, Reference, Principle, Protocol, Citation, Case, Conviction, Value, Domain, Boundary, Skill, Scenario)
 - **Growth stages** shared with the [\[\[Vault Precinct\]\]](Vault%20Precinct.html): Seed, Growing, Evergreen, Pruned
 - **Knowledge domains** that may span precincts: [\[\[Deep Context Architecture\]\]](../domains/Deep%20Context%20Architecture.html), [\[\[Self-Sovereign Identity\]\]](../domains/Self-Sovereign%20Identity.html)
-- **Folder structure**: `Garden/` with subfolders per form type (`patterns/`, `models/`, `decisions/`, etc.)
+- **Folder structure**: [Garden/](../) with subfolders per form type ([patterns/](../patterns/), [models/](../models/), [decisions/](../decisions/), etc.)
 
 ## Living Documents
 
